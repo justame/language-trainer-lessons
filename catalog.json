@@ -4,17 +4,17 @@
       "id": "arabic-getting-around",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
-      "path": "lessons/arabic-getting-around/1",
+      "path": "lessons/arabic-getting-around/2",
       "title": "Getting Around",
-      "version": "1"
+      "version": "2"
     },
     {
       "id": "arabic-starter",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
-      "path": "lessons/arabic-starter/4",
+      "path": "lessons/arabic-starter/5",
       "title": "Everyday Palestinian Arabic",
-      "version": "4"
+      "version": "5"
     }
   ],
   "schemaVersion": 1
