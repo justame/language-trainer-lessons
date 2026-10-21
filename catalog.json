@@ -1,0 +1,13 @@
+{
+  "lessons": [
+    {
+      "id": "arabic-starter",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-starter/2",
+      "title": "Everyday Palestinian Arabic",
+      "version": "2"
+    }
+  ],
+  "schemaVersion": 1
+}

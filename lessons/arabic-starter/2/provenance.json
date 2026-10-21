@@ -1,0 +1,2229 @@
+{
+  "textModel": "gemini-3.8-flash",
+  "audioModel": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "date": "2026-10-21",
+  "reviewStatus": "Awaiting user review; no audio approved",
+  "items": {
+    "coffee-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "قهوة",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾahwe"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "4ea5dd0204de1c21a83f289bb5418046142832d66a246c9475713a4b5e031a20",
+      "sha256": "3db05a5f7fdb8acf0e850f0af29a61712e9f3210b58fe7e4196b7f41bdfaaa69",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 83,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 108,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 83
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "coffee-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "قهوة",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾahwe"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "ee9b825c69e59e346d552720ea0b7228a2d5cda083af74c23dc8d893b9952638",
+      "sha256": "6fdb28e20a8616619f0cb14f9b9fcf516bb36c5682e0b1a9ba07f8c5a18c4ece",
+      "durationSeconds": 1.16,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 104,
+        "candidatesTokenCount": 29,
+        "totalTokenCount": 133,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 104
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 29
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "coffee-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "קפה",
+      "sha256": "c71fc8d86e8178c769e0d127dc24129b29aea4fb5684b4a47086e55f2b9ecd6f",
+      "reviewStatus": "Awaiting user review"
+    },
+    "coffee-please-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بدي قهوة، لو سمحت.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): biddi ʾahwe, law samaḥt"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "9c792576bad161aac646b64539c670dd64487027f3a13e6b3992b3d0ee06369b",
+      "sha256": "255840a1b2d4a2463f47a30bf69f279100255ff69981fc73f1fb76d95047ee45",
+      "durationSeconds": 1.64,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 97,
+        "candidatesTokenCount": 41,
+        "totalTokenCount": 138,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 97
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 41
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "coffee-please-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بدي قهوة، لو سمحت.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): biddi ʾahwe, law samaḥt"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "d5cc8ac518428bbd8f60bec528b04d7e1a9f00f9a4ff04c531a6222eb239295f",
+      "sha256": "63f1d9bebd193cc7f065cbbcfc380bfd6dafb772551805f41f17969c731dc442",
+      "durationSeconds": 2.2,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 118,
+        "candidatesTokenCount": 55,
+        "totalTokenCount": 173,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 118
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 55
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "coffee-please-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "אני רוצה קפה, בבקשה.",
+      "sha256": "5e85f1b43f0768c35558399fec3c75e0a5fa37d8b4bf7945931e1532fecccc0a",
+      "reviewStatus": "Awaiting user review"
+    },
+    "water-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "مي",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): mayy"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "850b21c721e93861d8d4bf57c98b90771c05ef1c29177eeb6194fe6dea7b9463",
+      "sha256": "29c002aaa4e9da40538e7a0e75f21d1d33a3136a1a4b49f5e1d66059fc5fe3c3",
+      "durationSeconds": 0.92,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 80,
+        "candidatesTokenCount": 23,
+        "totalTokenCount": 103,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 80
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 23
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "water-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "مي",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): mayy"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "5e8de35d9a6754b622a764bf6087061e0ff23fdd3a663a2d2ba864accfdd8fab",
+      "sha256": "33209362c2479d8ad2de6e42898fa0fa7b1c6cbd6831030e582d00d51cd3618c",
+      "durationSeconds": 1.08,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 101,
+        "candidatesTokenCount": 27,
+        "totalTokenCount": 128,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 101
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 27
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "water-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "מים",
+      "sha256": "a9e90788ebeb46d1e9fdfe82ee02d984fcf8e86f593ce986991b55cfa6fd846b",
+      "reviewStatus": "Awaiting user review"
+    },
+    "water-glass-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بدي كاسة مي باردة.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): biddi kāset mayy bārde"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "d8d4d8de048c5d702ad64cbca70783ba7a44f2f9a9fd7588c16068d50c0a6c1e",
+      "sha256": "56fb96523724f8bfbc59106a5adb7ee05a7e35a68344d2b5e349b62b0b6b30ba",
+      "durationSeconds": 1.6,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 94,
+        "candidatesTokenCount": 40,
+        "totalTokenCount": 134,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 94
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 40
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "water-glass-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بدي كاسة مي باردة.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): biddi kāset mayy bārde"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "e8f679a05cf6010d169e619f31b5bc1182988ddea2b190e486c0aa1bdd0bc183",
+      "sha256": "580158bfd021b23f42b68a5938ca80616b4540c9358667c8e571dfebfe712087",
+      "durationSeconds": 2.08,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 115,
+        "candidatesTokenCount": 52,
+        "totalTokenCount": 167,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 115
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 52
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "water-glass-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "אני רוצה כוס מים קרים.",
+      "sha256": "5da10b2c087e1e8697e2fd7dd4879e2c02ef406c1b3c53c3e164e082d556ef85",
+      "reviewStatus": "Awaiting user review"
+    },
+    "food-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أكل",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾakl"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "50672b1e26532369bcff795ac7edde63aa966fc1b65ca8cbe53517dc68c3da20",
+      "sha256": "5d32b5dd8813f563b4e2a35c7ae6456badea778ea31a51d023185214ecc2fbfb",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 82,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 107,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 82
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "food-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أكل",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾakl Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "2ed76e7f672eed8414a0503939b30fd7c41cd215d3d0ebc9d323b4f7e40ff1ca",
+      "sha256": "d0ad45e61c918eadec9ecd0e1d7ea73725d2d76195c2f22b965bf4ee847a4587",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 130,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 155,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 130
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "food-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "אוכל",
+      "sha256": "8917c46e5dac867cba23e30c0e3f3e9379e6c1e4bf9483b90157edb987d8e5c4",
+      "reviewStatus": "Awaiting user review"
+    },
+    "food-tasty-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "الأكل هون كتير زاكي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): el-ʾakl hōn ktīr zāki"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "dfd0c48059800749f5a2e83646a3998281bbd6600fb71c6da140a2a945580395",
+      "sha256": "0e41c3c2d786f5d185f0ed104a7f6234f062a737991cb2141575f1ad41a1d837",
+      "durationSeconds": 2.24,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 96,
+        "candidatesTokenCount": 56,
+        "totalTokenCount": 152,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 96
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 56
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "food-tasty-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "الأكل هون كتير زاكي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): el-ʾakl hōn ktīr zāki"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "44dd18cd0aae2a736f5923422254a3efe0af6cffbb57b5593643f08e3349ca9f",
+      "sha256": "3f0db6ba4adcbf1ee299df7e0ee82695a85feeac8d5efc0697ac513c7b288d16",
+      "durationSeconds": 2.48,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 117,
+        "candidatesTokenCount": 62,
+        "totalTokenCount": 179,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 117
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 62
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "food-tasty-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "האוכל פה מאוד טעים.",
+      "sha256": "9da36ff1a5332423dcdb7191b4ad9f09e7dcf3e3d329b2e673ea14e2f9bd80ab",
+      "reviewStatus": "Awaiting user review"
+    },
+    "house-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بيت",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): bēt"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "5839d77866448896a0b873cd47770f8707d4a3fcb7c18df9046a7f31a5a34870",
+      "sha256": "31a1b901288988e8f2d2677e9d7f9d85cb4d7b12d821335b0a3df699ef79c6ef",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 80,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 105,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 80
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "house-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بيت",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): bēt"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "06ceac26bdae627526697b0d12c7f6a2bf2c9333d2e49ed176da223ea475de85",
+      "sha256": "1b4768477b5b3d491a0c1c5310562b5da3be6c138c49910184e54ad650bf1752",
+      "durationSeconds": 1.12,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 101,
+        "candidatesTokenCount": 28,
+        "totalTokenCount": 129,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 101
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 28
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "house-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "בית",
+      "sha256": "ed9f4b94d7c2eb84ff84840131504b0f88071fa47f041ef10042de3aac7e53fa",
+      "reviewStatus": "Awaiting user review"
+    },
+    "house-going-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أنا رايح ع البيت هلق.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾana rāyeḥ ʿa-l-bēt hallaʾ"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "50bfe2aad9e2bfe7ee4099fc58b079cdb82b47e68079a93dcdb6b1a6021cec68",
+      "sha256": "cd21ef29de60fc02ebb2ed2e3d38fbd3e8e771b259087e3f2c4c87b5a6262b3b",
+      "durationSeconds": 1.76,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 104,
+        "candidatesTokenCount": 44,
+        "totalTokenCount": 148,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 104
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 44
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "house-going-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أنا رايح ع البيت هلق.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾana rāyeḥ ʿa-l-bēt hallaʾ"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "fb1da184bc8599d6e1e398684d734f8d522a4c1b183fb529950243623a41c75f",
+      "sha256": "350757ec3fd6f2a81dd2b628c098811afab7b53da68ec0e2e9f15f847a8db4c7",
+      "durationSeconds": 2.04,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 125,
+        "candidatesTokenCount": 51,
+        "totalTokenCount": 176,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 125
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 51
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "house-going-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "אני הולך הביתה עכשיו.",
+      "sha256": "11847bbce27dbbef20f2133cb9363fe0538910c6bdd495d3d005c8312749a849",
+      "reviewStatus": "Awaiting user review"
+    },
+    "street-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "شارع",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): šāreʿ"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "89c3f67792ca511c69af2ca30d8d04bd62f5fb6d640a3d97941fc8f07492b352",
+      "sha256": "e925fb3d09e2b086fa1ed1ce5465b64a8d3d84a1df594500251f16899dde74f4",
+      "durationSeconds": 1.2,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 83,
+        "candidatesTokenCount": 30,
+        "totalTokenCount": 113,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 83
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 30
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "street-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "شارع",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): šāreʿ Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "4632f341d836e06b5516c6072e5ca223fba4766ee5768b27ebe221e0d9e1e205",
+      "sha256": "6aebf32199417ac6425ace44340696ff704bb6727134639881114a37e0b4925c",
+      "durationSeconds": 1.32,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 131,
+        "candidatesTokenCount": 33,
+        "totalTokenCount": 164,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 131
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 33
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "street-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "רחוב",
+      "sha256": "5baa43f7c936b4d4b3946ca11cde230ac9f0f98e390cede0bc7c82f4c69611c8",
+      "reviewStatus": "Awaiting user review"
+    },
+    "street-quiet-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "الشارع هادا كتير هادي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): eš-šāreʿ hāda ktīr hādi"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "8c6ec518dcc0983638685df8e21571356373b9a4ded79f58b637bfbecd7f2689",
+      "sha256": "1e6a762cd327e8901f1098a99f3f12d9c55fa8c357e85d64885bab85e11abfd1",
+      "durationSeconds": 2.44,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 100,
+        "candidatesTokenCount": 61,
+        "totalTokenCount": 161,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 100
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 61
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "street-quiet-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "الشارع هادا كتير هادي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): eš-šāreʿ hāda ktīr hādi"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "a9d9690bff02e366cbd07df2bef7922716ff2d3603a4a7e31517da42276e1944",
+      "sha256": "02dbd51ed6971816ab6cc02601b84c6c13e1a4c236be4656a3e917bd036e4999",
+      "durationSeconds": 3.2,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 121,
+        "candidatesTokenCount": 80,
+        "totalTokenCount": 201,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 121
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 80
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "street-quiet-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "הרחוב הזה מאוד שקט.",
+      "sha256": "3aa98829c836f70cb7f5d1308907e75a78f8f014be50825b5396a5185be7b986",
+      "reviewStatus": "Awaiting user review"
+    },
+    "shop-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "دكان",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): dukkān"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "30ddc9a9e81cdb47215ecb446be3bfa2c5c29c14468c95b3e2dbdaa8d2527659",
+      "sha256": "7a2b25eacfa6816ccbf41b75eb5d111d47de4ad918a5286b3f479773972e6cc9",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 81,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 106,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 81
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "shop-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "دكان",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): dukkān"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "82308807300615f8a1ae509c242254460080255dbedcdab12071c3edfd2dd99a",
+      "sha256": "2ccc69e69acd4676f95d0b9a99d3a98a32152f471903d4df7c83d2a46e987847",
+      "durationSeconds": 1.4,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 102,
+        "candidatesTokenCount": 35,
+        "totalTokenCount": 137,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 102
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 35
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "shop-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "חנות, מכולת",
+      "sha256": "162ca43c8f4f974f7db48470e8ed1ce3aa79caac4a60cfd34f541de2e26c4ae6",
+      "reviewStatus": "Awaiting user review"
+    },
+    "shop-near-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "في دكان قريب من هون؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): fī dukkān ʾarīb min hōn?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "ba53e471e71aba39e59ebb5c053f67d2423ca1557731c87fe7ca1f94bd1fc893",
+      "sha256": "df3f5d266767bd8f55e4087d654c146f76459418c1c1aec651987c31653f9efd",
+      "durationSeconds": 1.76,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 96,
+        "candidatesTokenCount": 44,
+        "totalTokenCount": 140,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 96
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 44
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "shop-near-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "في دكان قريب من هون؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): fī dukkān ʾarīb min hōn?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "8ecc2071aa97eb134db3172a3f3e3c3d8ab3ed78795b314072a43ed7efe4af96",
+      "sha256": "35ea34953bc96cda66b3c382754f253ac69f3f955a34b78648e54678449e1eec",
+      "durationSeconds": 2.4,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 117,
+        "candidatesTokenCount": 60,
+        "totalTokenCount": 177,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 117
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 60
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "shop-near-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "יש מכולת קרובה לפה?",
+      "sha256": "87fddef012c90cb99d2e1eda481cfd7596ff0e16fe2488b99ca28dd1007e686c",
+      "reviewStatus": "Awaiting user review"
+    },
+    "today-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "اليوم",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): el-yōm"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "ecb5cbeeeef1a963dc0b9a11852ac96f5bb625225f14d6f3bf0e1b6fc0f1b869",
+      "sha256": "a3dcee1aa27b69d67f27feadc11f93407f02a22e9e07701f2008fda0786f61e1",
+      "durationSeconds": 1.04,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 84,
+        "candidatesTokenCount": 26,
+        "totalTokenCount": 110,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 84
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 26
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "today-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "اليوم",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): el-yōm Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "a88a3e370d9c1e4462d3a174bfb0313716b813c2cb58c544d2daa4ded544e5eb",
+      "sha256": "ada66fced05b05d6a43bc277f38c87a50cba7263749d074331377b599e9a019b",
+      "durationSeconds": 1.28,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 132,
+        "candidatesTokenCount": 32,
+        "totalTokenCount": 164,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 132
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 32
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "today-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "היום",
+      "sha256": "074ded176cb858060005ed8ef8fe11646182102f94f9ed7a3e78f802c2939da1",
+      "reviewStatus": "Awaiting user review"
+    },
+    "today-plan-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "شو بدك تعمل اليوم؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): šu biddak tiʿmal el-yōm?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "eb29327096daa30cecd841dec06f5dde0e1aef5cd07fa4f85c34249856a3f7db",
+      "sha256": "382c5144f35cd6a4be98a5b62fb39e754fac9648d05e28d81ccb36c1dd1cbe8f",
+      "durationSeconds": 1.56,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 97,
+        "candidatesTokenCount": 39,
+        "totalTokenCount": 136,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 97
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 39
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "today-plan-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "شو بدك تعمل اليوم؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): šu biddak tiʿmal el-yōm?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "e57b4dd49505ab6bfddd8a5c069b1bfd5f15e8a462c76f79e1075a2d7a43d5a4",
+      "sha256": "a840de9da18d17be92820c85e4719720a708c05fbc4f15c9f7c7a9468488b5a6",
+      "durationSeconds": 1.88,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 118,
+        "candidatesTokenCount": 47,
+        "totalTokenCount": 165,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 118
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 47
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "today-plan-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "מה אתה רוצה לעשות היום?",
+      "sha256": "83171e5958d7617cdf3c8e3a6781a41807d2f10be9012c8cd5d0f4baaa94698e",
+      "reviewStatus": "Awaiting user review"
+    },
+    "tomorrow-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بكرة",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): bukra"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "8feb6b94091e6b3627571d00c1ec6f41c6e347e1024705475de746301ddda8c9",
+      "sha256": "ce43b736c0676fde4d63f58e1c3e77e54da0eb725077031a9eda4501c2389113",
+      "durationSeconds": 1.2,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 81,
+        "candidatesTokenCount": 30,
+        "totalTokenCount": 111,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 81
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 30
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "tomorrow-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "بكرة",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): bukra Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "22141a1680c140b4b3bbc5d0588617e46111c0d3cf204a783983ba6b14824c60",
+      "sha256": "96bdbd28ee25b6abfc5951a8c1387a10d71b6f304497d2cc09fb29457b4c5213",
+      "durationSeconds": 1.32,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 129,
+        "candidatesTokenCount": 33,
+        "totalTokenCount": 162,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 129
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 33
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "tomorrow-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "מחר",
+      "sha256": "1df3f5b5b01892efd594e9462034e4ceb7729125e2abf2298056b430d312aefb",
+      "reviewStatus": "Awaiting user review"
+    },
+    "tomorrow-free-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أنا فاضي بكرة بعد الظهر.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾana fāḍi bukra baʿd eḍ-ḍuhur"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "830c3a7cc391d2249dfa65c6c8ff557f2c45b2df27a1317ca467ac018f351e05",
+      "sha256": "0dc973658c8f0a3048ce44008650735284461ea646a8b9fd661dfee25fcf23f0",
+      "durationSeconds": 1.88,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 105,
+        "candidatesTokenCount": 47,
+        "totalTokenCount": 152,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 105
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 47
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "tomorrow-free-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "أنا فاضي بكرة بعد الظهر.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): ʾana fāḍi bukra baʿd eḍ-ḍuhur"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "7d09e8f33a9327e1774ee6801edcd83e7cc8106660680204176c157fdb2f19bd",
+      "sha256": "28ab85488a47018138f2c1c81b023b003c3c424ae3a9d90209467ad4f755a497",
+      "durationSeconds": 3.48,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 126,
+        "candidatesTokenCount": 87,
+        "totalTokenCount": 213,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 126
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 87
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "tomorrow-free-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "אני פנוי מחר אחרי הצהריים.",
+      "sha256": "57a3c799720bccd15a1a6e4dd468f935e2f1656af21791d4456b107b7becde73",
+      "reviewStatus": "Awaiting user review"
+    },
+    "here-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "هون",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): hōn"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "798e1945a4c1732f341dbea7dd91dbee1fe2212a2eec95ac905c80904f72f46a",
+      "sha256": "e3c753444fd1796ec1ed8aa8439b28823be0eb5010136e6e9d2c84c45ad2b163",
+      "durationSeconds": 1.0,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 81,
+        "candidatesTokenCount": 25,
+        "totalTokenCount": 106,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 81
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 25
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "here-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "هون",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): hōn"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "50c6a9c703220b59bf08eb02975651b8ebd425e6766291715da2dc242342e675",
+      "sha256": "8d6619c7ce23dd01267876ba8b13cb6accce408ff6f25c22780f13bed203cdf8",
+      "durationSeconds": 1.16,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 102,
+        "candidatesTokenCount": 29,
+        "totalTokenCount": 131,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 102
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 29
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "here-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "פה, כאן",
+      "sha256": "0ea68f4f8200a18e3c6911702f361faa03b3735767de177c68e623aeaeabc96b",
+      "reviewStatus": "Awaiting user review"
+    },
+    "here-sit-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "تعال اقعد هون جنبي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): taʿāl uʾʿod hōn jambī"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "1d5dbe4227d5f5af3bd7b565a75bd33e95936794d2906492d605ff20f2fe7bc0",
+      "sha256": "4445de09f9456e75d15d04ddefa2d78d6050d56df5fab1fcbdc0a5008e0f9c08",
+      "durationSeconds": 2.12,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 95,
+        "candidatesTokenCount": 53,
+        "totalTokenCount": 148,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 95
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 53
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "here-sit-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "تعال اقعد هون جنبي.",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): taʿāl uʾʿod hōn jambī Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "d85eb2fd4ab97a0f9cd4ed71454fd77dd9235be8c020bd21100df98540339a8e",
+      "sha256": "70fc20e478987175ffe2f02447e7e0680f0e372f639630ed69aef5e7dd93058e",
+      "durationSeconds": 2.96,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 143,
+        "candidatesTokenCount": 74,
+        "totalTokenCount": 217,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 143
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 74
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "here-sit-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "בוא שב פה לידי.",
+      "sha256": "eb61bbd62ae1ccfd2e3c6ad1548014375c20f877fca37a8fbe187286d4b70f61",
+      "reviewStatus": "Awaiting user review"
+    },
+    "where-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "وين",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): wēn"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "b4b4429f6d7c9e2e8d299fedb6c23b40e79a5bf09f86541d84945aa00f506dce",
+      "sha256": "c40adb133b98a47558e3d23fe81a67931e78648f04737cab1e70598c00c1f5ef",
+      "durationSeconds": 1.08,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 80,
+        "candidatesTokenCount": 27,
+        "totalTokenCount": 107,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 80
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 27
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "where-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "وين",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): wēn Use a distinctly deliberate learner pace, approximately two thirds of ordinary speaking speed, with clear natural syllables and no extra leading or trailing silence."
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "39fb363712cd4e0f18d84e1825fa4ac3230425857aa32031c6a8fc88048cfbc8",
+      "sha256": "94509d604676b5699cc2547bb8073c1c90516eea0b0c7006b057d4f6e96e31e0",
+      "durationSeconds": 1.12,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 128,
+        "candidatesTokenCount": 28,
+        "totalTokenCount": 156,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 128
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 28
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "where-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "איפה, לאן",
+      "sha256": "981b44bffed204ef4e01d3e8f99ef4d4db25f2904d7b7af726a4a9b00b1a219d",
+      "reviewStatus": "Awaiting user review"
+    },
+    "where-going-normal.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "وين رايح هلق؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Comfortable everyday conversational pace; unhurried, clear, not fast. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): wēn rāyeḥ hallaʾ?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "252ac8cf6f30cd1eaa2a5a701eb58b1c0fe8b2e16eb8dd3d5ddf105f64d81e51",
+      "sha256": "f8427a85b8c6544a4e3c22b967418fd9ea261c0eca44386f64dc59fdc1373bc0",
+      "durationSeconds": 1.28,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 93,
+        "candidatesTokenCount": 32,
+        "totalTokenCount": 125,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 93
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 32
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "where-going-slow.wav": {
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Charon",
+      "request": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "وين رايح هلق؟",
+                "speechMetadata": {
+                  "style": "Natural URBAN PALESTINIAN colloquial Arabic, warm calm adult male. Qaf in everyday words such as coffee and close is a glottal stop, not formal q or Gulf g. Speaking slowly and clearly for a beginner to imitate. Use naturally slower articulation; preserve connected speech, stress, vowel quality and accent. Do not stretch sounds or add exaggerated pauses. Say only the exact transcript, once; no introductions, translations or extra words. Pronunciation guide (not to be spoken): wēn rāyeḥ hallaʾ?"
+                }
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "responseModalities": [
+            "AUDIO"
+          ],
+          "speechConfig": {
+            "voiceConfig": {
+              "voice": "Charon"
+            }
+          }
+        }
+      },
+      "requestSHA256": "dde21fd9352dd8e5ffa0dd3c751821a59f3a581874826f9258d95f3c501879b1",
+      "sha256": "7fd7aa409be6f0a90c01b14bf2c6a06866965804c830feee004cfbf4cf93ea61",
+      "durationSeconds": 1.96,
+      "mimeType": "audio/wav",
+      "usageMetadata": {
+        "promptTokenCount": 114,
+        "candidatesTokenCount": 49,
+        "totalTokenCount": 163,
+        "trafficType": "ON_DEMAND",
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 114
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "AUDIO",
+            "tokenCount": 49
+          }
+        ]
+      },
+      "reviewStatus": "Awaiting user listening review"
+    },
+    "where-going-he.aiff": {
+      "provider": "Apple macOS say",
+      "voice": "Carmit",
+      "text": "לאן אתה הולך עכשיו?",
+      "sha256": "fec6daaa7fccfe9414c0da8b03a0113523ffcb6f7d4f7f3f8edfa0e438c04c6f",
+      "reviewStatus": "Awaiting user review"
+    }
+  }
+}

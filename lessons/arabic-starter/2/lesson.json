@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "id": "arabic-starter",
+  "version": "2",
+  "title": "Everyday Palestinian Arabic",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "ar-PS",
+    "name": "Palestinian Arabic",
+    "dialect": "Urban Palestinian"
+  },
+  "reviewStatus": "Draft — awaiting human review.",
+  "items": [
+    {
+      "id": "ar-coffee",
+      "kind": "word",
+      "target": "قهوة",
+      "meaningHebrew": "קפה",
+      "transliteration": {
+        "latin": "ʾahwe",
+        "hebrew": "אַהְוֶה"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "coffee-normal.wav",
+        "slow": "coffee-slow.wav",
+        "hebrew": "coffee-he.aiff"
+      }
+    },
+    {
+      "id": "ar-coffee-please",
+      "kind": "sentence",
+      "target": "بدي قهوة، لو سمحت.",
+      "meaningHebrew": "אני רוצה קפה, בבקשה.",
+      "transliteration": {
+        "latin": "biddi ʾahwe, law samaḥt",
+        "hebrew": "בִּדִּי אַהְוֶה, לַו סַמַחְת"
+      },
+      "wordIDs": [
+        "ar-coffee"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "coffee-please-normal.wav",
+        "slow": "coffee-please-slow.wav",
+        "hebrew": "coffee-please-he.aiff"
+      }
+    },
+    {
+      "id": "ar-water",
+      "kind": "word",
+      "target": "مي",
+      "meaningHebrew": "מים",
+      "transliteration": {
+        "latin": "mayy",
+        "hebrew": "מַיּ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "water-normal.wav",
+        "slow": "water-slow.wav",
+        "hebrew": "water-he.aiff"
+      }
+    },
+    {
+      "id": "ar-water-glass",
+      "kind": "sentence",
+      "target": "بدي كاسة مي باردة.",
+      "meaningHebrew": "אני רוצה כוס מים קרים.",
+      "transliteration": {
+        "latin": "biddi kāset mayy bārde",
+        "hebrew": "בִּדִּי כַּאסֶת מַיּ בַּארְדֶה"
+      },
+      "wordIDs": [
+        "ar-water"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "water-glass-normal.wav",
+        "slow": "water-glass-slow.wav",
+        "hebrew": "water-glass-he.aiff"
+      }
+    },
+    {
+      "id": "ar-food",
+      "kind": "word",
+      "target": "أكل",
+      "meaningHebrew": "אוכל",
+      "transliteration": {
+        "latin": "ʾakl",
+        "hebrew": "אַכְּל"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "food-normal.wav",
+        "slow": "food-slow.wav",
+        "hebrew": "food-he.aiff"
+      }
+    },
+    {
+      "id": "ar-food-tasty",
+      "kind": "sentence",
+      "target": "الأكل هون كتير زاكي.",
+      "meaningHebrew": "האוכל פה מאוד טעים.",
+      "transliteration": {
+        "latin": "el-ʾakl hōn ktīr zāki",
+        "hebrew": "אֶל-אַכְּל הוֹן כְּתִיר זַאכִּי"
+      },
+      "wordIDs": [
+        "ar-food"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "food-tasty-normal.wav",
+        "slow": "food-tasty-slow.wav",
+        "hebrew": "food-tasty-he.aiff"
+      }
+    },
+    {
+      "id": "ar-house",
+      "kind": "word",
+      "target": "بيت",
+      "meaningHebrew": "בית",
+      "transliteration": {
+        "latin": "bēt",
+        "hebrew": "בֵּית"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "house-normal.wav",
+        "slow": "house-slow.wav",
+        "hebrew": "house-he.aiff"
+      }
+    },
+    {
+      "id": "ar-house-going",
+      "kind": "sentence",
+      "target": "أنا رايح ع البيت هلق.",
+      "meaningHebrew": "אני הולך הביתה עכשיו.",
+      "transliteration": {
+        "latin": "ʾana rāyeḥ ʿa-l-bēt hallaʾ",
+        "hebrew": "אַנַא רַאיֶח עַ-ל-בֵּית הַלַּא"
+      },
+      "wordIDs": [
+        "ar-house"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "house-going-normal.wav",
+        "slow": "house-going-slow.wav",
+        "hebrew": "house-going-he.aiff"
+      }
+    },
+    {
+      "id": "ar-street",
+      "kind": "word",
+      "target": "شارع",
+      "meaningHebrew": "רחוב",
+      "transliteration": {
+        "latin": "šāreʿ",
+        "hebrew": "שַׁארֶע"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "street-normal.wav",
+        "slow": "street-slow.wav",
+        "hebrew": "street-he.aiff"
+      }
+    },
+    {
+      "id": "ar-street-quiet",
+      "kind": "sentence",
+      "target": "الشارع هادا كتير هادي.",
+      "meaningHebrew": "הרחוב הזה מאוד שקט.",
+      "transliteration": {
+        "latin": "eš-šāreʿ hāda ktīr hādi",
+        "hebrew": "אֶש-שַׁארֶע הַאדַא כְּתִיר הַאדִי"
+      },
+      "wordIDs": [
+        "ar-street"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "street-quiet-normal.wav",
+        "slow": "street-quiet-slow.wav",
+        "hebrew": "street-quiet-he.aiff"
+      }
+    },
+    {
+      "id": "ar-shop",
+      "kind": "word",
+      "target": "دكان",
+      "meaningHebrew": "חנות, מכולת",
+      "transliteration": {
+        "latin": "dukkān",
+        "hebrew": "דֻכַּאן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "shop-normal.wav",
+        "slow": "shop-slow.wav",
+        "hebrew": "shop-he.aiff"
+      }
+    },
+    {
+      "id": "ar-shop-near",
+      "kind": "sentence",
+      "target": "في دكان قريب من هون؟",
+      "meaningHebrew": "יש מכולת קרובה לפה?",
+      "transliteration": {
+        "latin": "fī dukkān ʾarīb min hōn?",
+        "hebrew": "פִי דֻכַּאן אַרִיבּ מִן הוֹן?"
+      },
+      "wordIDs": [
+        "ar-shop"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "shop-near-normal.wav",
+        "slow": "shop-near-slow.wav",
+        "hebrew": "shop-near-he.aiff"
+      }
+    },
+    {
+      "id": "ar-today",
+      "kind": "word",
+      "target": "اليوم",
+      "meaningHebrew": "היום",
+      "transliteration": {
+        "latin": "el-yōm",
+        "hebrew": "אֶל-יוֹם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "today-normal.wav",
+        "slow": "today-slow.wav",
+        "hebrew": "today-he.aiff"
+      }
+    },
+    {
+      "id": "ar-today-plan",
+      "kind": "sentence",
+      "target": "شو بدك تعمل اليوم؟",
+      "meaningHebrew": "מה אתה רוצה לעשות היום?",
+      "transliteration": {
+        "latin": "šu biddak tiʿmal el-yōm?",
+        "hebrew": "שׁוּ בִּדַּכּ תִעְמַל אֶל-יוֹם?"
+      },
+      "wordIDs": [
+        "ar-today"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "today-plan-normal.wav",
+        "slow": "today-plan-slow.wav",
+        "hebrew": "today-plan-he.aiff"
+      }
+    },
+    {
+      "id": "ar-tomorrow",
+      "kind": "word",
+      "target": "بكرة",
+      "meaningHebrew": "מחר",
+      "transliteration": {
+        "latin": "bukra",
+        "hebrew": "בֻּכְּרַא"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "tomorrow-normal.wav",
+        "slow": "tomorrow-slow.wav",
+        "hebrew": "tomorrow-he.aiff"
+      }
+    },
+    {
+      "id": "ar-tomorrow-free",
+      "kind": "sentence",
+      "target": "أنا فاضي بكرة بعد الظهر.",
+      "meaningHebrew": "אני פנוי מחר אחרי הצהריים.",
+      "transliteration": {
+        "latin": "ʾana fāḍi bukra baʿd eḍ-ḍuhur",
+        "hebrew": "אַנַא פַאדִי בֻּכְּרַא בַּעְד אֶד-דֻּהֻר"
+      },
+      "wordIDs": [
+        "ar-tomorrow"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "tomorrow-free-normal.wav",
+        "slow": "tomorrow-free-slow.wav",
+        "hebrew": "tomorrow-free-he.aiff"
+      }
+    },
+    {
+      "id": "ar-here",
+      "kind": "word",
+      "target": "هون",
+      "meaningHebrew": "פה, כאן",
+      "transliteration": {
+        "latin": "hōn",
+        "hebrew": "הוֹן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "here-normal.wav",
+        "slow": "here-slow.wav",
+        "hebrew": "here-he.aiff"
+      }
+    },
+    {
+      "id": "ar-here-sit",
+      "kind": "sentence",
+      "target": "تعال اقعد هون جنبي.",
+      "meaningHebrew": "בוא שב פה לידי.",
+      "transliteration": {
+        "latin": "taʿāl uʾʿod hōn jambī",
+        "hebrew": "תַעַאל אֻאְעֹד הוֹן גַ'מְבִּי"
+      },
+      "wordIDs": [
+        "ar-here"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "here-sit-normal.wav",
+        "slow": "here-sit-slow.wav",
+        "hebrew": "here-sit-he.aiff"
+      }
+    },
+    {
+      "id": "ar-where",
+      "kind": "word",
+      "target": "وين",
+      "meaningHebrew": "איפה, לאן",
+      "transliteration": {
+        "latin": "wēn",
+        "hebrew": "וֵין"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "where-normal.wav",
+        "slow": "where-slow.wav",
+        "hebrew": "where-he.aiff"
+      }
+    },
+    {
+      "id": "ar-where-going",
+      "kind": "sentence",
+      "target": "وين رايح هلق؟",
+      "meaningHebrew": "לאן אתה הולך עכשיו?",
+      "transliteration": {
+        "latin": "wēn rāyeḥ hallaʾ?",
+        "hebrew": "וֵין רַאיֶח הַלַּא?"
+      },
+      "wordIDs": [
+        "ar-where"
+      ],
+      "audio": {
+        "provider": "Gemini 3.8 Flash TTS · Charon",
+        "slowMethod": "Separate Gemini synthesis; slow delivery instruction; no time stretching",
+        "normal": "where-going-normal.wav",
+        "slow": "where-going-slow.wav",
+        "hebrew": "where-going-he.aiff"
+      }
+    }
+  ]
+}
