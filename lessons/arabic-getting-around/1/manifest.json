@@ -1,0 +1,317 @@
+{
+  "files": [
+    {
+      "bytes": 32819,
+      "path": "ar-around-far-hebrew.mp3",
+      "sha256": "9ea61d6a3db43a3bcfabd9658ff603dc43fdf438f12160070927f92757d6ed0f"
+    },
+    {
+      "bytes": 35327,
+      "path": "ar-around-far-normal.mp3",
+      "sha256": "fbb625cb357a1b6f6745d9abdcff2ea3aa0eadd0ffd8058639ba610007c69626"
+    },
+    {
+      "bytes": 42014,
+      "path": "ar-around-far-sentence-hebrew.mp3",
+      "sha256": "07f89a1aeb1e65c30a6e063d7a50490bc2a24607b677daabe53645be5939c1bd"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-far-sentence-normal.mp3",
+      "sha256": "5e3379f452427c5ed53634b1498b25f6f09670e612265dc63ac2e0bb7fbc9dbb"
+    },
+    {
+      "bytes": 54553,
+      "path": "ar-around-far-sentence-slow.mp3",
+      "sha256": "7452bb9d4a6ccd25b5afafd52a8f85a87f47bbd6fc17b585091d80ea1a7d8abf"
+    },
+    {
+      "bytes": 45776,
+      "path": "ar-around-far-slow.mp3",
+      "sha256": "24289440c45b0f9d94298da81b465eb9c70f7a89f179a9d84d6db8d8060cb317"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-hotel-hebrew.mp3",
+      "sha256": "4b465df4a01f257e2afad932ab29a65769beca2822990b7692b1c8bcf22fe3a1"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-hotel-normal.mp3",
+      "sha256": "e54676e92a957860d02525c6b7b745bd747a51bc5f56e3510a02c5a43b893083"
+    },
+    {
+      "bytes": 47030,
+      "path": "ar-around-hotel-sentence-hebrew.mp3",
+      "sha256": "ce9f608a3ca96a1015d5d57c5214d301ca13c3050e6d5403fed56d5b55674eb1"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-hotel-sentence-normal.mp3",
+      "sha256": "b216ab681388434c03054e05e9e2759c080ffa9c731e495e88f94677e4861d5a"
+    },
+    {
+      "bytes": 59986,
+      "path": "ar-around-hotel-sentence-slow.mp3",
+      "sha256": "e5d4d9f492a7f918a7e9ef9381e2e62d059d09c25a5a5b1a48746fd625d1f175"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-hotel-slow.mp3",
+      "sha256": "47ba2e2a04d6a79ef05853d1c742f5e6ffbff81da496ac1556934cc4c0720ce8"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-left-hebrew.mp3",
+      "sha256": "34ec7877d63369c9f8d195b9f374e72e382783bb1d8a9966fdbbbd14845ea130"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-left-normal.mp3",
+      "sha256": "85ff83e94ae86ead33da99c4c5c9e871d4a1882b6f7aa22a87d548d824f5659e"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-left-sentence-hebrew.mp3",
+      "sha256": "e2788e32c17927fab6b00233ec72f8e7715c452f48c1e5d40adf78ab81eade14"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-left-sentence-normal.mp3",
+      "sha256": "dfae15da8e418a732dc524824db6ede0c99d7b76e0977b1b34b18de782d5cc1f"
+    },
+    {
+      "bytes": 61240,
+      "path": "ar-around-left-sentence-slow.mp3",
+      "sha256": "6e3d3b6add0ae9573b62c58fd8fa7cc73e39b132cc74be0bd3f81aad960a4322"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-left-slow.mp3",
+      "sha256": "5c8ac44986f52ac1c3f2277b8d1016fc4fd94174a62c649f1e8f1ea5a2880e5f"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-market-hebrew.mp3",
+      "sha256": "c7f606d8af825957671b818f45fd6a3fb1ccef5fa0651cf3e14e89f5ace5d7f6"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-market-normal.mp3",
+      "sha256": "caad7c63455a0e52e47eab295b7ee851389c003b3ec05ef98c644b6b7963d2f3"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-market-sentence-hebrew.mp3",
+      "sha256": "b518c4204440f17340a9949e5ef44d3609a975d622b38b8ad4fde40a796d623b"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-market-sentence-normal.mp3",
+      "sha256": "eb5b160dd2f7ef62ace5f7f9599c8f6850b3e2e387094401dcb12ef8018db05e"
+    },
+    {
+      "bytes": 52045,
+      "path": "ar-around-market-sentence-slow.mp3",
+      "sha256": "3efc0e7285c12149b2cae05ed0bb85311aa90cf15219c7cda5a4f16656d74692"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-market-slow.mp3",
+      "sha256": "69d0fde1d104fe4e32910aebf883187d336e26b3943e9ed4857d6858e18e0360"
+    },
+    {
+      "bytes": 31565,
+      "path": "ar-around-near-hebrew.mp3",
+      "sha256": "d7ab6510065d9a9e74a0b90ddc63b7d4c27db195c0cfb877d3247343865c3ff8"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-near-normal.mp3",
+      "sha256": "2730d344689bf0ec08cc0524fa28cd7ded3ba1807fd73823d556ebcbffcaf0d1"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-near-sentence-hebrew.mp3",
+      "sha256": "2c6999c09123d67ee5271ba732bde3557d93145a0be01dc94e7a88e2389bf7b4"
+    },
+    {
+      "bytes": 50791,
+      "path": "ar-around-near-sentence-normal.mp3",
+      "sha256": "e9d88206b348661e5c466282a1771c073f5d21b6faa79f900996054a93e512ad"
+    },
+    {
+      "bytes": 62494,
+      "path": "ar-around-near-sentence-slow.mp3",
+      "sha256": "8278b190ab5dd4f8e5f59a8467cacadd9c59c0e50a21aa2f51ae1cfa4905f578"
+    },
+    {
+      "bytes": 39506,
+      "path": "ar-around-near-slow.mp3",
+      "sha256": "208953a4cd2bc023f9816cf4f6eb5f9b8c7e1b41a1656bfd0d138e8874450c6a"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-restaurant-hebrew.mp3",
+      "sha256": "1221d1d5fbce910e04c7de699394c04e6c833772e825fb1eedbb74fdd58d6e93"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-restaurant-normal.mp3",
+      "sha256": "7fce1a7e46e1037f34da8bae873e8a81869f352cf87863f2f82407cf61258cdc"
+    },
+    {
+      "bytes": 48283,
+      "path": "ar-around-restaurant-sentence-hebrew.mp3",
+      "sha256": "ad21f6d7ef0ba6e127f081c3813ad76985c9bbbb035e717cb46b97beb75c5e81"
+    },
+    {
+      "bytes": 48283,
+      "path": "ar-around-restaurant-sentence-normal.mp3",
+      "sha256": "cbf1798107fc7c5f192112c2ee9038f7abdd5a967f614797130cbb0b3a24b4eb"
+    },
+    {
+      "bytes": 68763,
+      "path": "ar-around-restaurant-sentence-slow.mp3",
+      "sha256": "2969bbc8036474a6b9f97e1a8b6a58b3a288bf631cdc93151349a06a57f5ea1b"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-restaurant-slow.mp3",
+      "sha256": "ccef35b6b38051c1daa673d16cde5688ca3a1a1f2d5b35f71ac211e28b5ea8cf"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-right-hebrew.mp3",
+      "sha256": "345c6d075d8981d18071f2f36235f91621134c21a7bcbcaf6ffcf020e681a98c"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-right-normal.mp3",
+      "sha256": "e46e97a05edff2c34f1cf5fc1eb26341dd36a2ebf1471c87512b51718e964b07"
+    },
+    {
+      "bytes": 47030,
+      "path": "ar-around-right-sentence-hebrew.mp3",
+      "sha256": "bc8266f1b8eef8f628ff8ba7aa1db56ab65029ad30e74eb05a31415bbd7d6a66"
+    },
+    {
+      "bytes": 48283,
+      "path": "ar-around-right-sentence-normal.mp3",
+      "sha256": "43aaf290e588027b36d80b3c293608669c989272f6f4fed3996a680fb07ce98e"
+    },
+    {
+      "bytes": 55807,
+      "path": "ar-around-right-sentence-slow.mp3",
+      "sha256": "8164df6f0625866681f88d436b18fa8fe7a97a5e2fb818fdd8b92d20f9d1a3a3"
+    },
+    {
+      "bytes": 43268,
+      "path": "ar-around-right-slow.mp3",
+      "sha256": "8429315f2bad4dbd20b5ee5002378f37de93b005d0c49643ad3e055d8aa30357"
+    },
+    {
+      "bytes": 31565,
+      "path": "ar-around-station-hebrew.mp3",
+      "sha256": "02903f86e44a153dff52226c1d5b3e68f4189fec2ae42f63f7c079cdff312cfb"
+    },
+    {
+      "bytes": 34073,
+      "path": "ar-around-station-normal.mp3",
+      "sha256": "98a7dc6646736a17505cce3076415763218c6da13a2eaafd50888303367cc626"
+    },
+    {
+      "bytes": 45776,
+      "path": "ar-around-station-sentence-hebrew.mp3",
+      "sha256": "3f7c4b281de905734f7ae613c054f05573d93c0da206439d841826a951b29a8b"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-station-sentence-normal.mp3",
+      "sha256": "d11f93036c89f1a5d741a5e459559b336c882feb22a7ff24241a52438f2b0282"
+    },
+    {
+      "bytes": 52045,
+      "path": "ar-around-station-sentence-slow.mp3",
+      "sha256": "d3ded95cb562f4437723b6b34fe5100df0e280c7bc00ed3b5c617d03ada1625e"
+    },
+    {
+      "bytes": 40760,
+      "path": "ar-around-station-slow.mp3",
+      "sha256": "0371938d22c6d0487410bc6724a92e33e49776f6cab4eb8560d9d79b816851ef"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-straight-hebrew.mp3",
+      "sha256": "c327d6d018f893f762e704ba762d32e21ae326c6de1f7282b8fc713610bf1364"
+    },
+    {
+      "bytes": 30311,
+      "path": "ar-around-straight-normal.mp3",
+      "sha256": "e373652dd8f8c8f03b19df17f7e6d0d5e37a31bcb44be2d9df6853e7776288ed"
+    },
+    {
+      "bytes": 72525,
+      "path": "ar-around-straight-sentence-hebrew.mp3",
+      "sha256": "a321231b1fb0c4baa8f0532fa71ab1476047d010309eb469bd9d0a0f811bba1d"
+    },
+    {
+      "bytes": 61240,
+      "path": "ar-around-straight-sentence-normal.mp3",
+      "sha256": "0fe026b2b0ea359a2bffa73d0d8ec432f4f01cc0175f8f1ba7f70f49b34d1473"
+    },
+    {
+      "bytes": 73779,
+      "path": "ar-around-straight-sentence-slow.mp3",
+      "sha256": "32dda9e2b4c212cb037d5c77df21f29bf7a18ad676f2d633e9645edd2b5d7782"
+    },
+    {
+      "bytes": 40760,
+      "path": "ar-around-straight-slow.mp3",
+      "sha256": "d4f3fe17b55e7af0d8278fb7c76a2271a58d41bed5f9e2c2730ac115311e54b7"
+    },
+    {
+      "bytes": 32819,
+      "path": "ar-around-taxi-hebrew.mp3",
+      "sha256": "9ba923549723d119219f160d5161af73160e2b4954a45c0cc5b4a34f7f9645d6"
+    },
+    {
+      "bytes": 30311,
+      "path": "ar-around-taxi-normal.mp3",
+      "sha256": "d0256b6f1170ba2edd1d30a628e9f780cb57d7d63673040d69ac095c62b3d891"
+    },
+    {
+      "bytes": 44522,
+      "path": "ar-around-taxi-sentence-hebrew.mp3",
+      "sha256": "e554b285267a3be8563072de2ba7f89073a66ccb40d2f031216d22cd86c99083"
+    },
+    {
+      "bytes": 48283,
+      "path": "ar-around-taxi-sentence-normal.mp3",
+      "sha256": "9cf66cb14909f319f7f3660b7dacea6cff9412c5436eedb41f13f1e2d330e3c7"
+    },
+    {
+      "bytes": 63748,
+      "path": "ar-around-taxi-sentence-slow.mp3",
+      "sha256": "ff8a44ba65bc2555004d8547bbde4670bf140867d35f58b1b1484c84b8252498"
+    },
+    {
+      "bytes": 39506,
+      "path": "ar-around-taxi-slow.mp3",
+      "sha256": "b098d3b7e753c9dd94aaf31695c40ab7b7768f11c684d6150e1e5a6c0651b5f7"
+    },
+    {
+      "bytes": 14061,
+      "path": "lesson.json",
+      "sha256": "9f0e82e0d580412c9f004fbb0f8f3a67e06a060b35305cdc18ece66a530e499a"
+    },
+    {
+      "bytes": 46602,
+      "path": "provenance.json",
+      "sha256": "3bb075672c85899cf41d0ff255f5e701741ab3250d2ae80e95e1316aaadfc839"
+    }
+  ],
+  "id": "arabic-getting-around",
+  "schemaVersion": 1,
+  "version": "1"
+}

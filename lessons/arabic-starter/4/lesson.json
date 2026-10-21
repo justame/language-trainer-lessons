@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "id": "arabic-starter",
+  "version": "4",
+  "title": "Everyday Palestinian Arabic",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "ar-PS",
+    "name": "Palestinian Arabic",
+    "dialect": "Urban Palestinian"
+  },
+  "reviewStatus": "Listening preview — Eleven v4: Khaled (Arabic), Noa (Hebrew). Separate slow takes. Hebrew [brackets] mark stress; ־ separates syllables. Pronunciation awaits your listening review.",
+  "items": [
+    {
+      "id": "ar-coffee",
+      "kind": "word",
+      "target": "قهوة",
+      "meaningHebrew": "קפה",
+      "transliteration": {
+        "hebrew": "[אַה]־וֶה",
+        "latin": "ˈʾah.we"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-coffee-normal.mp3",
+        "slow": "ar-coffee-slow.mp3",
+        "hebrew": "ar-coffee-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-coffee-please",
+      "kind": "sentence",
+      "target": "بدي قهوة، لو سمحت.",
+      "meaningHebrew": "אני רוצה קפה, בבקשה.",
+      "transliteration": {
+        "hebrew": "[בִּד]־דִי [אַה]־וֶה, לַו סַ־[מַחְת].",
+        "latin": "ˈbid.di ˈʾah.we, law sa.ˈmaḥt."
+      },
+      "wordIDs": [
+        "ar-coffee"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-coffee-please-normal.mp3",
+        "slow": "ar-coffee-please-slow.mp3",
+        "hebrew": "ar-coffee-please-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-water",
+      "kind": "word",
+      "target": "مي",
+      "meaningHebrew": "מים",
+      "transliteration": {
+        "hebrew": "מַיּ",
+        "latin": "mayy"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-water-normal.mp3",
+        "slow": "ar-water-slow.mp3",
+        "hebrew": "ar-water-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-water-glass",
+      "kind": "sentence",
+      "target": "بدي كاسة مي باردة.",
+      "meaningHebrew": "אני רוצה כוס מים קרים.",
+      "transliteration": {
+        "hebrew": "[בִּד]־דִי [כַּא]־סֶת מַיּ [בַּאר]־דֶה.",
+        "latin": "ˈbid.di ˈkā.set mayy ˈbār.de."
+      },
+      "wordIDs": [
+        "ar-water"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-water-glass-normal.mp3",
+        "slow": "ar-water-glass-slow.mp3",
+        "hebrew": "ar-water-glass-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-food",
+      "kind": "word",
+      "target": "أكل",
+      "meaningHebrew": "אוכל",
+      "transliteration": {
+        "hebrew": "אַכְּל",
+        "latin": "ʾakl"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-food-normal.mp3",
+        "slow": "ar-food-slow.mp3",
+        "hebrew": "ar-food-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-food-tasty",
+      "kind": "sentence",
+      "target": "الأكل هون كتير زاكي.",
+      "meaningHebrew": "האוכל פה מאוד טעים.",
+      "transliteration": {
+        "hebrew": "אֶל־[אַכְּל] הוֹן כְּתִיר [זַא]־כִּי.",
+        "latin": "el-ˈʾakl hōn ktīr ˈzā.ki."
+      },
+      "wordIDs": [
+        "ar-food"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-food-tasty-normal.mp3",
+        "slow": "ar-food-tasty-slow.mp3",
+        "hebrew": "ar-food-tasty-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-house",
+      "kind": "word",
+      "target": "بيت",
+      "meaningHebrew": "בית",
+      "transliteration": {
+        "hebrew": "בֵּית",
+        "latin": "bēt"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-house-normal.mp3",
+        "slow": "ar-house-slow.mp3",
+        "hebrew": "ar-house-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-house-going",
+      "kind": "sentence",
+      "target": "أنا رايح ع البيت هلق.",
+      "meaningHebrew": "אני הולך הביתה עכשיו.",
+      "transliteration": {
+        "hebrew": "[אַ]־נַא [רַא]־יֶח עַ־ל־בֵּית [הַל]־לַא.",
+        "latin": "ˈʾa.na ˈrā.yeḥ ʿa-l-bēt ˈhal.laʾ."
+      },
+      "wordIDs": [
+        "ar-house"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-house-going-normal.mp3",
+        "slow": "ar-house-going-slow.mp3",
+        "hebrew": "ar-house-going-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-street",
+      "kind": "word",
+      "target": "شارع",
+      "meaningHebrew": "רחוב",
+      "transliteration": {
+        "hebrew": "[שַׁא]־רֶע",
+        "latin": "ˈšā.reʿ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-street-normal.mp3",
+        "slow": "ar-street-slow.mp3",
+        "hebrew": "ar-street-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-street-quiet",
+      "kind": "sentence",
+      "target": "الشارع هادا كتير هادي.",
+      "meaningHebrew": "הרחוב הזה מאוד שקט.",
+      "transliteration": {
+        "hebrew": "אֶש־[שַׁא]־רֶע [הַא]־דַא כְּתִיר [הַא]־דִי.",
+        "latin": "eš-ˈšā.reʿ ˈhā.da ktīr ˈhā.di."
+      },
+      "wordIDs": [
+        "ar-street"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-street-quiet-normal.mp3",
+        "slow": "ar-street-quiet-slow.mp3",
+        "hebrew": "ar-street-quiet-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-shop",
+      "kind": "word",
+      "target": "دكان",
+      "meaningHebrew": "חנות, מכולת",
+      "transliteration": {
+        "hebrew": "דֻכּ־[כַּאן]",
+        "latin": "duk.ˈkān"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-shop-normal.mp3",
+        "slow": "ar-shop-slow.mp3",
+        "hebrew": "ar-shop-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-shop-near",
+      "kind": "sentence",
+      "target": "في دكان قريب من هون؟",
+      "meaningHebrew": "יש מכולת קרובה לפה?",
+      "transliteration": {
+        "hebrew": "פִי דֻכּ־[כַּאן] אַ־[רִיבּ] מִן הוֹן?",
+        "latin": "fī duk.ˈkān ʾa.ˈrīb min hōn?"
+      },
+      "wordIDs": [
+        "ar-shop"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-shop-near-normal.mp3",
+        "slow": "ar-shop-near-slow.mp3",
+        "hebrew": "ar-shop-near-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-today",
+      "kind": "word",
+      "target": "اليوم",
+      "meaningHebrew": "היום",
+      "transliteration": {
+        "hebrew": "אֶל־[יוֹם]",
+        "latin": "el-ˈyōm"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-today-normal.mp3",
+        "slow": "ar-today-slow.mp3",
+        "hebrew": "ar-today-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-today-plan",
+      "kind": "sentence",
+      "target": "شو بدك تعمل اليوم؟",
+      "meaningHebrew": "מה אתה רוצה לעשות היום?",
+      "transliteration": {
+        "hebrew": "שׁוּ [בִּד]־דַכּ [תִעְ]־מַל אֶל־[יוֹם]?",
+        "latin": "šu ˈbid.dak ˈtiʿ.mal el-ˈyōm?"
+      },
+      "wordIDs": [
+        "ar-today"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-today-plan-normal.mp3",
+        "slow": "ar-today-plan-slow.mp3",
+        "hebrew": "ar-today-plan-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-tomorrow",
+      "kind": "word",
+      "target": "بكرة",
+      "meaningHebrew": "מחר",
+      "transliteration": {
+        "hebrew": "[בֻּכּ]־רַא",
+        "latin": "ˈbuk.ra"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-tomorrow-normal.mp3",
+        "slow": "ar-tomorrow-slow.mp3",
+        "hebrew": "ar-tomorrow-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-tomorrow-free",
+      "kind": "sentence",
+      "target": "أنا فاضي بكرة بعد الظهر.",
+      "meaningHebrew": "אני פנוי מחר אחרי הצהריים.",
+      "transliteration": {
+        "hebrew": "[אַ]־נַא [פַא]־דִי [בֻּכּ]־רַא בַּעְד אֶד־[דֻּ]־הֻר.",
+        "latin": "ˈʾa.na ˈfā.ḍi ˈbuk.ra baʿd eḍ-ˈḍu.hur."
+      },
+      "wordIDs": [
+        "ar-tomorrow"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-tomorrow-free-normal.mp3",
+        "slow": "ar-tomorrow-free-slow.mp3",
+        "hebrew": "ar-tomorrow-free-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-here",
+      "kind": "word",
+      "target": "هون",
+      "meaningHebrew": "פה, כאן",
+      "transliteration": {
+        "hebrew": "הוֹן",
+        "latin": "hōn"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-here-normal.mp3",
+        "slow": "ar-here-slow.mp3",
+        "hebrew": "ar-here-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-here-sit",
+      "kind": "sentence",
+      "target": "تعال اقعد هون جنبي.",
+      "meaningHebrew": "בוא שב פה לידי.",
+      "transliteration": {
+        "hebrew": "תַ־[עַאל] [אֻאְ]־עֹד הוֹן [גַ'מְ]־בִּי.",
+        "latin": "ta.ˈʿāl ˈʾuʾ.ʿod hōn ˈjam.bī."
+      },
+      "wordIDs": [
+        "ar-here"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-here-sit-normal.mp3",
+        "slow": "ar-here-sit-slow.mp3",
+        "hebrew": "ar-here-sit-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-where",
+      "kind": "word",
+      "target": "وين",
+      "meaningHebrew": "איפה, לאן",
+      "transliteration": {
+        "hebrew": "וֵין",
+        "latin": "wēn"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-where-normal.mp3",
+        "slow": "ar-where-slow.mp3",
+        "hebrew": "ar-where-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-where-going",
+      "kind": "sentence",
+      "target": "وين رايح هلق؟",
+      "meaningHebrew": "לאן אתה הולך עכשיו?",
+      "transliteration": {
+        "hebrew": "וֵין [רַא]־יֶח [הַל]־לַא?",
+        "latin": "wēn ˈrā.yeḥ ˈhal.laʾ?"
+      },
+      "wordIDs": [
+        "ar-where"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-where-going-normal.mp3",
+        "slow": "ar-where-going-slow.mp3",
+        "hebrew": "ar-where-going-hebrew.mp3"
+      }
+    }
+  ]
+}

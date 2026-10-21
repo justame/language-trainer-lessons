@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "id": "arabic-getting-around",
+  "version": "1",
+  "title": "Getting Around",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "ar-PS",
+    "name": "Palestinian Arabic",
+    "dialect": "Urban Palestinian"
+  },
+  "reviewStatus": "Listening preview — Eleven v4: Khaled (Arabic), Noa (Hebrew). Separate slow takes. Hebrew [brackets] mark stress; ־ separates syllables. Pronunciation awaits your listening review.",
+  "items": [
+    {
+      "id": "ar-around-right",
+      "kind": "word",
+      "target": "يمين",
+      "meaningHebrew": "ימינה",
+      "transliteration": {
+        "hebrew": "יַ־[מִין]",
+        "latin": "ya.ˈmīn"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-right-normal.mp3",
+        "slow": "ar-around-right-slow.mp3",
+        "hebrew": "ar-around-right-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-right-sentence",
+      "kind": "sentence",
+      "target": "لف يمين، لو سمحت.",
+      "meaningHebrew": "פנה ימינה, בבקשה.",
+      "transliteration": {
+        "hebrew": "לִף יַ־[מִין], לַו סַ־[מַחְת].",
+        "latin": "liff ya.ˈmīn, law sa.ˈmaḥt."
+      },
+      "wordIDs": [
+        "ar-around-right"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-right-sentence-normal.mp3",
+        "slow": "ar-around-right-sentence-slow.mp3",
+        "hebrew": "ar-around-right-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-left",
+      "kind": "word",
+      "target": "شمال",
+      "meaningHebrew": "שמאלה",
+      "transliteration": {
+        "hebrew": "שְׁ־[מַאל]",
+        "latin": "š.ˈmāl"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-left-normal.mp3",
+        "slow": "ar-around-left-slow.mp3",
+        "hebrew": "ar-around-left-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-left-sentence",
+      "kind": "sentence",
+      "target": "المطعم عالشمال.",
+      "meaningHebrew": "המסעדה משמאל.",
+      "transliteration": {
+        "hebrew": "אֶל־[מַטְ]־עַם עַש־שְׁ־[מַאל].",
+        "latin": "el.ˈmaṭ.ʿam ʿaš.š.ˈmāl."
+      },
+      "wordIDs": [
+        "ar-around-left"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-left-sentence-normal.mp3",
+        "slow": "ar-around-left-sentence-slow.mp3",
+        "hebrew": "ar-around-left-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-straight",
+      "kind": "word",
+      "target": "دغري",
+      "meaningHebrew": "ישר",
+      "transliteration": {
+        "hebrew": "[דֻעְ׳]־רִי",
+        "latin": "ˈduġ.ri"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-straight-normal.mp3",
+        "slow": "ar-around-straight-slow.mp3",
+        "hebrew": "ar-around-straight-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-straight-sentence",
+      "kind": "sentence",
+      "target": "امشي دغري وبعدين لف يمين.",
+      "meaningHebrew": "לך ישר ואחר כך פנה ימינה.",
+      "transliteration": {
+        "hebrew": "[אִמְ]־שִׁי [דֻעְ׳]־רִי וּ־בַּעְ־[דֵין] לִף יַ־[מִין].",
+        "latin": "ˈʾim.ši ˈduġ.ri w.baʿ.ˈdēn liff ya.ˈmīn."
+      },
+      "wordIDs": [
+        "ar-around-straight"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-straight-sentence-normal.mp3",
+        "slow": "ar-around-straight-sentence-slow.mp3",
+        "hebrew": "ar-around-straight-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-near",
+      "kind": "word",
+      "target": "قريب",
+      "meaningHebrew": "קרוב",
+      "transliteration": {
+        "hebrew": "אַ־[רִיבּ]",
+        "latin": "ʾa.ˈrīb"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-near-normal.mp3",
+        "slow": "ar-around-near-slow.mp3",
+        "hebrew": "ar-around-near-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-near-sentence",
+      "kind": "sentence",
+      "target": "الفندق قريب من هون.",
+      "meaningHebrew": "המלון קרוב לכאן.",
+      "transliteration": {
+        "hebrew": "אֶל־[פֻנְ]־דֻא אַ־[רִיבּ] מִן הוֹן.",
+        "latin": "el.ˈfun.duʾ ʾa.ˈrīb min hōn."
+      },
+      "wordIDs": [
+        "ar-around-near"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-near-sentence-normal.mp3",
+        "slow": "ar-around-near-sentence-slow.mp3",
+        "hebrew": "ar-around-near-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-far",
+      "kind": "word",
+      "target": "بعيد",
+      "meaningHebrew": "רחוק",
+      "transliteration": {
+        "hebrew": "בַּ־[עִיד]",
+        "latin": "ba.ˈʿīd"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-far-normal.mp3",
+        "slow": "ar-around-far-slow.mp3",
+        "hebrew": "ar-around-far-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-far-sentence",
+      "kind": "sentence",
+      "target": "السوق بعيد؟",
+      "meaningHebrew": "השוק רחוק?",
+      "transliteration": {
+        "hebrew": "אֶס־סוּא בַּ־[עִיד]?",
+        "latin": "es.sūʾ ba.ˈʿīd?"
+      },
+      "wordIDs": [
+        "ar-around-far"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-far-sentence-normal.mp3",
+        "slow": "ar-around-far-sentence-slow.mp3",
+        "hebrew": "ar-around-far-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-station",
+      "kind": "word",
+      "target": "محطة",
+      "meaningHebrew": "תחנה",
+      "transliteration": {
+        "hebrew": "מַ־[חַט]־טַה",
+        "latin": "ma.ˈḥaṭ.ṭa"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-station-normal.mp3",
+        "slow": "ar-around-station-slow.mp3",
+        "hebrew": "ar-around-station-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-station-sentence",
+      "kind": "sentence",
+      "target": "وين محطة الباص؟",
+      "meaningHebrew": "איפה תחנת האוטובוס?",
+      "transliteration": {
+        "hebrew": "וֵין מַ־[חַט]־טֶת אֶל־בַּאס?",
+        "latin": "wēn ma.ˈḥaṭ.ṭet el.bāṣ?"
+      },
+      "wordIDs": [
+        "ar-around-station"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-station-sentence-normal.mp3",
+        "slow": "ar-around-station-sentence-slow.mp3",
+        "hebrew": "ar-around-station-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-restaurant",
+      "kind": "word",
+      "target": "مطعم",
+      "meaningHebrew": "מסעדה",
+      "transliteration": {
+        "hebrew": "[מַטְ]־עַם",
+        "latin": "ˈmaṭ.ʿam"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-restaurant-normal.mp3",
+        "slow": "ar-around-restaurant-slow.mp3",
+        "hebrew": "ar-around-restaurant-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-restaurant-sentence",
+      "kind": "sentence",
+      "target": "في مطعم منيح قريب؟",
+      "meaningHebrew": "יש מסעדה טובה קרובה?",
+      "transliteration": {
+        "hebrew": "פִי [מַטְ]־עַם מְ־[נִיח] אַ־[רִיבּ]?",
+        "latin": "fī ˈmaṭ.ʿam m.ˈnīḥ ʾa.ˈrīb?"
+      },
+      "wordIDs": [
+        "ar-around-restaurant"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-restaurant-sentence-normal.mp3",
+        "slow": "ar-around-restaurant-sentence-slow.mp3",
+        "hebrew": "ar-around-restaurant-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-hotel",
+      "kind": "word",
+      "target": "فندق",
+      "meaningHebrew": "מלון",
+      "transliteration": {
+        "hebrew": "[פֻנְ]־דֻא",
+        "latin": "ˈfun.duʾ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-hotel-normal.mp3",
+        "slow": "ar-around-hotel-slow.mp3",
+        "hebrew": "ar-around-hotel-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-hotel-sentence",
+      "kind": "sentence",
+      "target": "بدي أروح عالفندق.",
+      "meaningHebrew": "אני רוצה ללכת למלון.",
+      "transliteration": {
+        "hebrew": "[בִּד]־דִי אַ־[רוּח] עַל־[פֻנְ]־דֻא.",
+        "latin": "ˈbid.di ʾa.ˈrūḥ ʿal.ˈfun.duʾ."
+      },
+      "wordIDs": [
+        "ar-around-hotel"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-hotel-sentence-normal.mp3",
+        "slow": "ar-around-hotel-sentence-slow.mp3",
+        "hebrew": "ar-around-hotel-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-market",
+      "kind": "word",
+      "target": "سوق",
+      "meaningHebrew": "שוק",
+      "transliteration": {
+        "hebrew": "סוּא",
+        "latin": "sūʾ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-market-normal.mp3",
+        "slow": "ar-around-market-slow.mp3",
+        "hebrew": "ar-around-market-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-market-sentence",
+      "kind": "sentence",
+      "target": "إيمتى بيفتح السوق؟",
+      "meaningHebrew": "מתי השוק נפתח?",
+      "transliteration": {
+        "hebrew": "[אֵי]־מְתַא [בִּיפְ]־תַח אֶס־סוּא?",
+        "latin": "ˈʾēm.ta ˈbīf.taḥ es.sūʾ?"
+      },
+      "wordIDs": [
+        "ar-around-market"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-market-sentence-normal.mp3",
+        "slow": "ar-around-market-sentence-slow.mp3",
+        "hebrew": "ar-around-market-sentence-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-taxi",
+      "kind": "word",
+      "target": "تاكسي",
+      "meaningHebrew": "מונית",
+      "transliteration": {
+        "hebrew": "[תַאקְ]־סִי",
+        "latin": "ˈtāk.si"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-taxi-normal.mp3",
+        "slow": "ar-around-taxi-slow.mp3",
+        "hebrew": "ar-around-taxi-hebrew.mp3"
+      }
+    },
+    {
+      "id": "ar-around-taxi-sentence",
+      "kind": "sentence",
+      "target": "ممكن تطلبلي تاكسي؟",
+      "meaningHebrew": "אפשר להזמין לי מונית?",
+      "transliteration": {
+        "hebrew": "[מֻמְ]־כֶּן [תִטְ]־לֻבּ־לִי [תַאקְ]־סִי?",
+        "latin": "ˈmum.ken ˈtiṭ.lob.li ˈtāk.si?"
+      },
+      "wordIDs": [
+        "ar-around-taxi"
+      ],
+      "audio": {
+        "provider": "Eleven v4 · Khaled Alnajjar (Arabic); Noa (Hebrew)",
+        "slowMethod": "Separate Eleven v4 synthesis with [slowly]; no time stretching",
+        "normal": "ar-around-taxi-sentence-normal.mp3",
+        "slow": "ar-around-taxi-sentence-slow.mp3",
+        "hebrew": "ar-around-taxi-sentence-hebrew.mp3"
+      }
+    }
+  ]
+}

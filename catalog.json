@@ -1,12 +1,20 @@
 {
   "lessons": [
     {
+      "id": "arabic-getting-around",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-getting-around/1",
+      "title": "Getting Around",
+      "version": "1"
+    },
+    {
       "id": "arabic-starter",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
-      "path": "lessons/arabic-starter/3",
+      "path": "lessons/arabic-starter/4",
       "title": "Everyday Palestinian Arabic",
-      "version": "3"
+      "version": "4"
     }
   ],
   "schemaVersion": 1
