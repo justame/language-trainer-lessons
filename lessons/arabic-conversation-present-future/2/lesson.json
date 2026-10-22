@@ -1,0 +1,4346 @@
+{
+  "schemaVersion": 1,
+  "id": "arabic-conversation-present-future",
+  "version": "2",
+  "title": "Every Day and Tomorrow — I, You and He",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "ar-PS",
+    "name": "Palestinian Arabic",
+    "dialect": "Urban Palestinian"
+  },
+  "reviewStatus": "Listening preview — pronunciation awaits user review",
+  "items": [
+    {
+      "id": "arabic-conversation-present-future-eat",
+      "kind": "word",
+      "target": "بَاكُل",
+      "meaningHebrew": "אֲנִי אוֹכֵל",
+      "transliteration": {
+        "latin": "ˈbā.kul",
+        "hebrew": "[בַּא]־כֻּל"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "b",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/2d0ba9637fbf4ec16f81450fadf00e21804717b086ce93bc28a789dbb51c39b8.mp3",
+        "normal": "audio/ea039db1241a28733b76fc7e7e75f5faff1681ea554ed07f7ed3413b0689f1d8.mp3",
+        "slow": "audio/d87e0ab62150569dae1853df943da0a79ae473bf860f83cff8d1b51aaa39e5b3.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-drink",
+      "kind": "word",
+      "target": "بَشْرَب",
+      "meaningHebrew": "אֲנִי שׁוֹתֶה",
+      "transliteration": {
+        "latin": "ˈbaš.rab",
+        "hebrew": "[בַּשׁ]־רַבּ"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/8adf3f6f54a28f8ca3b3afa3033463f812c08e272531b29cdbb0fa0b9dab0d4b.mp3",
+        "normal": "audio/c8020ff1bb0473a2867ca177a19ce35b522ac4f1d48b74899a9ad7b7bcaa2776.mp3",
+        "slow": "audio/0dad636b19d99297f94d4bdc45fe9f2c792718543fe31fd973cf767e390b0e9e.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-go",
+      "kind": "word",
+      "target": "بَرُوح",
+      "meaningHebrew": "אֲנִי הוֹלֵךְ",
+      "transliteration": {
+        "latin": "ba.ˈrūḥ",
+        "hebrew": "בַּ־[רוּח]"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/127fb3b6797e079467e8f14fb7a6fb8cbf24f5947590857c9d86cbc2b49a1913.mp3",
+        "normal": "audio/a702865857e2289b05dbe9a043be642b95a9ed87148e15b6f054100f7c2ecd76.mp3",
+        "slow": "audio/18415f06e6f4f2a849b329a9c03baa7ddf0e2fef96161811e48160966dcfa195.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-work",
+      "kind": "word",
+      "target": "بَشْتَغِل",
+      "meaningHebrew": "אֲנִי עוֹבֵד",
+      "transliteration": {
+        "latin": "baš.ˈta.ġil",
+        "hebrew": "בַּשׁ־[תַ]־עִ׳ל"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/578bb09eb1a85b68fa5a2ff341898c89b27226e1eb85f906ac7d1e008fb60785.mp3",
+        "normal": "audio/3129771f9eab5b4740360393f7be722596995e129d4297a00703e63519edb9a9.mp3",
+        "slow": "audio/fc8475d94c0d8b5ce3ba1fc1a5f3ffd80928bf85520b0cbf16f1c75aa1ffa567.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-study",
+      "kind": "word",
+      "target": "بَدْرُس",
+      "meaningHebrew": "אֲנִי לוֹמֵד",
+      "transliteration": {
+        "latin": "ˈbad.rus",
+        "hebrew": "[בַּד]־רֻס"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/81153599db0c4c33c99aaf5965018e347473d1359380c705768682e6ed70e678.mp3",
+        "normal": "audio/6dea40f6de5d7f151cdf679f111e637404d8cc6581c9ebb6dc71c42dda9f3335.mp3",
+        "slow": "audio/5cffbebb820245051fb1ae43413c7002f6bd9f00ac21d7df309c0405666ae528.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-eat-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو بْتَاكُل كُلّ يَوْم؟",
+      "meaningHebrew": "מָה אַתָּה אוֹכֵל כָּל יוֹם?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū ˈbtā.kul kull yōm?",
+        "hebrew": "[אִנ]־תַ שׁוּ [בְּתַא]־כֻּל כֻּלְל יוֹם?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 2,
+          "phones": [
+            "t",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "l",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/f2a955e021da5606b84d1945d2437a281b9afe8e99e7213db0aadf89e9f7a549.mp3",
+        "normal": "audio/7c4c74bd2dbaf7fa7a7a5649a17170b5e7df4433d067a6add2705bff5aa9a11c.mp3",
+        "slow": "audio/50fe8ceec78211b7a71cb016d5150f37b061e67da9af518f25c9ed3cfe07a710.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-eat-i",
+      "kind": "sentence",
+      "target": "أَنَا بَاكُل حُمُّص.",
+      "meaningHebrew": "אֲנִי אוֹכֵל חוּמוּס.",
+      "transliteration": {
+        "latin": "ˈʾa.na ˈbā.kul ˈḥum.muṣ.",
+        "hebrew": "[אַ]־נַ [בַּא]־כֻּל [חֻמ]־מֻס."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "b",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ħ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "m",
+            "m",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "sˤ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/23fa6999595c8acacab81c8fffa0159b38e627733aa62545ab85e695a8d9c391.mp3",
+        "normal": "audio/f34aa544b0e344f31e15424b1ea3d2fcf54fa23c46cc0f08002f415d9242fd37.mp3",
+        "slow": "audio/a6bb4cd6ea673e50784ed72380b5c16eb18355a565f8e80d48b9542a09d972b3.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-eat-he",
+      "kind": "sentence",
+      "target": "هُوِّ بْيَاكُل حُمُّص.",
+      "meaningHebrew": "הוּא אוֹכֵל חוּמוּס.",
+      "transliteration": {
+        "latin": "ˈhuw.we ˈbyā.kul ˈḥum.muṣ.",
+        "hebrew": "[הֻו]־וֶ [בְּיַא]־כֻּל [חֻמ]־מֻס."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "j",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ħ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "m",
+            "m",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "sˤ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/212a0828a68e8210df3487f2baf2659f777ed6bc689ae1a2ef10f6ac03ff350c.mp3",
+        "normal": "audio/3700d84401429dc09b94c160ea56a3d623f6cd1541ec3d4528b1fbcc92b7bdc2.mp3",
+        "slow": "audio/ea61526c078b95b009034982adc8e99e0cc23da41b52844446201c6b49006a09.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-drink-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو بْتِشْرَب كُلّ يَوْم؟",
+      "meaningHebrew": "מָה אַתָּה שׁוֹתֶה כָּל יוֹם?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū ˈbtiš.rab kull yōm?",
+        "hebrew": "[אִנ]־תַ שׁוּ [בְּתִשׁ]־רַבּ כֻּלְל יוֹם?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "l",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/2d7954f240386269063c034d153d1e762b0b2a3f325a9c96c2c619533bd9d003.mp3",
+        "normal": "audio/1c945776753389574a671d229260b3b2eb4078e2f98384a5f08edfa6e58e55fe.mp3",
+        "slow": "audio/8fbc7af25023a1c971c1b2ed86b3dd1ac3bae859f0fe385c9b5354ce545797fe.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-drink-i",
+      "kind": "sentence",
+      "target": "أَنَا بَشْرَب شَاي.",
+      "meaningHebrew": "אֲנִי שׁוֹתֶה תֵּה.",
+      "transliteration": {
+        "latin": "ˈʾa.na ˈbaš.rab šāy.",
+        "hebrew": "[אַ]־נַ [בַּשׁ]־רַבּ שַׁאי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4488620bd0c9e1007bfd1b198a551d357dae96613f4ba1acba2a7b44c6148f40.mp3",
+        "normal": "audio/a89e5926f9c4f2ae6cd2b3ed4895b54047262e9b82ba6595beb3788555c65e83.mp3",
+        "slow": "audio/45e66c7975cb617840810ff293c630ce2dd5bf5370f96dc40a4161d800280b80.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-drink-he",
+      "kind": "sentence",
+      "target": "هُوِّ بِشْرَب شَاي.",
+      "meaningHebrew": "הוּא שׁוֹתֶה תֵּה.",
+      "transliteration": {
+        "latin": "ˈhuw.we ˈbiš.rab šāy.",
+        "hebrew": "[הֻו]־וֶ [בִּשׁ]־רַבּ שַׁאי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/31d03b8e1db3ddbffca0a2ffdfbaef456272bd59c41de505a3d5c442025c0d5f.mp3",
+        "normal": "audio/8bc0b2d87ebbfc86987f8038775f406be47e7d81e7068a219501344ca2eee31f.mp3",
+        "slow": "audio/bdadf9f4197b5974a648207878628ce5ee144e913b816d86b5cd8b8a721d799e.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-go-you",
+      "kind": "sentence",
+      "target": "إِنْتَ وَيْن بْتِرُوح كُلّ يَوْم؟",
+      "meaningHebrew": "לְאָן אַתָּה הוֹלֵךְ כָּל יוֹם?",
+      "transliteration": {
+        "latin": "ˈʾin.ta wēn bti.ˈrūḥ kull yōm?",
+        "hebrew": "[אִנ]־תַ וֵין בְּתִ־[רוּח] כֻּלְל יוֹם?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "l",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 15,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/5607e2071e87adc8166d7637e427a40c08c4042de2ea9544fc22024547beea16.mp3",
+        "normal": "audio/448658d2de0c2cb41fd8e89a21e717b417e6c727f82aa0c2a0426d1ffb23ba27.mp3",
+        "slow": "audio/54b704ef1e9716cfdb44d5d7602111f5ce88ff5071c029b17c512453f505a867.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-go-i",
+      "kind": "sentence",
+      "target": "أَنَا بَرُوح عَالسُّوق.",
+      "meaningHebrew": "אֲנִי הוֹלֵךְ לַשּׁוּק.",
+      "transliteration": {
+        "latin": "ˈʾa.na ba.ˈrūḥ ʿas-ˈsūʾ.",
+        "hebrew": "[אַ]־נַ בַּ־[רוּח] עַס־[סוּא]."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 4,
+          "phones": [
+            "s",
+            "s",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4d1a00d9d93b550cd194349d265c5ad2f4c01cbe055f7c01537c9951b5b26bbf.mp3",
+        "normal": "audio/7e7af5f6c1924836a246e15f019c3415534038cd8b0014e47628ee33e6b738bc.mp3",
+        "slow": "audio/ca81cfedeba05cfbc21025cb71c588a1f22e8a232cc72920fb7458d7beffbee3.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-go-he",
+      "kind": "sentence",
+      "target": "هُوِّ بِرُوح عَالسُّوق.",
+      "meaningHebrew": "הוּא הוֹלֵךְ לַשּׁוּק.",
+      "transliteration": {
+        "latin": "ˈhuw.we bi.ˈrūḥ ʿas-ˈsūʾ.",
+        "hebrew": "[הֻו]־וֶ בִּ־[רוּח] עַס־[סוּא]."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 4,
+          "phones": [
+            "s",
+            "s",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/37148e715b3b7f1ccb1676fa22e9cfea235ea40f74a6c613331aa6087b858c05.mp3",
+        "normal": "audio/c8236a798f6c8f545d85efce17f9751b19a68d6b509b66d0cc8ad5cb2618179c.mp3",
+        "slow": "audio/b36ef29a622b259d9bb8def37220c3695f01bffd8dc766c41d19b753e4c5c618.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-work-you",
+      "kind": "sentence",
+      "target": "إِنْتَ وَيْن بْتِشْتَغِل كُلّ يَوْم؟",
+      "meaningHebrew": "אֵיפֹה אַתָּה עוֹבֵד כָּל יוֹם?",
+      "transliteration": {
+        "latin": "ˈʾin.ta wēn btiš.ˈta.ġil kull yōm?",
+        "hebrew": "[אִנ]־תַ וֵין בְּתִשׁ־[תַ]־עִ׳ל כֻּלְל יוֹם?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "l",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 16,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/e61056ece779a35f93235de5db88c3e962f9fefea11d2fc336d63dc60b30fd49.mp3",
+        "normal": "audio/567dfe19e524beaf1599fd50193b4d441a2cf00f4a92b47d85016acaa84d4f58.mp3",
+        "slow": "audio/4f5c658771c4550b8e05455f28df014564a50952d54f308dbba7a0ed891e990d.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-work-i",
+      "kind": "sentence",
+      "target": "أَنَا بَشْتَغِل بِالْبَيْت.",
+      "meaningHebrew": "אֲנִי עוֹבֵד בַּבַּיִת.",
+      "transliteration": {
+        "latin": "ˈʾa.na baš.ˈta.ġil bil-bēt.",
+        "hebrew": "[אַ]־נַ בַּשׁ־[תַ]־עִ׳ל בִּל־בֵּית."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 3,
+          "phones": [
+            "b",
+            "i",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/92ea083a784145995a0142adf79175f7737e111e0bf75b7dd07aea0d0488eeda.mp3",
+        "normal": "audio/aaad7c0a821f86a60ea83510e59eca1ace6665cc81369b97fbd94fb9e7dee782.mp3",
+        "slow": "audio/64ec7403e32404c37de86d8e0e5beea330c60b159a05f84d8eaf8941064cbfea.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-work-he",
+      "kind": "sentence",
+      "target": "هُوِّ بِشْتَغِل بِالْبَيْت.",
+      "meaningHebrew": "הוּא עוֹבֵד בַּבַּיִת.",
+      "transliteration": {
+        "latin": "ˈhuw.we biš.ˈta.ġil bil-bēt.",
+        "hebrew": "[הֻו]־וֶ בִּשׁ־[תַ]־עִ׳ל בִּל־בֵּית."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 3,
+          "phones": [
+            "b",
+            "i",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/49bc194d69abdabc1eef07d1e7d0879e2790eb19269094520f0672226e1ec618.mp3",
+        "normal": "audio/fd19b1c06f251f2ac3dd32b1f12750dcba937569a39d1e84ef0b429c320b9f04.mp3",
+        "slow": "audio/3830d8d287aff56e2b02eed1a753b3b26c376272cd23351816d13a8bf699824e.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-study-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو بْتِدْرُس كُلّ يَوْم؟",
+      "meaningHebrew": "מָה אַתָּה לוֹמֵד כָּל יוֹם?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū ˈbtid.rus kull yōm?",
+        "hebrew": "[אִנ]־תַ שׁוּ [בְּתִד]־רֻס כֻּלְל יוֹם?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "l",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/b07baac59ae455a09f363943c6cf1afb727674b4ab004469f24f70aa1ec7f46e.mp3",
+        "normal": "audio/4231335640af6ab116d296ef62ff1558fadd766ba5ff0651f841837a153521da.mp3",
+        "slow": "audio/04ef365dab853d9a0f9fc2aef646c0b59c4809c39550f1e6c104a568425a6c1f.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-study-i",
+      "kind": "sentence",
+      "target": "أَنَا بَدْرُس عَرَبِي.",
+      "meaningHebrew": "אֲנִי לוֹמֵד עֲרָבִית.",
+      "transliteration": {
+        "latin": "ˈʾa.na ˈbad.rus ˈʿa.ra.bi.",
+        "hebrew": "[אַ]־נַ [בַּד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/86dfe7e6be9d057fbbb1548c20b0d7bc44a34c1cc34fcc722b5bffc89be5c61e.mp3",
+        "normal": "audio/8872904653890250542a0373b557aae0b82de92e982dddf8468800d514523bf5.mp3",
+        "slow": "audio/91462dc72e54e0b9988a366a39016e6e8b7bce39ea1bb7458149404413ad9ec2.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-present-study-he",
+      "kind": "sentence",
+      "target": "هُوِّ بْيِدْرُس عَرَبِي.",
+      "meaningHebrew": "הוּא לוֹמֵד עֲרָבִית.",
+      "transliteration": {
+        "latin": "ˈhuw.we bi.ˈyid.rus ˈʿa.ra.bi.",
+        "hebrew": "[הֻו]־וֶ בִּ־[יִד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "slowTransliteration": {
+        "latin": "ˈhuw.wa ˈbyid.rus ˈʿa.ra.bi.",
+        "hebrew": "[הֻו]־וַ [בְּיִד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "slowLetterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "תחילית i לפי החלופה הפלסטינית ב־Maknuune #9482. הדיבור הרגיל והאיטי נבדקים בנפרד; u היא חלופה מתועדת ואינה טעות כללית."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/0719256a146e1cda300c54e428a011e1ece9a51dba7ccfee90151189a2e100a8.mp3",
+        "normal": "audio/e7a792c93c11027d8d56d394abfd3b8f7cde8b56f2a737939e3db0021ccdb6fa.mp3",
+        "slow": "audio/b68257882340597148d9bb989a9672a8a589f471b2074d4810fc628dffa18ba9.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-eat-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو رَح تَاكُل بُكْرَا؟",
+      "meaningHebrew": "מָה תֹּאכַל מָחָר?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū raḥ ˈtā.kul ˈbuk.ra?",
+        "hebrew": "[אִנ]־תַ שׁוּ רַח [תַא]־כֻּל [בֻּכּ]־רַ?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 2,
+          "phones": [
+            "t",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7b0a5e68f33bf99bc9737e70647d495b9c0c598da887df5059ce45803b30d363.mp3",
+        "normal": "audio/e1a081f883af901ba90df65d440213b599e9baeabf9d52e777909b4dd1b9d501.mp3",
+        "slow": "audio/6e203118bef265ee0745255d7e00a2bc5899a36ff20c1858a06ed050a6f42e80.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-eat-i",
+      "kind": "sentence",
+      "target": "أَنَا رَح آكُل حُمُّص.",
+      "meaningHebrew": "אֲנִי אֹכַל חוּמוּס.",
+      "transliteration": {
+        "latin": "ˈʾa.na raḥ ˈʾā.kul ˈḥum.muṣ.",
+        "hebrew": "[אַ]־נַ רַח [אַא]־כֻּל [חֻמ]־מֻס."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ħ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "m",
+            "m",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "sˤ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/cab1b743b96f2c62e9ad986f1b49e37538e3113796fe89c3173649afd46a9823.mp3",
+        "normal": "audio/353694a8016b9babc7041d876a6ae03f04be01d5d256cd45a84d2794834b6ac5.mp3",
+        "slow": "audio/763eb61259dc375d6865e95f51971225f3426302f6e8fd13d2cb245fc5097286.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-eat-he",
+      "kind": "sentence",
+      "target": "هُوِّ رَح يَاكُل حُمُّص.",
+      "meaningHebrew": "הוּא יֹאכַל חוּמוּס.",
+      "transliteration": {
+        "latin": "ˈhuw.we raḥ ˈyā.kul ˈḥum.muṣ.",
+        "hebrew": "[הֻו]־וֶ רַח [יַא]־כֻּל [חֻמ]־מֻס."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-eat"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 2,
+          "phones": [
+            "j",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "k",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ħ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "m",
+            "m",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "sˤ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7e40a4045a8aa2bd0256fcb4fab9bfda9cccdae39851c9a47a11bbcd3821628a.mp3",
+        "normal": "audio/aa4dc8a6c64ec74d320eb25668143d26f61e68accb27cd34ba66dd023bd7f89c.mp3",
+        "slow": "audio/b173256268dd8608d1e405cf7166f7b6b1717d3957706f3d425f4a567a86161f.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-drink-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو رَح تِشْرَب بُكْرَا؟",
+      "meaningHebrew": "מָה תִּשְׁתֶּה מָחָר?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū raḥ ˈtiš.rab ˈbuk.ra?",
+        "hebrew": "[אִנ]־תַ שׁוּ רַח [תִשׁ]־רַבּ [בֻּכּ]־רַ?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/022a636f1e3537f53c34ab3dc5367bc0679109a18c2b3a79487656d53538bb06.mp3",
+        "normal": "audio/cd338731484671bbf2a6d07bbee52a3c6e6e9fd431da2ff62db06b580f6507df.mp3",
+        "slow": "audio/4b1c64dda5d84cf60fd694d2ec06366fbdefef0e5763a45b7939465a3057a669.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-drink-i",
+      "kind": "sentence",
+      "target": "أَنَا رَح أَشْرَب شَاي.",
+      "meaningHebrew": "אֲנִי אֶשְׁתֶּה תֵּה.",
+      "transliteration": {
+        "latin": "ˈʾa.na raḥ ˈʾaš.rab šāy.",
+        "hebrew": "[אַ]־נַ רַח [אַשׁ]־רַבּ שַׁאי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c97095df29fed171d35f91b060a7d01f0f571081b50a97fd314e2f41495aa249.mp3",
+        "normal": "audio/f05c106e553c72d7b37a0ec197dfa20556a3d0ebd4beb2b0ebe1758281a18f30.mp3",
+        "slow": "audio/ada5022c7e0639f90b083057def80e0bba66bfce8b8936f3bfe282d7258ba3a1.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-drink-he",
+      "kind": "sentence",
+      "target": "هُوِّ رَح يِشْرَب شَاي.",
+      "meaningHebrew": "הוּא יִשְׁתֶּה תֵּה.",
+      "transliteration": {
+        "latin": "ˈhuw.we raḥ ˈyiš.rab šāy.",
+        "hebrew": "[הֻו]־וֶ רַח [יִשׁ]־רַבּ שַׁאי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-drink"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/0249355789ee605d0b9c5e3ea8d87f4b57a4c270b841581f9023bf1a61dc6507.mp3",
+        "normal": "audio/e03a1950211559ca9bd5d634b09d946485d352d6c41b1762d8ee20e4f5d5cb09.mp3",
+        "slow": "audio/aded357ba18fe8ae538e438cc92dd9d288ae04e1c8fc5a72ace2b6d715fb145e.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-go-you",
+      "kind": "sentence",
+      "target": "إِنْتَ وَيْن رَح تْرُوح بُكْرَا؟",
+      "meaningHebrew": "לְאָן תֵּלֵךְ מָחָר?",
+      "transliteration": {
+        "latin": "ˈʾin.ta wēn raḥ trūḥ ˈbuk.ra?",
+        "hebrew": "[אִנ]־תַ וֵין רַח תְרוּח [בֻּכּ]־רַ?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/b9832ad2e40ef4d6664284188dc7721dfc0125359857b799b6aaa1b64e6aac4b.mp3",
+        "normal": "audio/e6196c1e2e727a095fbf090123093dd84ac43442ded52ae893a321a8e1d4ae5b.mp3",
+        "slow": "audio/a1977bddb47a583076c852fba35c23a3462e719ee6430a60b1358e1a355d6f05.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-go-i",
+      "kind": "sentence",
+      "target": "أَنَا رَح أَرُوح عَالسُّوق.",
+      "meaningHebrew": "אֲנִי אֵלֵךְ לַשּׁוּק.",
+      "transliteration": {
+        "latin": "ˈʾa.na raḥ ʾa.ˈrūḥ ʿas-ˈsūʾ.",
+        "hebrew": "[אַ]־נַ רַח אַ־[רוּח] עַס־[סוּא]."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 4,
+          "phones": [
+            "s",
+            "s",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/5bd6a624efa2bdebd169bca1f3a3bbc759007681fe93e78be0463e60711373af.mp3",
+        "normal": "audio/77698deaea4620693f283409f15f83e69d72385360c93988b42c67604392ec33.mp3",
+        "slow": "audio/a6721268961e2fd11e7ddc63868fbca24c8917f5ea423f53ec76c516e4b9383c.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-go-he",
+      "kind": "sentence",
+      "target": "هُوِّ رَح يْرُوح عَالسُّوق.",
+      "meaningHebrew": "הוּא יֵלֵךְ לַשּׁוּק.",
+      "transliteration": {
+        "latin": "ˈhuw.we raḥ yrūḥ ʿas-ˈsūʾ.",
+        "hebrew": "[הֻו]־וֶ רַח יְרוּח עַס־[סוּא]."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-go"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 2,
+          "phones": [
+            "r",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 4,
+          "phones": [
+            "s",
+            "s",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/b7ca9a8085fa686d088a3984697676765d1e82a01d7bb8f9817019e8fe354110.mp3",
+        "normal": "audio/52fdd66b52c545865a2a8ad9a9d5d3bdfad6bb1803787b9562827313bef7935e.mp3",
+        "slow": "audio/d9630ee2209fb9d2006436f13d40a8fffab009b052e81518c616a0f4a4be6c5c.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-work-you",
+      "kind": "sentence",
+      "target": "إِنْتَ وَيْن رَح تِشْتَغِل بُكْرَا؟",
+      "meaningHebrew": "אֵיפֹה תַּעֲבֹד מָחָר?",
+      "transliteration": {
+        "latin": "ˈʾin.ta wēn raḥ tiš.ˈta.ġil ˈbuk.ra?",
+        "hebrew": "[אִנ]־תַ וֵין רַח תִשׁ־[תַ]־עִ׳ל [בֻּכּ]־רַ?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 15,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/66bf6f995e2f1ad04076b3765c001bb26911d93ba49a79d387eaa1b2644e4627.mp3",
+        "normal": "audio/557827dd8282b84ac0f7724299604189f6b5fbad8daf6282eac3c6f3c881ce2f.mp3",
+        "slow": "audio/68849fbf6a33c676010c2927e681e331d9a3b40f643aa5ee6d2711551cabb800.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-work-i",
+      "kind": "sentence",
+      "target": "أَنَا رَح أَشْتَغِل بِالْبَيْت.",
+      "meaningHebrew": "אֲנִי אֶעֱבֹד בַּבַּיִת.",
+      "transliteration": {
+        "latin": "ˈʾa.na raḥ ʾaš.ˈta.ġil bil-bēt.",
+        "hebrew": "[אַ]־נַ רַח אַשׁ־[תַ]־עִ׳ל בִּל־בֵּית."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 3,
+          "phones": [
+            "b",
+            "i",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 15,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a07e1a9f1de6b5c20ad80bacbfe4ab9e102d7f69eb192f2c80760ac7eb23db5d.mp3",
+        "normal": "audio/f9d447a2d143282adce6fafd373adbd3337672b1106fdd5cb11c48314d901a52.mp3",
+        "slow": "audio/da2baba8cdf35e343a827c6da5c94fa64a3c23bfcdfbde5e0bed6b8cb1e12c0f.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-work-he",
+      "kind": "sentence",
+      "target": "هُوِّ رَح يِشْتَغِل بِالْبَيْت.",
+      "meaningHebrew": "הוּא יַעֲבֹד בַּבַּיִת.",
+      "transliteration": {
+        "latin": "ˈhuw.we raḥ yiš.ˈta.ġil bil-bēt.",
+        "hebrew": "[הֻו]־וֶ רַח יִשׁ־[תַ]־עִ׳ל בִּל־בֵּית."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-work"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʃ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ɣ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 3,
+          "phones": [
+            "b",
+            "i",
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9fc647653afcbe8b50549e20170853fc8087050fae8fdb144133ba487cb64ae2.mp3",
+        "normal": "audio/dacdf9f34bd2bbea9281fed5bd2d79fba3f74aabe9a995fe2081d9cd795b456c.mp3",
+        "slow": "audio/79f07ae6e89e44905d9c7df6a096cabb839364128a4d1628badbd987dda46c9d.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-study-you",
+      "kind": "sentence",
+      "target": "إِنْتَ شُو رَح تِدْرُس بُكْرَا؟",
+      "meaningHebrew": "מָה תִּלְמַד מָחָר?",
+      "transliteration": {
+        "latin": "ˈʾin.ta šū raḥ ˈtid.rus ˈbuk.ra?",
+        "hebrew": "[אִנ]־תַ שׁוּ רַח [תִד]־רֻס [בֻּכּ]־רַ?"
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "uː"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/f5b1fd3fafb6b1759133b15634f1d89f80f427ef85ad6b6694780b3235350dbd.mp3",
+        "normal": "audio/c9474f49ac72c301eae53ac7bd8889818bfb0dd3fd783e9150b79b519faa8dae.mp3",
+        "slow": "audio/56baecf20b7155f7f8945de7074e438789848b17784ed40513bf1454c75741f3.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-study-i",
+      "kind": "sentence",
+      "target": "أَنَا رَح أَدْرُس عَرَبِي.",
+      "meaningHebrew": "אֲנִי אֶלְמַד עֲרָבִית.",
+      "transliteration": {
+        "latin": "ˈʾa.na raḥ ˈʾad.rus ˈʿa.ra.bi.",
+        "hebrew": "[אַ]־נַ רַח [אַד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 11,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a3bccd1362a79967a437f07418a266f3a8afa5acfabbf0f23fa1524de3424e43.mp3",
+        "normal": "audio/7415234c1e7a904b134e0f4ff391fe022c45581eca994d72a7ebc0623a5a79a5.mp3",
+        "slow": "audio/e10841d0244871c526b2ea21dfa8d1e4ef2d1d693cacf9fa1b2eb5815cfeb7bf.mp3"
+      }
+    },
+    {
+      "id": "arabic-conversation-present-future-future-study-he",
+      "kind": "sentence",
+      "target": "هُوِّ رَح يِدْرُس عَرَبِي.",
+      "meaningHebrew": "הוּא יִלְמַד עֲרָבִית.",
+      "transliteration": {
+        "latin": "ˈhuw.we raḥ ˈyid.rus ˈʿa.ra.bi.",
+        "hebrew": "[הֻו]־וֶ רַח [יִד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "wordIDs": [
+        "arabic-conversation-present-future-study"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "slowTransliteration": {
+        "latin": "ˈhuw.wa raḥ ˈyid.rus ˈʿa.ra.bi.",
+        "hebrew": "[הֻו]־וַ רַח [יִד]־רֻס [עַ]־רַ־בִּי."
+      },
+      "slowLetterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "w",
+            "w",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "r",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "תעתיק מועמד לפי החלופה המילונית עם i. איכות התנועות בהקלטה זו עדיין טעונה הכרעה (i/e או u/o); עיין גם בתעתיק המלא."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "s"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        },
+        {
+          "start": 10,
+          "count": 2,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "יחידת הגייה בהקשר של משפט זה; תנועות ארוכות עם העיצור שלהן. התעתיק העברי הוא קירוב; האזנת דובר ילידי טרם אושרה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/59f5ee210fdb197d6ac0a9f81b69ee0ef2cd1ca4d252b5c0bed0d1ebb3504173.mp3",
+        "normal": "audio/decedf4669125d2f4328ea2ddb6b88df238258509fa8b741a292717265497f0a.mp3",
+        "slow": "audio/496467db538e3e22de00ea38bbc0ab32a05c7a87fe4fe56600449572a361332c.mp3"
+      }
+    }
+  ]
+}
