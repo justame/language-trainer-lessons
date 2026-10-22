@@ -1,0 +1,2824 @@
+{
+  "audio/b455708df3c0bad5f09b6076e1f2ebb45839c43224e8c8e01e09b5d8b3fa3f5d.mp3": {
+    "path": "cache/b455708df3c0bad5f09b6076e1f2ebb45839c43224e8c8e01e09b5d8b3fa3f5d.mp3",
+    "sha256": "7175f3585e41b3105499ecfdea85c50b070498a7f6a324fb4fe3333035a1c984",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text אַתָּה עוֹבֵד",
+    "request": {
+      "text": "אַתָּה עוֹבֵד",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "b455708df3c0bad5f09b6076e1f2ebb45839c43224e8c8e01e09b5d8b3fa3f5d",
+      "itemID": "ar-daily-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 19688
+  },
+  "audio/ec3523546f7d6a9328f8f571ba0b6952ac3cb797f0ad281881f3c409f42656b7.mp3": {
+    "path": "cache/ec3523546f7d6a9328f8f571ba0b6952ac3cb797f0ad281881f3c409f42656b7.mp3",
+    "sha256": "c50838385ba96735e1c29140fb022ecf41fc607a2636cd9ef9e33edb465d178d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52 clone 0; exact text بْتِشْتِغِل; Generation 1; direct download 2026-10-22T15_03_34",
+    "request": {
+      "text": "بْتِشْتِغِل",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "ec3523546f7d6a9328f8f571ba0b6952ac3cb797f0ad281881f3c409f42656b7",
+      "itemID": "ar-daily-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 40760
+  },
+  "audio/fc29b9ab9b3829a3aa0bfdb1d9a19a1bbe08151abcc0bc6ffe7e8be40d36121e.mp3": {
+    "path": "cache/fc29b9ab9b3829a3aa0bfdb1d9a19a1bbe08151abcc0bc6ffe7e8be40d36121e.mp3",
+    "sha256": "a5750518671dcd9f17b4032ecf0927a867092bece4e27fe187a2b6b73b19984e",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] بْتِشْتِغِل",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "fc29b9ab9b3829a3aa0bfdb1d9a19a1bbe08151abcc0bc6ffe7e8be40d36121e",
+      "itemID": "ar-daily-work",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 28046
+  },
+  "audio/a063d0d18185e3244df47e5cd971d40612bc9ed20c7aa68c9b83a338690039bf.mp3": {
+    "path": "cache/a063d0d18185e3244df47e5cd971d40612bc9ed20c7aa68c9b83a338690039bf.mp3",
+    "sha256": "ca4f434228bb8c89db9c632b67223c329edd093f2fd70907b5e73ffb912197dc",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text מוֹרֶה",
+    "request": {
+      "text": "מוֹרֶה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "a063d0d18185e3244df47e5cd971d40612bc9ed20c7aa68c9b83a338690039bf",
+      "itemID": "ar-daily-teacher",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 12164
+  },
+  "audio/e9c48574dc3924784c7fac5c2cd209a4a09309cce83ccaa6d2a99efc6e738b81.mp3": {
+    "path": "cache/e9c48574dc3924784c7fac5c2cd209a4a09309cce83ccaa6d2a99efc6e738b81.mp3",
+    "sha256": "de015a80dc119a45cf636ab60fa727af411ed0ff99b7a913f9868eb3ab950e81",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text مْعَلِّم; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_06_27_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "مْعَلِّم",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "e9c48574dc3924784c7fac5c2cd209a4a09309cce83ccaa6d2a99efc6e738b81",
+      "itemID": "ar-daily-teacher",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 34073
+  },
+  "audio/4b73231086bc8973e56496a0fd81be04b7ba0bd7491eee04f5622be0d139b3e3.mp3": {
+    "path": "cache/4b73231086bc8973e56496a0fd81be04b7ba0bd7491eee04f5622be0d139b3e3.mp3",
+    "sha256": "ed52b6b49fc942670e1a7e194c73a27a2acf3a9d2597a1679f0a02d51f4a405a",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] مْعَلِّم; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_07_08_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] مْعَلِّم",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "4b73231086bc8973e56496a0fd81be04b7ba0bd7491eee04f5622be0d139b3e3",
+      "itemID": "ar-daily-teacher",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 43268
+  },
+  "audio/012684acb6afb88874ad39318e32fb8ce1f6791a1a7c04b70dd4b6a995252208.mp3": {
+    "path": "cache/012684acb6afb88874ad39318e32fb8ce1f6791a1a7c04b70dd4b6a995252208.mp3",
+    "sha256": "c462c57b3aa1de68e92aff1fa267090e44e7a5006bfaa148919dbdee835e31c5",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text גָּר",
+    "request": {
+      "text": "גָּר",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "012684acb6afb88874ad39318e32fb8ce1f6791a1a7c04b70dd4b6a995252208",
+      "itemID": "ar-daily-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 13418
+  },
+  "audio/abd911795ad69597fe4e880934352c8c8cbb7375b9df58512afc3bcc9d903142.mp3": {
+    "path": "cache/abd911795ad69597fe4e880934352c8c8cbb7375b9df58512afc3bcc9d903142.mp3",
+    "sha256": "a38270c8f081e702950d473fda9d6eebd3260f60048d1bdadf39a1ef88753186",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text سَاكِن; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_07_27_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "سَاكِن",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "abd911795ad69597fe4e880934352c8c8cbb7375b9df58512afc3bcc9d903142",
+      "itemID": "ar-daily-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 36581
+  },
+  "audio/44d569bb180e1cf47fbeee17b003b9d624393cecc7d050fc33855e9941f28116.mp3": {
+    "path": "cache/44d569bb180e1cf47fbeee17b003b9d624393cecc7d050fc33855e9941f28116.mp3",
+    "sha256": "16f52680d1500f23485eaecbf47f959261b43acbec722e0151ae25e47b75b046",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] سَاكِن; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_07_46_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] سَاكِن",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "44d569bb180e1cf47fbeee17b003b9d624393cecc7d050fc33855e9941f28116",
+      "itemID": "ar-daily-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 45776
+  },
+  "audio/1cf2bca4fad219e594bc84936d429c5038a536e71c3b458f427ff87eee12261d.mp3": {
+    "path": "cache/1cf2bca4fad219e594bc84936d429c5038a536e71c3b458f427ff87eee12261d.mp3",
+    "sha256": "c7df37189d57c7b2dfbbac54cc6ecec7a0b439c8e1e8cecd0e05f45736ff46c8",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text תַּחְבִּיבִים",
+    "request": {
+      "text": "תַּחְבִּיבִים",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "1cf2bca4fad219e594bc84936d429c5038a536e71c3b458f427ff87eee12261d",
+      "itemID": "ar-daily-hobbies",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15926
+  },
+  "audio/1a760c7ab9af80323315099dcc51dd13d85418d272b5bbdef3806a7e3d4dd2ed.mp3": {
+    "path": "cache/1a760c7ab9af80323315099dcc51dd13d85418d272b5bbdef3806a7e3d4dd2ed.mp3",
+    "sha256": "01cab408d5dbd59a7a38f1f6bf3952675860d06948c22a2d9be42c76bada80af",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text هِوَايَات; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_08_13_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "هِوَايَات",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "1a760c7ab9af80323315099dcc51dd13d85418d272b5bbdef3806a7e3d4dd2ed",
+      "itemID": "ar-daily-hobbies",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 37834
+  },
+  "audio/7afd018b880842082202ed84e5498135755e824ce985de50cc3403ea5d71a022.mp3": {
+    "path": "cache/7afd018b880842082202ed84e5498135755e824ce985de50cc3403ea5d71a022.mp3",
+    "sha256": "5a9095b3ccd551b02ce4f64eb27af9ae4aff373950529fbc0c915b03812104d8",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] هِوَايَات",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "7afd018b880842082202ed84e5498135755e824ce985de50cc3403ea5d71a022",
+      "itemID": "ar-daily-hobbies",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 33061
+  },
+  "audio/b7dd6efafc9a447071b63aa35ef6f90225044334c77f825a58272067f689bb2d.mp3": {
+    "path": "cache/b7dd6efafc9a447071b63aa35ef6f90225044334c77f825a58272067f689bb2d.mp3",
+    "sha256": "ab027c2da438b526346eed5d87db2c127e5bf89ebc8278d4f22a95eb52ab6001",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text אֲנִי אוֹהֵב",
+    "request": {
+      "text": "אֲנִי אוֹהֵב",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "b7dd6efafc9a447071b63aa35ef6f90225044334c77f825a58272067f689bb2d",
+      "itemID": "ar-daily-like",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 20941
+  },
+  "audio/fa72cad5485b0cf95a20f2ddbd3adee3ecfb1296c88ccf351f7bb0e12fa6fbdf.mp3": {
+    "path": "cache/fa72cad5485b0cf95a20f2ddbd3adee3ecfb1296c88ccf351f7bb0e12fa6fbdf.mp3",
+    "sha256": "0b0d38efd9c61df6640cd07a440a9f66582e4b3144000319c40f717e3ca38842",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "بْحِبّ",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "fa72cad5485b0cf95a20f2ddbd3adee3ecfb1296c88ccf351f7bb0e12fa6fbdf",
+      "itemID": "ar-daily-like",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 21358
+  },
+  "audio/1d4508a5360da4aad87d4cd669bf25366144f838de6eb46d8fe2ceb1e1284966.mp3": {
+    "path": "cache/1d4508a5360da4aad87d4cd669bf25366144f838de6eb46d8fe2ceb1e1284966.mp3",
+    "sha256": "3a632f54a85f05df30f4f7667b93dc109d52f2366545abda183c8660f49ee7cf",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] بْحِبّ",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "1d4508a5360da4aad87d4cd669bf25366144f838de6eb46d8fe2ceb1e1284966",
+      "itemID": "ar-daily-like",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/bd8d58f6edce3428ae587958b3d50f233252bea57e7103d7ca972f01fe8a8aa6.mp3": {
+    "path": "cache/bd8d58f6edce3428ae587958b3d50f233252bea57e7103d7ca972f01fe8a8aa6.mp3",
+    "sha256": "5de914cdf47556c91e370c5f2c3420da68909576a7b0dc5c7fdf195d3d05e80b",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text סְפּוֹרְט",
+    "request": {
+      "text": "סְפּוֹרְט",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "bd8d58f6edce3428ae587958b3d50f233252bea57e7103d7ca972f01fe8a8aa6",
+      "itemID": "ar-daily-sport",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 18434
+  },
+  "audio/42aa9f2104151c925c845bff7fecc6bdffba70cce6af2c1274a0d844896f90f2.mp3": {
+    "path": "cache/42aa9f2104151c925c845bff7fecc6bdffba70cce6af2c1274a0d844896f90f2.mp3",
+    "sha256": "e7fe37c780dfaeedd7d69c3f1de92b2193d229a0378df74c203047bd5acbba8c",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "رِيَاضَة",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "42aa9f2104151c925c845bff7fecc6bdffba70cce6af2c1274a0d844896f90f2",
+      "itemID": "ar-daily-sport",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 18851
+  },
+  "audio/03a8de784fb1682a470496992b19f716dcb0851a92f6bbb44526cbea927b9f0d.mp3": {
+    "path": "cache/03a8de784fb1682a470496992b19f716dcb0851a92f6bbb44526cbea927b9f0d.mp3",
+    "sha256": "2eb8ce902ec00af76c8d3f920ffbb92d4dc4a192656fef0a319c021ec088f97e",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] رِيَاضَة",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "03a8de784fb1682a470496992b19f716dcb0851a92f6bbb44526cbea927b9f0d",
+      "itemID": "ar-daily-sport",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/29c6d4b420845d0e1fc81e908cbdbee095dd7b8c429597b3fe9f3c3d8223a89b.mp3": {
+    "path": "cache/29c6d4b420845d0e1fc81e908cbdbee095dd7b8c429597b3fe9f3c3d8223a89b.mp3",
+    "sha256": "3782bb8de40c1f16729aec0de7b3be06970f7eedd78d678ff5f7ff28e91971e8",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text טֶכְנוֹלוֹגְיָה",
+    "request": {
+      "text": "טֶכְנוֹלוֹגְיָה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "29c6d4b420845d0e1fc81e908cbdbee095dd7b8c429597b3fe9f3c3d8223a89b",
+      "itemID": "ar-daily-technology",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 18434
+  },
+  "audio/0c87c75412ae6310c421501884969b6e3af329c250b78812f5dc40cbafce654e.mp3": {
+    "path": "cache/0c87c75412ae6310c421501884969b6e3af329c250b78812f5dc40cbafce654e.mp3",
+    "sha256": "ff8ee4584850120af0ee6b6f5f2a0890ace26ebcdfe0d3c2eb1046607ba6c648",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text تِكْنُولُوجْيَا; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_10_29_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "تِكْنُولُوجْيَا",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "0c87c75412ae6310c421501884969b6e3af329c250b78812f5dc40cbafce654e",
+      "itemID": "ar-daily-technology",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 36581
+  },
+  "audio/4b8a69824e6ca31285932e92bbfefba2804b35e3657a4ea4b34f923ea3f07a07.mp3": {
+    "path": "cache/4b8a69824e6ca31285932e92bbfefba2804b35e3657a4ea4b34f923ea3f07a07.mp3",
+    "sha256": "e6fc8c41fac9a7cac849ff511cf9f99c336fda73c1aff859fd826723e5b6753e",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] تِكْنُولُوجْيَا",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "4b8a69824e6ca31285932e92bbfefba2804b35e3657a4ea4b34f923ea3f07a07",
+      "itemID": "ar-daily-technology",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/d62f06f702c717358bc353e9e1ee7a70d744c2cedf196cd5d04720ed43b386ab.mp3": {
+    "path": "cache/d62f06f702c717358bc353e9e1ee7a70d744c2cedf196cd5d04720ed43b386ab.mp3",
+    "sha256": "5de52e4211491041fbc949704fdf65ff1505d6c2b64cd7d7ffef1f7a3c71d926",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text זְמַן",
+    "request": {
+      "text": "זְמַן",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "d62f06f702c717358bc353e9e1ee7a70d744c2cedf196cd5d04720ed43b386ab",
+      "itemID": "ar-daily-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 17180
+  },
+  "audio/1e4af99e831b477e728c8704795675d4f150e265db12646082e90049ec43f706.mp3": {
+    "path": "cache/1e4af99e831b477e728c8704795675d4f150e265db12646082e90049ec43f706.mp3",
+    "sha256": "073c66e1e4146ca32de92d577d251143bfc363e7969ff2e28a8edcde579a85fb",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text وَقْت; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_11_45_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "وَقْت",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "1e4af99e831b477e728c8704795675d4f150e265db12646082e90049ec43f706",
+      "itemID": "ar-daily-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 35327
+  },
+  "audio/2feca7ca7aab2f2bcc032dd12218a5005257b99cb7cc37416f225217c5c9d754.mp3": {
+    "path": "cache/2feca7ca7aab2f2bcc032dd12218a5005257b99cb7cc37416f225217c5c9d754.mp3",
+    "sha256": "f07da249248c770e3c0c7001d74848a4f0a695ba803f853248cddd00ffbe9ff6",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] وَقْت",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "2feca7ca7aab2f2bcc032dd12218a5005257b99cb7cc37416f225217c5c9d754",
+      "itemID": "ar-daily-time",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/501071f4d04cc70e85882dcdb0ffd645cfea7c3712c6195863bbffa3559f74ef.mp3": {
+    "path": "cache/501071f4d04cc70e85882dcdb0ffd645cfea7c3712c6195863bbffa3559f74ef.mp3",
+    "sha256": "aa349bedef4896bd2079dba965b477b2527abdb617df5c3c5d21c40bd21bf259",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text פָּנוּי",
+    "request": {
+      "text": "פָּנוּי",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "501071f4d04cc70e85882dcdb0ffd645cfea7c3712c6195863bbffa3559f74ef",
+      "itemID": "ar-daily-free",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15926
+  },
+  "audio/421ef77e23c466c65128230490b9d4997e19d69fa3f4c5ae1b16bd263ce1e5ab.mp3": {
+    "path": "cache/421ef77e23c466c65128230490b9d4997e19d69fa3f4c5ae1b16bd263ce1e5ab.mp3",
+    "sha256": "427385ab92a265feaf9cc4a576852511c23bc9b2ef9e96b41ce6322e34eca88e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text فَاضِي; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_12_12_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "فَاضِي",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "421ef77e23c466c65128230490b9d4997e19d69fa3f4c5ae1b16bd263ce1e5ab",
+      "itemID": "ar-daily-free",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 36581
+  },
+  "audio/4c9fc569326bbbb46ec51b44ec3c528fef9a1e179b92fb51e5d0389a74651a5e.mp3": {
+    "path": "cache/4c9fc569326bbbb46ec51b44ec3c528fef9a1e179b92fb51e5d0389a74651a5e.mp3",
+    "sha256": "e7c7e7f1feec136215f18aecb4899df79d251960deb348e946e46951861a0b7e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] فَاضِي; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_12_21_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] فَاضِي",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "4c9fc569326bbbb46ec51b44ec3c528fef9a1e179b92fb51e5d0389a74651a5e",
+      "itemID": "ar-daily-free",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 44522
+  },
+  "audio/9cd23c7dba2f5f0ff355a425a907e7aceb7d1c3d11361905dd801473ed7cf018.mp3": {
+    "path": "cache/9cd23c7dba2f5f0ff355a425a907e7aceb7d1c3d11361905dd801473ed7cf018.mp3",
+    "sha256": "0fa9c046d3920ba663701ed429645470ce7dc45f34c5d4f7da0a0de4b86cc072",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text נֵלֵךְ בָּרֶגֶל",
+    "request": {
+      "text": "נֵלֵךְ בָּרֶגֶל",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "9cd23c7dba2f5f0ff355a425a907e7aceb7d1c3d11361905dd801473ed7cf018",
+      "itemID": "ar-daily-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 19688
+  },
+  "audio/a122b4771b4da409e6f5fdde6bfc868a33e8127fbdf032fcf8d7173af22d6fad.mp3": {
+    "path": "cache/a122b4771b4da409e6f5fdde6bfc868a33e8127fbdf032fcf8d7173af22d6fad.mp3",
+    "sha256": "9ac2eb4cda8c8b563e7cac17fd1a4f02ab7a0bbefdb610fc6b5316061d91160e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text نِمْشِي; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_12_30_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "نِمْشِي",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "a122b4771b4da409e6f5fdde6bfc868a33e8127fbdf032fcf8d7173af22d6fad",
+      "itemID": "ar-daily-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 30311
+  },
+  "audio/be1b564077ab7fe1752161a2016e27dceba17a772be059db587e40694cf7e59d.mp3": {
+    "path": "cache/be1b564077ab7fe1752161a2016e27dceba17a772be059db587e40694cf7e59d.mp3",
+    "sha256": "bdf6f036dc055d72c3af1c5eaa5947a299ffc09a084fbedd8d4911a2d7c720ac",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] نِمْشِي; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_12_39_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] نِمْشِي",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "be1b564077ab7fe1752161a2016e27dceba17a772be059db587e40694cf7e59d",
+      "itemID": "ar-daily-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 44522
+  },
+  "audio/6a1c7770f5ba1738d1772be17e19cadaf633d39294c2795f037c8fef941722cc.mp3": {
+    "path": "cache/6a1c7770f5ba1738d1772be17e19cadaf633d39294c2795f037c8fef941722cc.mp3",
+    "sha256": "2c6e906b79fa8491c281e6af292b9bf6db1be96595d6edb031c3a8652076059d",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text חַכֵּה",
+    "request": {
+      "text": "חַכֵּה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "6a1c7770f5ba1738d1772be17e19cadaf633d39294c2795f037c8fef941722cc",
+      "itemID": "ar-daily-wait",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 13418
+  },
+  "audio/3c832ada3cf96462d95b82abd473043bfe8dbe2bd0969a0f84f08e987e5bc757.mp3": {
+    "path": "cache/3c832ada3cf96462d95b82abd473043bfe8dbe2bd0969a0f84f08e987e5bc757.mp3",
+    "sha256": "d0ae2d7b8be6a44e87e92b38fac351ea89f1232b548d631bf969d0849119efb5",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "اِسْتَنَّى",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "3c832ada3cf96462d95b82abd473043bfe8dbe2bd0969a0f84f08e987e5bc757",
+      "itemID": "ar-daily-wait",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 20105
+  },
+  "audio/11ce8bd1207a3416573fb3a72ce53e3a878c234929de4bcc2c067e1c26950363.mp3": {
+    "path": "cache/11ce8bd1207a3416573fb3a72ce53e3a878c234929de4bcc2c067e1c26950363.mp3",
+    "sha256": "d0d2eab2ba5be2d652e439571df2dab36dc385ab665a9e4e57fe211d72562837",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] اِسْتَنَّى; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_12_54_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] اِسْتَنَّى",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "11ce8bd1207a3416573fb3a72ce53e3a878c234929de4bcc2c067e1c26950363",
+      "itemID": "ar-daily-wait",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 53299
+  },
+  "audio/92f375b4268fbf72bc4a4663f5eedf46f6bd68f41c158624c6758ddbed86f2e0.mp3": {
+    "path": "cache/92f375b4268fbf72bc4a4663f5eedf46f6bd68f41c158624c6758ddbed86f2e0.mp3",
+    "sha256": "a1e9385f198f6e71cc748100214f6d2e7a9f186a16a3a481c780c78cd7e2a211",
+    "provenance": "ElevenLabs browser; Eleven v4; Nimrod ZiofZHcEBTn5sRySe5h8; Hebrew; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text קְצָת",
+    "request": {
+      "text": "קְצָת",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "92f375b4268fbf72bc4a4663f5eedf46f6bd68f41c158624c6758ddbed86f2e0",
+      "itemID": "ar-daily-little",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15926
+  },
+  "audio/4ab55a6d0d896dfc4233a1ee70b5f175eb53c121e49f07b2d4a1bbe2360b34f8.mp3": {
+    "path": "cache/4ab55a6d0d896dfc4233a1ee70b5f175eb53c121e49f07b2d4a1bbe2360b34f8.mp3",
+    "sha256": "1dd2a227c0a02e7a16dff336af4065ac669af6204b4c6e1fd1ae580ecd795218",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "شْوَيّ",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "4ab55a6d0d896dfc4233a1ee70b5f175eb53c121e49f07b2d4a1bbe2360b34f8",
+      "itemID": "ar-daily-little",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 16343
+  },
+  "audio/6a6bb52d42e50f0c3cec9268461c22f78f2b56f87814d8151b3257be7b0c4645.mp3": {
+    "path": "cache/6a6bb52d42e50f0c3cec9268461c22f78f2b56f87814d8151b3257be7b0c4645.mp3",
+    "sha256": "cc93e38e8ef03c9d13ed962ba6704afe3e83d3dbf20ef4ac9de26de93683514c",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] شْوَيّ",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "6a6bb52d42e50f0c3cec9268461c22f78f2b56f87814d8151b3257be7b0c4645",
+      "itemID": "ar-daily-little",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 29300
+  },
+  "audio/b91114dadf0f59d9d454712c2f4285ac31dbcbc3e2cb94a4b62519339955a729.mp3": {
+    "path": "cache/b91114dadf0f59d9d454712c2f4285ac31dbcbc3e2cb94a4b62519339955a729.mp3",
+    "sha256": "df5d42e341ee28eec823461b9f30bcddfad7e387bfd2c7e69d9cffd9d0beff77",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "בְּוַדַּאי",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "b91114dadf0f59d9d454712c2f4285ac31dbcbc3e2cb94a4b62519339955a729",
+      "itemID": "ar-daily-sure",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 17597
+  },
+  "audio/272142f8f08db3ac91faa5a9a0ef729ce761d2afd2b4a7a75f34e9004bad377c.mp3": {
+    "path": "cache/272142f8f08db3ac91faa5a9a0ef729ce761d2afd2b4a7a75f34e9004bad377c.mp3",
+    "sha256": "40bc3fabccc7193f4911879ac483921adf2f1f226d850447ad713e631cebc900",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "أَكِيد",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "272142f8f08db3ac91faa5a9a0ef729ce761d2afd2b4a7a75f34e9004bad377c",
+      "itemID": "ar-daily-sure",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 16343
+  },
+  "audio/777828a4e8c64817d45350c4425c6660483fdd8297d0e6588478ead64857c38a.mp3": {
+    "path": "cache/777828a4e8c64817d45350c4425c6660483fdd8297d0e6588478ead64857c38a.mp3",
+    "sha256": "ac2dbd0888184a1f207967662e46329fc9e409a52df219a6bcd4c670662dd365",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "[slowly] أَكِيد",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "777828a4e8c64817d45350c4425c6660483fdd8297d0e6588478ead64857c38a",
+      "itemID": "ar-daily-sure",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 23030
+  },
+  "audio/ce6022986ea3c58a0a25b8744044cf1f2126e8387bbfc456535600902ff207a2.mp3": {
+    "path": "cache/ce6022986ea3c58a0a25b8744044cf1f2126e8387bbfc456535600902ff207a2.mp3",
+    "sha256": "11fc607304dc5715c4acb4350689442dd4857c51f8e9e249bb2e087c3c15113e",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אַל תִּדְאַג",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "ce6022986ea3c58a0a25b8744044cf1f2126e8387bbfc456535600902ff207a2",
+      "itemID": "ar-daily-no-worries",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 16343
+  },
+  "audio/04a37ed610b89e7c762c8105ca13f1de3b82575ad7163b84bc765b73efbe412b.mp3": {
+    "path": "cache/04a37ed610b89e7c762c8105ca13f1de3b82575ad7163b84bc765b73efbe412b.mp3",
+    "sha256": "0a93e44b6eb9b6f20e07c0fa8cc308ce5c2a79f1e312be1592a933009db4a645",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "وَلَا يْهِمَّك",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "04a37ed610b89e7c762c8105ca13f1de3b82575ad7163b84bc765b73efbe412b",
+      "itemID": "ar-daily-no-worries",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 26792
+  },
+  "audio/05cd93864ed4c2c2408a7089c04b9f8be6ec42e8217f56fafdc3dddc49339968.mp3": {
+    "path": "cache/05cd93864ed4c2c2408a7089c04b9f8be6ec42e8217f56fafdc3dddc49339968.mp3",
+    "sha256": "7dfec884462cb0a4e9c82383e6e372c1b5ca9cbe30c06f2d74e428b1ae5cacab",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] وَلَا يْهِمَّك; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_14_22_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] وَلَا يْهِمَّك",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "05cd93864ed4c2c2408a7089c04b9f8be6ec42e8217f56fafdc3dddc49339968",
+      "itemID": "ar-daily-no-worries",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 52045
+  },
+  "audio/2065287dc2f8df163f623bf00836a46e05a315c162d85a279d36b2f97b7b39fb.mp3": {
+    "path": "cache/2065287dc2f8df163f623bf00836a46e05a315c162d85a279d36b2f97b7b39fb.mp3",
+    "sha256": "1e28f1ba1e01624354ba2e30614a7271c2f2f48614356d3ff497a4f4ff848b50",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "בַּמֶּה אַתָּה עוֹבֵד?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "2065287dc2f8df163f623bf00836a46e05a315c162d85a279d36b2f97b7b39fb",
+      "itemID": "ar-daily-what-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/34d4ac5304df08094f206f4b8e135aae71907c185bb7451f56c766f321a36e7b.mp3": {
+    "path": "cache/34d4ac5304df08094f206f4b8e135aae71907c185bb7451f56c766f321a36e7b.mp3",
+    "sha256": "ddded362a6c5c3091cbec418ecf9394a2118af218597ba9b9ef05efa3b6b720b",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text شُو بْتِشْتِغِل؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_14_32_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4 (1).mp3",
+    "request": {
+      "text": "شُو بْتِشْتِغِل؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "34d4ac5304df08094f206f4b8e135aae71907c185bb7451f56c766f321a36e7b",
+      "itemID": "ar-daily-what-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 35327
+  },
+  "audio/80849da21aa877fe8ad76d5c17b3fbd3ce64e803ed2bfacab6d2e0baafd66f73.mp3": {
+    "path": "cache/80849da21aa877fe8ad76d5c17b3fbd3ce64e803ed2bfacab6d2e0baafd66f73.mp3",
+    "sha256": "9507c15e63c8c8685406d7913a670332d82021475612206550aede471ad34c61",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] شُو بْتِشْتِغِل؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_14_42_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4 (1).mp3",
+    "request": {
+      "text": "[slowly] شُو بْتِشْتِغِل؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "80849da21aa877fe8ad76d5c17b3fbd3ce64e803ed2bfacab6d2e0baafd66f73",
+      "itemID": "ar-daily-what-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 43268
+  },
+  "audio/0fe7126abfb5696d6afadf93eee8bd485b87c696167113143eae090528162f5a.mp3": {
+    "path": "cache/0fe7126abfb5696d6afadf93eee8bd485b87c696167113143eae090528162f5a.mp3",
+    "sha256": "ae15961b24e2757ec5da5fbaa77a3b715ef74b1a5dda785ae810e01aeb228bba",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי מוֹרֶה.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "0fe7126abfb5696d6afadf93eee8bd485b87c696167113143eae090528162f5a",
+      "itemID": "ar-daily-am-teacher",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 18851
+  },
+  "audio/ebeb3469abb6bdbea3369965654c99d85b55dc7a32e5a47e62b8874ae6df64f6.mp3": {
+    "path": "cache/ebeb3469abb6bdbea3369965654c99d85b55dc7a32e5a47e62b8874ae6df64f6.mp3",
+    "sha256": "d30ee37df0bc00004d5653292ee3433eec86e3bcf361d71eb867cfe780397412",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID drMurExmkWVIH5nW8snR; Khaled Alnajjar — Strong and Expressive",
+    "request": {
+      "text": "أَنَا مْعَلِّم.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "ebeb3469abb6bdbea3369965654c99d85b55dc7a32e5a47e62b8874ae6df64f6",
+      "itemID": "ar-daily-am-teacher",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/7f9712b1780469c28a9826bfd486f533a3bd2185059d83c34d8733ce76b104e6.mp3": {
+    "path": "cache/7f9712b1780469c28a9826bfd486f533a3bd2185059d83c34d8733ce76b104e6.mp3",
+    "sha256": "1b04ba80a172c32722bf5d21816f0e8b939ef59e42f4090c53b88982f2c2bada",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] أَنَا مْعَلِّم.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_16_21_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] أَنَا مْعَلِّم.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "7f9712b1780469c28a9826bfd486f533a3bd2185059d83c34d8733ce76b104e6",
+      "itemID": "ar-daily-am-teacher",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 54553
+  },
+  "audio/dcbfe3d901482c05aedc8746ef2ba86a3b0c87d56e0847c84f31dc017d202376.mp3": {
+    "path": "cache/dcbfe3d901482c05aedc8746ef2ba86a3b0c87d56e0847c84f31dc017d202376.mp3",
+    "sha256": "09a42579e96cf9dace286a30c15a58c848f9280abe88f6bad228a7e8f334290d",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֵיפֹה אַתָּה עוֹבֵד?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "dcbfe3d901482c05aedc8746ef2ba86a3b0c87d56e0847c84f31dc017d202376",
+      "itemID": "ar-daily-where-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 20105
+  },
+  "audio/aee5cf0deb550827dceedd3697fca4f14d0376effae7616495887f7431b54815.mp3": {
+    "path": "cache/aee5cf0deb550827dceedd3697fca4f14d0376effae7616495887f7431b54815.mp3",
+    "sha256": "a026c0689078b41f2025586337c9ceb96130c56e51d71087b311bf3484e0df0d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text وَيْن بْتِشْتِغِل؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_16_43_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4 (1).mp3",
+    "request": {
+      "text": "وَيْن بْتِشْتِغِل؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "aee5cf0deb550827dceedd3697fca4f14d0376effae7616495887f7431b54815",
+      "itemID": "ar-daily-where-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 39506
+  },
+  "audio/ec250c22541c33bf4b1ae8d1a1fe63f97c907cc78800b160b4fcfa58085c86f1.mp3": {
+    "path": "cache/ec250c22541c33bf4b1ae8d1a1fe63f97c907cc78800b160b4fcfa58085c86f1.mp3",
+    "sha256": "288bbf573c21404b1419bfea04261e23b3044e933188e9ea96167aeefed35572",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] وَيْن بْتِشْتِغِل؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_17_40_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] وَيْن بْتِشْتِغِل؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "ec250c22541c33bf4b1ae8d1a1fe63f97c907cc78800b160b4fcfa58085c86f1",
+      "itemID": "ar-daily-where-work",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 47030
+  },
+  "audio/0910bb89a2e435150e4ec98b360107e58ab033ef9caa22ef78ee46669bdf2207.mp3": {
+    "path": "cache/0910bb89a2e435150e4ec98b360107e58ab033ef9caa22ef78ee46669bdf2207.mp3",
+    "sha256": "e8b114a42b3c90de7e54151b69d639a858061a052f2be63810724c3270bcfebe",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֵיפֹה אַתָּה גָּר?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "0910bb89a2e435150e4ec98b360107e58ab033ef9caa22ef78ee46669bdf2207",
+      "itemID": "ar-daily-where-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 20105
+  },
+  "audio/e4f4a2ffab637d911ed677ac61a5f5c6c032644cdfe361cf687dea2ea49f7e59.mp3": {
+    "path": "cache/e4f4a2ffab637d911ed677ac61a5f5c6c032644cdfe361cf687dea2ea49f7e59.mp3",
+    "sha256": "e9f49d88de6fe68aa1a99473813efe1594e589d49d1aac42105950b67b6aa67d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text وَيْن سَاكِن؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_17_52_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "وَيْن سَاكِن؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "e4f4a2ffab637d911ed677ac61a5f5c6c032644cdfe361cf687dea2ea49f7e59",
+      "itemID": "ar-daily-where-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 35327
+  },
+  "audio/612934f45054e0fb34109809a7170a5698e086831d8adefc355994c2d1fc82d1.mp3": {
+    "path": "cache/612934f45054e0fb34109809a7170a5698e086831d8adefc355994c2d1fc82d1.mp3",
+    "sha256": "a203c2a8146f9972880a8a7927cbcbe4550cff23dd0e6edd6616356d460d7ddf",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] وَيْن سَاكِن؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_18_41_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] وَيْن سَاكِن؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "612934f45054e0fb34109809a7170a5698e086831d8adefc355994c2d1fc82d1",
+      "itemID": "ar-daily-where-live",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 44522
+  },
+  "audio/6777c885f5a6dafa6c6b640b634e9d68f16d2736f6de789456fcf44603f42200.mp3": {
+    "path": "cache/6777c885f5a6dafa6c6b640b634e9d68f16d2736f6de789456fcf44603f42200.mp3",
+    "sha256": "669c169ffa89fe22fa81f8d44f7678026c956e3a5ac6ba259f852b5c5580bd8b",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי גָּר בְּרָמַאלְלָה.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "6777c885f5a6dafa6c6b640b634e9d68f16d2736f6de789456fcf44603f42200",
+      "itemID": "ar-daily-live-ramallah",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 28046
+  },
+  "audio/695f4271a45c42c745afe2a7ba23c60616aefadc62bd7a0bcf2f2c154716341e.mp3": {
+    "path": "cache/695f4271a45c42c745afe2a7ba23c60616aefadc62bd7a0bcf2f2c154716341e.mp3",
+    "sha256": "05a82b4b905ae6ff4b582a536b49100d622db0bef7b888928a2c60a923b6606f",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text أَنَا سَاكِن بِرَام اللّٰه.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_18_52_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "أَنَا سَاكِن بِرَام اللّٰه.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "695f4271a45c42c745afe2a7ba23c60616aefadc62bd7a0bcf2f2c154716341e",
+      "itemID": "ar-daily-live-ramallah",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 49537
+  },
+  "audio/004b65ef6df8f476b96989ec6eaad432e118d9e6b745d0bbff54edb77a806cad.mp3": {
+    "path": "cache/004b65ef6df8f476b96989ec6eaad432e118d9e6b745d0bbff54edb77a806cad.mp3",
+    "sha256": "fb8f53bd845a82d44e865bccdc3c05cf79697ca34046acd0957483e19b7db8e6",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] أَنَا سَاكِن بِرَام اللّٰه.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_19_06_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] أَنَا سَاكِن بِرَام اللّٰه.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "004b65ef6df8f476b96989ec6eaad432e118d9e6b745d0bbff54edb77a806cad",
+      "itemID": "ar-daily-live-ramallah",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 63748
+  },
+  "audio/20d35142a55c9c3008b186179d3d38c4b4bb111c3a0d8ac99428064a1328eaa6.mp3": {
+    "path": "cache/20d35142a55c9c3008b186179d3d38c4b4bb111c3a0d8ac99428064a1328eaa6.mp3",
+    "sha256": "c3aaf0b2dfa8db8f2cb72b1c806c752f7310285a15594e99fafc730238d3152f",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי גָּר קָרוֹב לְפֹה.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "20d35142a55c9c3008b186179d3d38c4b4bb111c3a0d8ac99428064a1328eaa6",
+      "itemID": "ar-daily-live-near",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 28046
+  },
+  "audio/69a2bc3ab3fdb9b6f0e762ab751e9b293a9cc4ab7fefa573d5c082a1c416f0e7.mp3": {
+    "path": "cache/69a2bc3ab3fdb9b6f0e762ab751e9b293a9cc4ab7fefa573d5c082a1c416f0e7.mp3",
+    "sha256": "8453210610c0eb3f935a1388073fedc36b05f8d2b75ee7a50f87a8b3083a30fd",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text أَنَا سَاكِن قَرِيب مِن هُون.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_19_15_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "أَنَا سَاكِن قَرِيب مِن هُون.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "69a2bc3ab3fdb9b6f0e762ab751e9b293a9cc4ab7fefa573d5c082a1c416f0e7",
+      "itemID": "ar-daily-live-near",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 49537
+  },
+  "audio/426b1ed03707c0f6939f59d4e58b149923416072b421f904b64130ad491bd6b9.mp3": {
+    "path": "cache/426b1ed03707c0f6939f59d4e58b149923416072b421f904b64130ad491bd6b9.mp3",
+    "sha256": "617df05c126c6a087896270f5d09636933a4182154f53922416fbfd4090ac7df",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] أَنَا سَاكِن قَرِيب مِن هُون.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_19_25_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] أَنَا سَاكِن قَرِيب مِن هُون.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "426b1ed03707c0f6939f59d4e58b149923416072b421f904b64130ad491bd6b9",
+      "itemID": "ar-daily-live-near",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 63748
+  },
+  "audio/b2c7cf3167a3b2d9d4f4c534162f2aadff3c878936ceab7fd58ea85acce18447.mp3": {
+    "path": "cache/b2c7cf3167a3b2d9d4f4c534162f2aadff3c878936ceab7fd58ea85acce18447.mp3",
+    "sha256": "55513e0dfbc290ffd23fed7f77ba48373c0969e0f2054b64fe579af25b225d94",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "מָה הַתַּחְבִּיבִים שֶׁלְּךָ?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "b2c7cf3167a3b2d9d4f4c534162f2aadff3c878936ceab7fd58ea85acce18447",
+      "itemID": "ar-daily-your-hobbies",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/81065bdf2d9f39b880e27f04753501c1146d1499905c570df9a1672c0caad16f.mp3": {
+    "path": "cache/81065bdf2d9f39b880e27f04753501c1146d1499905c570df9a1672c0caad16f.mp3",
+    "sha256": "aab3ce662dacb85a6b191d063d1c5230f7904d4abaad26a896e91fd1d2622dc6",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text شُو هِوَايَاتَك؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_19_44__s25_v4.mp3",
+    "request": {
+      "text": "شُو هِوَايَاتَك؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "81065bdf2d9f39b880e27f04753501c1146d1499905c570df9a1672c0caad16f",
+      "itemID": "ar-daily-your-hobbies",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 42014
+  },
+  "audio/ddc7af7e0bb9eb5c88111e11aa51e1518f5ebd6ca2d830f89b6bd535b9419904.mp3": {
+    "path": "cache/ddc7af7e0bb9eb5c88111e11aa51e1518f5ebd6ca2d830f89b6bd535b9419904.mp3",
+    "sha256": "d7d74d731bca0a837f605e04f7584493563f4ea0801f70e640f18055ff66e919",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] شُو هِوَايَاتَك؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_19_56__s25_v4.mp3",
+    "request": {
+      "text": "[slowly] شُو هِوَايَاتَك؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "ddc7af7e0bb9eb5c88111e11aa51e1518f5ebd6ca2d830f89b6bd535b9419904",
+      "itemID": "ar-daily-your-hobbies",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 47030
+  },
+  "audio/16b99dde9d0561226d006599b1b25dfb85f9c76c87b29e50b4af0a90837ddc18.mp3": {
+    "path": "cache/16b99dde9d0561226d006599b1b25dfb85f9c76c87b29e50b4af0a90837ddc18.mp3",
+    "sha256": "5e504865f76d3397e74b8a21797f641b4759e811ba13aa96af9d39fdb82b35a4",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי אוֹהֵב סְפּוֹרְט.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "16b99dde9d0561226d006599b1b25dfb85f9c76c87b29e50b4af0a90837ddc18",
+      "itemID": "ar-daily-like-sport",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 26792
+  },
+  "audio/3bad235282c0e3a50e06f0fb2deae18cf7e42c207073b43657f879509eeba2cb.mp3": {
+    "path": "cache/3bad235282c0e3a50e06f0fb2deae18cf7e42c207073b43657f879509eeba2cb.mp3",
+    "sha256": "2a4bed75ab8f4ec251c5f0b586c402d25385cd15393566f6708cf83b90c03a7b",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text بْحِبّ الرِّيَاضَة.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_20_08__s25_v4.mp3",
+    "request": {
+      "text": "بْحِبّ الرِّيَاضَة.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "3bad235282c0e3a50e06f0fb2deae18cf7e42c207073b43657f879509eeba2cb",
+      "itemID": "ar-daily-like-sport",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 43268
+  },
+  "audio/f70a9d9c6aac420efd5abe38836734110344076ebb8d79cbefb01aecda0dd519.mp3": {
+    "path": "cache/f70a9d9c6aac420efd5abe38836734110344076ebb8d79cbefb01aecda0dd519.mp3",
+    "sha256": "98f4d3bf2167968363ea41216ac965c7c79ca5237ccc9cd6e4e760eb1667115d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] بْحِبّ الرِّيَاضَة.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_20_19__s25_v4.mp3",
+    "request": {
+      "text": "[slowly] بْحِبّ الرِّيَاضَة.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "f70a9d9c6aac420efd5abe38836734110344076ebb8d79cbefb01aecda0dd519",
+      "itemID": "ar-daily-like-sport",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 48283
+  },
+  "audio/6e16a86412eac64c536cf97535fbcf2efecafd59bdc85fafd71fdb87aa736619.mp3": {
+    "path": "cache/6e16a86412eac64c536cf97535fbcf2efecafd59bdc85fafd71fdb87aa736619.mp3",
+    "sha256": "eb4786db03556ea6bc9d171dc5be84a263185023c991731f2d43cf7745de7757",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי אוֹהֵב טֶכְנוֹלוֹגְיָה.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "6e16a86412eac64c536cf97535fbcf2efecafd59bdc85fafd71fdb87aa736619",
+      "itemID": "ar-daily-like-technology",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 26792
+  },
+  "audio/fc34e9a3b338edd7c08cc257c7eb830a1676a7b95d3e03c58cf9ccbc9ad14b2c.mp3": {
+    "path": "cache/fc34e9a3b338edd7c08cc257c7eb830a1676a7b95d3e03c58cf9ccbc9ad14b2c.mp3",
+    "sha256": "9e78d6cc7c811e868c11a610048de313d4b8af1b4396b6305fd0e70a591ffde4",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text بْحِبّ التِّكْنُولُوجْيَا.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_20_42__s25_v4.mp3",
+    "request": {
+      "text": "بْحِبّ التِّكْنُولُوجْيَا.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "fc34e9a3b338edd7c08cc257c7eb830a1676a7b95d3e03c58cf9ccbc9ad14b2c",
+      "itemID": "ar-daily-like-technology",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 44522
+  },
+  "audio/edb76a482ccf6c7d2144d53d76d9e271b61ba0a8b097b1c21bd9919de3174a87.mp3": {
+    "path": "cache/edb76a482ccf6c7d2144d53d76d9e271b61ba0a8b097b1c21bd9919de3174a87.mp3",
+    "sha256": "6fe280582a4cf3707a83ce757806a8b30e821c3205f1d86d44f0530e89c2ee3e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] بْحِبّ التِّكْنُولُوجْيَا.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_24_04_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] بْحِبّ التِّكْنُولُوجْيَا.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "edb76a482ccf6c7d2144d53d76d9e271b61ba0a8b097b1c21bd9919de3174a87",
+      "itemID": "ar-daily-like-technology",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 50791
+  },
+  "audio/811653c276f082982019c5fd5e1d1308fe59338d4d823484944c13d7c5d243ab.mp3": {
+    "path": "cache/811653c276f082982019c5fd5e1d1308fe59338d4d823484944c13d7c5d243ab.mp3",
+    "sha256": "efd7551006e62c1e8da98abbed947d49f61a791cdba3a67d1e7aba5ceae62c29",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "מָה אַתָּה אוֹהֵב לַעֲשׂוֹת בַּזְּמַן הַפָּנוּי שֶׁלְּךָ?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "811653c276f082982019c5fd5e1d1308fe59338d4d823484944c13d7c5d243ab",
+      "itemID": "ar-daily-like-doing",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 40585
+  },
+  "audio/89798983e81dafc49318be36edfac5a625bbf56f92b5f72e02f0da1b1041136b.mp3": {
+    "path": "cache/89798983e81dafc49318be36edfac5a625bbf56f92b5f72e02f0da1b1041136b.mp3",
+    "sha256": "02992c704253e8ea80cb2bfca823a4df964e2f8ad59ca49c9cc171c89e160720",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text شُو بْتِحِبّ تِعْمَل بِوَقْت فَرَاغَك؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_24_13_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "شُو بْتِحِبّ تِعْمَل بِوَقْت فَرَاغَك؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "89798983e81dafc49318be36edfac5a625bbf56f92b5f72e02f0da1b1041136b",
+      "itemID": "ar-daily-like-doing",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 55807
+  },
+  "audio/5652d68b539e4cbfc2bfa81066f2c5a17d83605016f9b01ca15f374f0e6cdd34.mp3": {
+    "path": "cache/5652d68b539e4cbfc2bfa81066f2c5a17d83605016f9b01ca15f374f0e6cdd34.mp3",
+    "sha256": "63720aa63f0951277e5b12c9a1213ec8b352d86ac6334a59a9156b72cf52aad3",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] شُو بْتِحِبّ تِعْمَل بِوَقْت فَرَاغَك؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_24_28_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] شُو بْتِحِبّ تِعْمَل بِوَقْت فَرَاغَك؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "5652d68b539e4cbfc2bfa81066f2c5a17d83605016f9b01ca15f374f0e6cdd34",
+      "itemID": "ar-daily-like-doing",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 62494
+  },
+  "audio/0eb1b707a65260f2ca06f23b197c53ce574c688d7eb7e208c0e07f3ff8798daa.mp3": {
+    "path": "cache/0eb1b707a65260f2ca06f23b197c53ce574c688d7eb7e208c0e07f3ff8798daa.mp3",
+    "sha256": "35dc854f3b6bd7b4ca71ceea30d4e6a67b52cc8f0cd8c6137d859d163648ef5d",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי אוֹהֵב לָלֶכֶת בָּרֶגֶל.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "0eb1b707a65260f2ca06f23b197c53ce574c688d7eb7e208c0e07f3ff8798daa",
+      "itemID": "ar-daily-like-walking",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 29300
+  },
+  "audio/ddb97077784e7ea7507e732e1ea7cc1354f50a9f35d309da8833bf42fd3d92ab.mp3": {
+    "path": "cache/ddb97077784e7ea7507e732e1ea7cc1354f50a9f35d309da8833bf42fd3d92ab.mp3",
+    "sha256": "69b8447528ec509cf1bc561c78ef1fe112a9325313d12df69c8bb725a5b940de",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text بْحِبّ أَمْشِي.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_24_39_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "بْحِبّ أَمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "ddb97077784e7ea7507e732e1ea7cc1354f50a9f35d309da8833bf42fd3d92ab",
+      "itemID": "ar-daily-like-walking",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 42014
+  },
+  "audio/e906a16697df4734dfc3f6cf5ab8afa312e1777a696a94ddbea53168fd4d47e2.mp3": {
+    "path": "cache/e906a16697df4734dfc3f6cf5ab8afa312e1777a696a94ddbea53168fd4d47e2.mp3",
+    "sha256": "02a34a5f018f5a2b6a92aa49818cb27cfd89ddb227bfe98f9d9cff338c395509",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] بْحِبّ أَمْشِي.; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_24_51_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] بْحِبّ أَمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "e906a16697df4734dfc3f6cf5ab8afa312e1777a696a94ddbea53168fd4d47e2",
+      "itemID": "ar-daily-like-walking",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 49537
+  },
+  "audio/ca507216232e219861a137da05b594fe10a5af611d417df89b10c9aa0c795af1.mp3": {
+    "path": "cache/ca507216232e219861a137da05b594fe10a5af611d417df89b10c9aa0c795af1.mp3",
+    "sha256": "719c2898fb6d073d37bddc7d706879b4a53f9aff55e1915272b06ca1513aceb1",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "יֵשׁ לְךָ זְמַן?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "ca507216232e219861a137da05b594fe10a5af611d417df89b10c9aa0c795af1",
+      "itemID": "ar-daily-have-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 21358
+  },
+  "audio/9d5003a5e17c16be995d7fbe05f1359f12c03c70fb11207417880ce83d611662.mp3": {
+    "path": "cache/9d5003a5e17c16be995d7fbe05f1359f12c03c70fb11207417880ce83d611662.mp3",
+    "sha256": "bde86ae1579d8998c3635d67ed9960cd946e288ceac20baa2827097c4ffa232e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text مَعَك وَقْت؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_25_12_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "مَعَك وَقْت؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "9d5003a5e17c16be995d7fbe05f1359f12c03c70fb11207417880ce83d611662",
+      "itemID": "ar-daily-have-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 42014
+  },
+  "audio/57687471d2f356919b0b86b4cce7980f24cc24fe248b56fb78ba656c9b3e38ca.mp3": {
+    "path": "cache/57687471d2f356919b0b86b4cce7980f24cc24fe248b56fb78ba656c9b3e38ca.mp3",
+    "sha256": "ae3c8a2a727a060446ec2bffca30518ffcde16b2bdeb7757781a6962267415ba",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text [slowly] مَعَك وَقْت؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_25_23_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "[slowly] مَعَك وَقْت؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "57687471d2f356919b0b86b4cce7980f24cc24fe248b56fb78ba656c9b3e38ca",
+      "itemID": "ar-daily-have-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 49537
+  },
+  "audio/06f9be94dae55e409f1b8440a05166955b4db30bae7deaab1cc9eb8887cc8e7e.mp3": {
+    "path": "cache/06f9be94dae55e409f1b8440a05166955b4db30bae7deaab1cc9eb8887cc8e7e.mp3",
+    "sha256": "02fa90f368b9db9b9de06504fee19d3bcd67378aa23765fa3fae66132c584cec",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אַתָּה פָּנוּי הַיּוֹם?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "06f9be94dae55e409f1b8440a05166955b4db30bae7deaab1cc9eb8887cc8e7e",
+      "itemID": "ar-daily-free-today",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 23030
+  },
+  "audio/2111fac344a9c5dc77be3e097b66a9df1bf9467d31df3711b2e2fecfc1bd3009.mp3": {
+    "path": "cache/2111fac344a9c5dc77be3e097b66a9df1bf9467d31df3711b2e2fecfc1bd3009.mp3",
+    "sha256": "67e5d1ec0bc50bfd1d4219e29f0b137bcc8767e92732b6fd81c0eac6f33dc12c",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic override; stability .25 similarity .52; exact submitted text إِنْتَ فَاضِي الْيَوْم؟; Generation 1; immediately mapped direct download ElevenLabs_2026-10-22T15_25_33_Khaled Alnajjar - Strong and Expressive_pvc_sp100_s50_sb75_v4.mp3",
+    "request": {
+      "text": "إِنْتَ فَاضِي الْيَوْم؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "2111fac344a9c5dc77be3e097b66a9df1bf9467d31df3711b2e2fecfc1bd3009",
+      "itemID": "ar-daily-free-today",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 45776
+  },
+  "audio/2b57db0cea2a7d89b9c721cda59578da44b78a881eef7ff954aa4b96dcca1b4e.mp3": {
+    "path": "cache/2b57db0cea2a7d89b9c721cda59578da44b78a881eef7ff954aa4b96dcca1b4e.mp3",
+    "sha256": "91abe0e35bc56559decbc86880a74fd38dec99a54645901f4155136dc6268d10",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled; Arabic override; stability .25 similarity .52; Generation 1; exact displayed text [slowly] إِنْتَ فَاضِي الْيَوْم؟; embedded audio read from displayed player",
+    "request": {
+      "text": "[slowly] إِنْتَ فَاضِي الْيَوْم؟",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "2b57db0cea2a7d89b9c721cda59578da44b78a881eef7ff954aa4b96dcca1b4e",
+      "itemID": "ar-daily-free-today",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 36406
+  },
+  "audio/a2136667e737eedddf637f15737a3e0b0df7378a4246a963fe20bf41b437fbf3.mp3": {
+    "path": "cache/a2136667e737eedddf637f15737a3e0b0df7378a4246a963fe20bf41b437fbf3.mp3",
+    "sha256": "a280825f65e6f188246e279e9f2cf532f8dd964f21aba47689691a38b10e7e98",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי פָּנוּי מָחָר.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "a2136667e737eedddf637f15737a3e0b0df7378a4246a963fe20bf41b437fbf3",
+      "itemID": "ar-daily-free-tomorrow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/e62fe6c52b516c19dd3f0dc8a6ce746482621dd4b0b2bb60169f87fee07f4ec6.mp3": {
+    "path": "cache/e62fe6c52b516c19dd3f0dc8a6ce746482621dd4b0b2bb60169f87fee07f4ec6.mp3",
+    "sha256": "1db2a2bfca16a77c54583201f2b29d2306e027d9459b9bf2e425dc04a0ec1f62",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text أَنَا فَاضِي بُكْرَة.",
+    "request": {
+      "text": "أَنَا فَاضِي بُكْرَة.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "e62fe6c52b516c19dd3f0dc8a6ce746482621dd4b0b2bb60169f87fee07f4ec6",
+      "itemID": "ar-daily-free-tomorrow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 27629
+  },
+  "audio/0598e04f294ebdfa2d53820d072eb1888bf8ffbcc16ea0d4f54f932c0fc15486.mp3": {
+    "path": "cache/0598e04f294ebdfa2d53820d072eb1888bf8ffbcc16ea0d4f54f932c0fc15486.mp3",
+    "sha256": "48337ce259c705dc59707f68341c16607b53df1b0ab65d10af8a5010352bd85e",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] أَنَا فَاضِي بُكْرَة.",
+    "request": {
+      "text": "[slowly] أَنَا فَاضِي بُكْرَة.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "0598e04f294ebdfa2d53820d072eb1888bf8ffbcc16ea0d4f54f932c0fc15486",
+      "itemID": "ar-daily-free-tomorrow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 36406
+  },
+  "audio/d056d0179d3d0a1fce6ecd24203fba8e0a3658770060a9de89bb7aa0f81b65e9.mp3": {
+    "path": "cache/d056d0179d3d0a1fce6ecd24203fba8e0a3658770060a9de89bb7aa0f81b65e9.mp3",
+    "sha256": "a3714e7a4afaf90f26179654f9143183cf627cfbbc2a6da3d82ee5bcb1915c4d",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֵין לִי זְמַן עַכְשָׁו.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "d056d0179d3d0a1fce6ecd24203fba8e0a3658770060a9de89bb7aa0f81b65e9",
+      "itemID": "ar-daily-no-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/659c01c80b7c6eae96bfb670f69435fe372e0495818b5d6649ee7a1de3b83a8a.mp3": {
+    "path": "cache/659c01c80b7c6eae96bfb670f69435fe372e0495818b5d6649ee7a1de3b83a8a.mp3",
+    "sha256": "125233ead0269e954e407d50c2fee06cfb3c8b0bfc536c3515066f69440c82d9",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text مَا عِنْدِي وَقْت هَلَّق.",
+    "request": {
+      "text": "مَا عِنْدِي وَقْت هَلَّق.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "659c01c80b7c6eae96bfb670f69435fe372e0495818b5d6649ee7a1de3b83a8a",
+      "itemID": "ar-daily-no-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 33898
+  },
+  "audio/255b15c0f5ceca60da9f2b691cd0ce37e41398b6d11e120c96cc48b0f2814cc5.mp3": {
+    "path": "cache/255b15c0f5ceca60da9f2b691cd0ce37e41398b6d11e120c96cc48b0f2814cc5.mp3",
+    "sha256": "07f479cb99c9086f9c091e2128dfd41daf1e2af00a90c270f0f5167df53940f6",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] مَا عِنْدِي وَقْت هَلَّق.",
+    "request": {
+      "text": "[slowly] مَا عِنْدِي وَقْت هَلَّق.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "255b15c0f5ceca60da9f2b691cd0ce37e41398b6d11e120c96cc48b0f2814cc5",
+      "itemID": "ar-daily-no-time",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 35152
+  },
+  "audio/4d409b81f403ee43d0b0541d367193c8223af90f7091c0925b7ae0554fb96300.mp3": {
+    "path": "cache/4d409b81f403ee43d0b0541d367193c8223af90f7091c0925b7ae0554fb96300.mp3",
+    "sha256": "5f3dcc60eb08dd0e1ac9bfdc1beabfe241ff4f113cbb47378158bf04e65575c5",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "יַאלְלָה, בּוֹא נֵלֵךְ.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "4d409b81f403ee43d0b0541d367193c8223af90f7091c0925b7ae0554fb96300",
+      "itemID": "ar-daily-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 33061
+  },
+  "audio/c03e097fcacbe9b41925c9ae6c4f994cc210a66e32cd2be50abfebe17e159449.mp3": {
+    "path": "cache/c03e097fcacbe9b41925c9ae6c4f994cc210a66e32cd2be50abfebe17e159449.mp3",
+    "sha256": "d6c55953af021a74577808c09ff6b61959d2d5dfc835ab71acac47387e3dfb81",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text يَلَّا نِمْشِي.",
+    "request": {
+      "text": "يَلَّا نِمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "c03e097fcacbe9b41925c9ae6c4f994cc210a66e32cd2be50abfebe17e159449",
+      "itemID": "ar-daily-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15926
+  },
+  "audio/345f6415b4ec3ac8f9d1c4ca78bc7f384df017bebbd5775e88f9d12b3eee0c7d.mp3": {
+    "path": "cache/345f6415b4ec3ac8f9d1c4ca78bc7f384df017bebbd5775e88f9d12b3eee0c7d.mp3",
+    "sha256": "5fe5f88eb35712873fe1894377bb052845871fb658ae4720e0cff4c9d1cad730",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] يَلَّا نِمْشِي.",
+    "request": {
+      "text": "[slowly] يَلَّا نِمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "345f6415b4ec3ac8f9d1c4ca78bc7f384df017bebbd5775e88f9d12b3eee0c7d",
+      "itemID": "ar-daily-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 23867
+  },
+  "audio/6f30c5dde7d866be564fc4b81406b4b02186a9d2a89681853e69e2c4527cf458.mp3": {
+    "path": "cache/6f30c5dde7d866be564fc4b81406b4b02186a9d2a89681853e69e2c4527cf458.mp3",
+    "sha256": "470b2709b378dd2e1995da9ca31abf417206c2a6e91514c72a001e9a0b198a05",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "חַכֵּה רֶגַע.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "6f30c5dde7d866be564fc4b81406b4b02186a9d2a89681853e69e2c4527cf458",
+      "itemID": "ar-daily-wait-moment",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/c35f58242869da2581b6b455381c8ed5382fb8cfa3a5f32ba3435c3e189deae1.mp3": {
+    "path": "cache/c35f58242869da2581b6b455381c8ed5382fb8cfa3a5f32ba3435c3e189deae1.mp3",
+    "sha256": "c62130a42821e0defd842f7a25fa763cadc5a8323e74af020020dd3243abae51",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text اِسْتَنَّى شْوَيّ.",
+    "request": {
+      "text": "اِسْتَنَّى شْوَيّ.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "c35f58242869da2581b6b455381c8ed5382fb8cfa3a5f32ba3435c3e189deae1",
+      "itemID": "ar-daily-wait-moment",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 20941
+  },
+  "audio/1926cd3e05c580ed5ef23f389ca5c71e5884becdf2aba675639fa9240f903a54.mp3": {
+    "path": "cache/1926cd3e05c580ed5ef23f389ca5c71e5884becdf2aba675639fa9240f903a54.mp3",
+    "sha256": "523d495a4fd9b50ec291bcc8371054f1e9c766f6281848d45ad3b672b8406a06",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] اِسْتَنَّى شْوَيّ.",
+    "request": {
+      "text": "[slowly] اِسْتَنَّى شْوَيّ.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "1926cd3e05c580ed5ef23f389ca5c71e5884becdf2aba675639fa9240f903a54",
+      "itemID": "ar-daily-wait-moment",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 27629
+  },
+  "audio/2fefee0c410b358677f585782bf9f6a1c5bbf3b29dd37c5753b4ae6b5b1013e5.mp3": {
+    "path": "cache/2fefee0c410b358677f585782bf9f6a1c5bbf3b29dd37c5753b4ae6b5b1013e5.mp3",
+    "sha256": "8b52fb0ffee81f1e3515221d1bffafc5a5c1510464f5861f8495e54af63fdeb2",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֵין בְּעָיָה.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "2fefee0c410b358677f585782bf9f6a1c5bbf3b29dd37c5753b4ae6b5b1013e5",
+      "itemID": "ar-daily-no-problem",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 17597
+  },
+  "audio/48c92aa243e0ecf9b092c74ca82ae8ff65662d3921a89c38848941d9ef25eebe.mp3": {
+    "path": "cache/48c92aa243e0ecf9b092c74ca82ae8ff65662d3921a89c38848941d9ef25eebe.mp3",
+    "sha256": "eae626a6abad4b31e704aaf986b1a15e650f4143685e213c671ec5ed4c79db4d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text وَلَا يْهِمَّك.",
+    "request": {
+      "text": "وَلَا يْهِمَّك.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "48c92aa243e0ecf9b092c74ca82ae8ff65662d3921a89c38848941d9ef25eebe",
+      "itemID": "ar-daily-no-problem",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 27629
+  },
+  "audio/d8027f2f56a566083a95aa17f932b66645662166a89e7182f4b96598faac36c0.mp3": {
+    "path": "cache/d8027f2f56a566083a95aa17f932b66645662166a89e7182f4b96598faac36c0.mp3",
+    "sha256": "41bbc1157da61dc8c2e6f8c8a79e127b34cea29f5c9be23e886cd1a8b05a8578",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] وَلَا يْهِمَّك.",
+    "request": {
+      "text": "[slowly] وَلَا يْهِمَّك.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "d8027f2f56a566083a95aa17f932b66645662166a89e7182f4b96598faac36c0",
+      "itemID": "ar-daily-no-problem",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 37660
+  },
+  "audio/62163f6d1b04d47f1a68596ab42a0eee907ff7f0f615f0389d4b09c0420e3b35.mp3": {
+    "path": "cache/62163f6d1b04d47f1a68596ab42a0eee907ff7f0f615f0389d4b09c0420e3b35.mp3",
+    "sha256": "4ca6826b1c0d1475c923ddfa06184f9b71c1cbbe4a0d66bdff17f52e2c9237fb",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "בְּוַדַּאי.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "62163f6d1b04d47f1a68596ab42a0eee907ff7f0f615f0389d4b09c0420e3b35",
+      "itemID": "ar-daily-of-course",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 18851
+  },
+  "audio/4e4fa1688de612d3b56f61cda1ae6e955c8f6c0b42b2eac6caae67f33d64582a.mp3": {
+    "path": "cache/4e4fa1688de612d3b56f61cda1ae6e955c8f6c0b42b2eac6caae67f33d64582a.mp3",
+    "sha256": "a246fb45aa45f526080eeb8a7396c04134452d566b506f596f3d70393883f755",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text أَكِيد.",
+    "request": {
+      "text": "أَكِيد.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "4e4fa1688de612d3b56f61cda1ae6e955c8f6c0b42b2eac6caae67f33d64582a",
+      "itemID": "ar-daily-of-course",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 18434
+  },
+  "audio/07964f14b9c1f894cae6df17a23c892f0611e7d72e4530826c229d0a7e25c1e6.mp3": {
+    "path": "cache/07964f14b9c1f894cae6df17a23c892f0611e7d72e4530826c229d0a7e25c1e6.mp3",
+    "sha256": "e092254a30a165e8b7d083f96eeffec5438f54e58018605059a9eef55878cea9",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] أَكِيد.",
+    "request": {
+      "text": "[slowly] أَكِيد.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "07964f14b9c1f894cae6df17a23c892f0611e7d72e4530826c229d0a7e25c1e6",
+      "itemID": "ar-daily-of-course",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25121
+  },
+  "audio/97f3e24428baf5278224ae94c436de9a9156ba973a5b93a40cb04dc9311a16c3.mp3": {
+    "path": "cache/97f3e24428baf5278224ae94c436de9a9156ba973a5b93a40cb04dc9311a16c3.mp3",
+    "sha256": "e0ad3363916e665cb569489220b93fcad004de6ac9aa17f9690bf231a70ea023",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "בְּוַדַּאי, בּוֹא נֵלֵךְ.",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "97f3e24428baf5278224ae94c436de9a9156ba973a5b93a40cb04dc9311a16c3",
+      "itemID": "ar-daily-sure-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 30554
+  },
+  "audio/4ad303ed2ddd52b8e137af03c31d1e07f971abe7c6888eae74a6574a31966c5f.mp3": {
+    "path": "cache/4ad303ed2ddd52b8e137af03c31d1e07f971abe7c6888eae74a6574a31966c5f.mp3",
+    "sha256": "7eef0489c666990e2e9ebf4b220e52f3c4ce089616d09d690997fdebe83e23e8",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text أَكِيد، يَلَّا نِمْشِي.",
+    "request": {
+      "text": "أَكِيد، يَلَّا نِمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "normal",
+      "key": "4ad303ed2ddd52b8e137af03c31d1e07f971abe7c6888eae74a6574a31966c5f",
+      "itemID": "ar-daily-sure-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 27629
+  },
+  "audio/1334e0ea7b1e947df097db0d48e169ec8d156038b8a31bec1246cbb2ea037b29.mp3": {
+    "path": "cache/1334e0ea7b1e947df097db0d48e169ec8d156038b8a31bec1246cbb2ea037b29.mp3",
+    "sha256": "057e33fd76108ecdc3cc35efe3edddbd5b278e722fade07d123ba3d60df6ee5d",
+    "provenance": "ElevenLabs browser; Eleven v4; Khaled drMurExmkWVIH5nW8snR; Arabic; stability .25 similarity .52; exact approved editor text; Generation 1; embedded data audio read from displayed player; exact submitted text [slowly] أَكِيد، يَلَّا نِمْشِي.",
+    "request": {
+      "text": "[slowly] أَكِيد، يَلَّا نِمْشِي.",
+      "language": "ar-PS",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "drMurExmkWVIH5nW8snR",
+        "voiceName": "Khaled Alnajjar — Strong and Expressive",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "synthesis",
+        "prefix": "[slowly] "
+      },
+      "key": "1334e0ea7b1e947df097db0d48e169ec8d156038b8a31bec1246cbb2ea037b29",
+      "itemID": "ar-daily-sure-lets-walk",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 37660
+  }
+}

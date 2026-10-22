@@ -9,6 +9,14 @@
       "version": "1"
     },
     {
+      "id": "arabic-daily-conversation",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-daily-conversation/1",
+      "title": "Daily conversation: work, home and hobbies",
+      "version": "1"
+    },
+    {
       "id": "arabic-getting-around",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
