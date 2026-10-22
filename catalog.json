@@ -1,6 +1,14 @@
 {
   "lessons": [
     {
+      "id": "arabic-conversation-past",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-conversation-past/1",
+      "title": "Yesterday — I, You and He",
+      "version": "1"
+    },
+    {
       "id": "arabic-getting-around",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
