@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": 1,
+  "id": "thai-echo-day-012",
+  "version": "1",
+  "title": "פעלים שימושיים: החלטות, תיאומים ופתרון בעיות",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "th-TH",
+    "name": "Thai",
+    "dialect": "Standard Thai"
+  },
+  "reviewStatus": "Listening preview — pronunciation checks incomplete; not approved",
+  "items": [
+    {
+      "id": "d012-s01-1-37cf25ae",
+      "kind": "word",
+      "target": "ตัดสินใจ",
+      "meaningHebrew": "לְהַחְלִיט",
+      "transliteration": {
+        "latin": "dtàt-sǐn-jai",
+        "hebrew": "טַט־סִין־צַ׳אי"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7c2c67e4e80c8b88f0d1047837571da12f647263ac83197d92ab790c715a81a2.mp3",
+        "normal": "audio/750b7d27f80503bb4c728d1de40288a81d8b08289e084f726a6543030b407d3f.wav",
+        "slow": "audio/d4bd922b83a41bbb3fb0d4ffb4db0b4f1522a938d1b3f9c94d4753ac13219899.wav"
+      }
+    },
+    {
+      "id": "d012-s01",
+      "kind": "sentence",
+      "target": "ผมยังไม่ได้ตัดสินใจว่าจะไปพรุ่งนี้ไหมครับ",
+      "meaningHebrew": "עדיין לא החלטתי אם לנסוע מחר.",
+      "transliteration": {
+        "latin": "phǒm yang mâi dâai dtàt-sǐn-jai wâa jàʔ bpai phrûng-níi mǎi khráp",
+        "hebrew": "פּוֹם יַנְג מַאי דַאי טַט־סִין־צַ׳אי וָא צַ׳א פַּאי פְּרוּנְג־נִי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s01-1-37cf25ae"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/921dc3f4465d63a93b5e78edfffd455d88cf94f20701d168c43bea8b0ef0594b.wav",
+        "normal": "audio/a1fd9a48a9b255bbc4862b6af030804639ddf97989d28ea97bedb85fed4d9879.wav",
+        "slow": "audio/4269d81f8ff90f68b310c97375f04f0c40c3bb88bed59c8acbd04a40cf0bc6ad.wav"
+      }
+    },
+    {
+      "id": "d012-s01-variation-1",
+      "kind": "sentence",
+      "target": "ผมเลือกวันที่สะดวกแล้วครับ",
+      "meaningHebrew": "כבר בחרתי יום שמתאים לי.",
+      "transliteration": {
+        "latin": "phǒm lʉ̂ak wan-thîi sà-dùak lɛ́ɛw khráp",
+        "hebrew": "פּוֹם לֻאַק וַן־טִי סַ־דוּאַק לֶאוֹ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-extra-convenient"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9aac43842431b33d9ab29118c368bd02a8d195d09e058cc7d0b6db3600b08351.wav",
+        "normal": "audio/32be3d5808b1e2319c7c210ae649ca4a12e5828ea328efc461082a90a7c24320.wav",
+        "slow": "audio/1a3a93331d634bb082db73ad0ec91b868f83404c3e3a054055227994d3454811.wav"
+      }
+    },
+    {
+      "id": "d012-s02-1-34a86187",
+      "kind": "word",
+      "target": "เปลี่ยน",
+      "meaningHebrew": "לְשַׁנּוֹת אוֹ לְהַחֲלִיף",
+      "transliteration": {
+        "latin": "bplìan",
+        "hebrew": "פְּלִיאַן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a45deb87d71ec909d1f73fbc1fb77a62dc6517b402f70fb629f22705ca7fc3c0.mp3",
+        "normal": "audio/d556f06a8564682c3e780df55a22b435296458374f11cfcf0de317252181f0d0.wav",
+        "slow": "audio/33f87f1c2ca92fefe3a3579c46153ebd62316be280248e9f195c7d7aeaf868e7.wav"
+      }
+    },
+    {
+      "id": "d012-s02",
+      "kind": "sentence",
+      "target": "ผมอยากเปลี่ยนแผน เพราะพรุ่งนี้ไม่ว่างครับ",
+      "meaningHebrew": "אני רוצה לשנות את התוכנית כי מחר אני לא פנוי.",
+      "transliteration": {
+        "latin": "phǒm yàak bplìan phɛ̌ɛn phrɔ́ʔ phrûng-níi mâi wâang khráp",
+        "hebrew": "פּוֹם יָאק פְּלִיאַן פֶּן פְּרוֹ פְּרוּנְג־נִי מַאי וָאנְג קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s02-1-34a86187"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/52dd1ff7f06db3e098b829509e3ce0eaab6107eed2bfeb3df832ffefad5d92b1.wav",
+        "normal": "audio/5b198faaf5f3eb6beb3cf2fd3f13e442b7acb9ddedd613ae4a5d162060969d73.wav",
+        "slow": "audio/58aee5a6eb2d9cdcb26309f3583b4c11fca49bba2c6747aee4a137c6f0167f9a.wav"
+      }
+    },
+    {
+      "id": "d012-s02-variation-1",
+      "kind": "sentence",
+      "target": "เราตกลงว่าจะเปลี่ยนแผนครับ",
+      "meaningHebrew": "אנחנו מסכימים לשנות את התוכנית.",
+      "transliteration": {
+        "latin": "rao dtòk-long wâa jàʔ bplìan phɛ̌ɛn khráp",
+        "hebrew": "רַאוֹ טוֹק־לוֹנְג וָא צַ׳א פְּלִיאַן פֶּן קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s02-1-34a86187"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/f1ecaaeae7b424ba62714eda0a20d9e091648e9f5c4c19c83c195e48ca6df494.wav",
+        "normal": "audio/4b2601a0bcbf0c3cf1130921f7dc4f8d9ee70a24154fd624ac8f1cca89bf5873.wav",
+        "slow": "audio/05925b48d9606819621a2658a9cc6a9027b8dfc1d058fa66f3d5f183b52a256a.wav"
+      }
+    },
+    {
+      "id": "d012-s03-1-a48e81b0",
+      "kind": "word",
+      "target": "วางแผน",
+      "meaningHebrew": "לְתַכְנֵן",
+      "transliteration": {
+        "latin": "waang-phɛ̌ɛn",
+        "hebrew": "וָאנְג־פֶּן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a7bd349955a3b010d345a399a638ccafb1a501b399943ec537df88857e6f9f23.mp3",
+        "normal": "audio/287fe12b966f12e5a2561f107548bdfa79cdfbb6aac96ce3b7a2b05f2fe33849.wav",
+        "slow": "audio/a10360b1e6252f9afa159e4b195f66a1c73ed1becc8fe5f4fadeb1631b154685.wav"
+      }
+    },
+    {
+      "id": "d012-s03",
+      "kind": "sentence",
+      "target": "ผมวางแผนว่าจะไปเชียงใหม่สุดสัปดาห์นี้ครับ",
+      "meaningHebrew": "תכננתי לנסוע לצ׳אנג מאי בסוף השבוע.",
+      "transliteration": {
+        "latin": "phǒm waang-phɛ̌ɛn wâa jàʔ bpai chiiang-mài sùt-sàp-daa níi khráp",
+        "hebrew": "פּוֹם וָאנְג־פֶּן וָא צַ׳א פַּאי צְ׳יאַנְג־מַאי סוּט־סַפּ־דָא נִי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s03-1-a48e81b0"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9726a0dd8e392e851099621954978f00a013186300b6630421b7ed5aec26e034.wav",
+        "normal": "audio/79e11a57ba0cfe8412940d21abfd3257cfdb356d397afdc6249935efa13ca4ea.wav",
+        "slow": "audio/cf2f134790e555be4b76397877f135997f30df2ab68f17a93f0a31f0a5ab67c5.wav"
+      }
+    },
+    {
+      "id": "d012-s03-variation-1",
+      "kind": "sentence",
+      "target": "ผมต้องเตรียมของก่อนเดินทางครับ",
+      "meaningHebrew": "אני צריך להכין את הדברים לפני הנסיעה.",
+      "transliteration": {
+        "latin": "phǒm dtɔ̂ng dtriiam khɔ̌ɔng gɔ̀ɔn dəən-thaang khráp",
+        "hebrew": "פּוֹם טוֹנְג טְרִיאַם קוֹנְג קוֹן דֶן־טָאנְג קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-extra-prepare"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/5378752c7acfcf2b1cbd1d73f0d1ba63249805371acc8bb0ca7c4b0853428d75.wav",
+        "normal": "audio/3d9bf5dc883dea92ae8d4749e722d4881e0ea80f080c976e4f27925bc6e0227d.wav",
+        "slow": "audio/9958dc839176d6771b1a3a45a5e18ef8f4d7ba3154047c59b7702ab69e2298da.wav"
+      }
+    },
+    {
+      "id": "d012-s04-1-ddb83155",
+      "kind": "word",
+      "target": "ลอง",
+      "meaningHebrew": "לְנַסּוֹת",
+      "transliteration": {
+        "latin": "lɔɔng",
+        "hebrew": "לוֹנְג"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/8ffb9ed1a2d63ed100fdb109bfc4f574fb44099704d0a29f75de5d0f00a95212.mp3",
+        "normal": "audio/7200f5c9f3d7d63e768631c50b4575a8c239167e8f9cd5bdc352a2876f975063.wav",
+        "slow": "audio/780a83b28588349badf3ca9923d48040ad15649f9ecdb9cf87cab5485b4a02f1.wav"
+      }
+    },
+    {
+      "id": "d012-s04",
+      "kind": "sentence",
+      "target": "ผมอยากลองเชื่อมต่ออีกครั้งครับ",
+      "meaningHebrew": "אני רוצה לנסות להתחבר שוב.",
+      "transliteration": {
+        "latin": "phǒm yàak lɔɔng chʉ̂am dtɔ̀ɔ ìik-khráng khráp",
+        "hebrew": "פּוֹם יָאק לוֹנְג צֻ׳אַם טוֹ אִיק־קְרַנְג קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s04-1-ddb83155"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/6a0db6390441973f04657d65e3845f0df93e6c4034b80568119adbe1ed632ef8.wav",
+        "normal": "audio/a2f697ae078503adf7a512d724d9e4446977bd3332057ad61529c39d5c54c17c.wav",
+        "slow": "audio/800509d17956075886007ecd6bb00a6f64a17e0b3b3cc42c9c6a4109aa214d38.wav"
+      }
+    },
+    {
+      "id": "d012-s04-variation-1",
+      "kind": "sentence",
+      "target": "พักแล้วผมอยากเริ่มใหม่ครับ",
+      "meaningHebrew": "אחרי ההפסקה אני רוצה להתחיל מחדש.",
+      "transliteration": {
+        "latin": "phák lɛ́ɛw phǒm yàak rə̂əm mài khráp",
+        "hebrew": "פַּק לֶאוֹ פּוֹם יָאק רֶם מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-extra-start"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/b51037a5f8dd6c0af0188d10b3585e4f63dff11659c0fe4242f2e005e5ed8ab7.wav",
+        "normal": "audio/e22c61aa9b2e362ae9bd57ac4bc3acbd7633fce832fbafe21be9ec771e8a6ebd.wav",
+        "slow": "audio/cf6807193cf4368859b97eb42cc238d195f04ccf55e51d4e072fdca75d54a1c8.wav"
+      }
+    },
+    {
+      "id": "d012-s05-1-e1a64b69",
+      "kind": "word",
+      "target": "ทำต่อ",
+      "meaningHebrew": "לְהַמְשִׁיךְ לַעֲשׂוֹת",
+      "transliteration": {
+        "latin": "tham dtɔ̀ɔ",
+        "hebrew": "טַם טוֹ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/b431b47d715d1b26c23f9b425a95748d161bb0197d14dd9f173be4a1371bf82f.mp3",
+        "normal": "audio/6f8eaca5efbe7c0de9a5c64421ab820f0b43e13ef6fc46900de0d74f781e55aa.wav",
+        "slow": "audio/bd1008eec216f3942d3cbacf3cab2c9aada2ff6127d85a00c62c9317fb32be22.wav"
+      }
+    },
+    {
+      "id": "d012-s05",
+      "kind": "sentence",
+      "target": "ผมอยากทำต่อหลังพักครับ",
+      "meaningHebrew": "אני רוצה להמשיך לעשות את זה אחרי ההפסקה.",
+      "transliteration": {
+        "latin": "phǒm yàak tham dtɔ̀ɔ lǎng phák khráp",
+        "hebrew": "פּוֹם יָאק טַם טוֹ לַנְג פַּק קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s05-1-e1a64b69"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/3f4dea14178c9a8908e935cf4c799a564ffb0fb401c6d66c615aa036c23478ef.wav",
+        "normal": "audio/d4a8adceeff6e778e2d625b1ef82fbe05a9dbf4d9435e30eac2dd657aa357f6b.wav",
+        "slow": "audio/ed7b073901a6405ebb98df5ea4d95fb1963f2bba76d8ae393c01323524c6742d.wav"
+      }
+    },
+    {
+      "id": "d012-s05-variation-1",
+      "kind": "sentence",
+      "target": "ถ้าเจ็บขา ผมต้องหยุดก่อนครับ",
+      "meaningHebrew": "אם כואבת לי הרגל אני צריך לעצור קודם.",
+      "transliteration": {
+        "latin": "thâa jèp khǎa phǒm dtɔ̂ng yùt gɔ̀ɔn khráp",
+        "hebrew": "טָא צֶ׳פּ קָא פּוֹם טוֹנְג יוּט קוֹן קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-extra-stop"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/dd78447de5aad54afb3ab298533f74ba01acd1d94970da189e76929b09f7e3e5.wav",
+        "normal": "audio/34ea7ea99891c173e2478fef40af0653ed3490981584391ca287ab22ac264d10.wav",
+        "slow": "audio/811fe8426db8cef1fd2abd9f1b6ba427c09ce8547758e269f179ba2b9ccd8d77.wav"
+      }
+    },
+    {
+      "id": "d012-s06-1-2a1f8e61",
+      "kind": "word",
+      "target": "อธิบาย",
+      "meaningHebrew": "לְהַסְבִּיר",
+      "transliteration": {
+        "latin": "à-thí-baai",
+        "hebrew": "אַ־טִי־בָּאי"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ad771db20f308607829f99f80ebafb5861647d6b63fc59b93025db98d24e85f7.mp3",
+        "normal": "audio/1cd55b3377ee0b2949c8b568853ea7532ace6fbe8b853a4ae3ccd95f2564a5cc.wav",
+        "slow": "audio/8d51c0ce6ed46316a6bed0faacbc8f3c035125caea00e3200fa7fb5fe38464c0.wav"
+      }
+    },
+    {
+      "id": "d012-s06",
+      "kind": "sentence",
+      "target": "ช่วยอธิบายตรงนี้ช้าลงหน่อยได้ไหมครับ",
+      "meaningHebrew": "אפשר להסביר את החלק הזה קצת יותר לאט?",
+      "transliteration": {
+        "latin": "chûai à-thí-baai dtrong-níi cháa long nɔ̀i dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי אַ־טִי־בָּאי טְרוֹנְג־נִי צָ׳א לוֹנְג נוֹי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s06-1-2a1f8e61"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c29cae4539c3ddeaba0362d183adade43167c86a216ec8d2bb6021d8c2d8fd0d.wav",
+        "normal": "audio/9f43767b12d10a0ee7dcabbc5df68fffa99f4592c766aaf6e473c5ff8efce074.wav",
+        "slow": "audio/e0320aafc24031f033a9299af3f4944b7c771bd031c416f2874f6386e273a304.wav"
+      }
+    },
+    {
+      "id": "d012-s06-variation-1",
+      "kind": "sentence",
+      "target": "ช่วยอธิบายอีกครั้งพร้อมยกตัวอย่างได้ไหมครับ",
+      "meaningHebrew": "אפשר להסביר שוב עם דוגמה?",
+      "transliteration": {
+        "latin": "chûai à-thí-baai ìik-khráng phrɔ́ɔm yók dtuua-yàang dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי אַ־טִי־בָּאי אִיק־קְרַנְג פְּרוֹם יוֹק טוּאַ־יָאנְג דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s06-1-2a1f8e61"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/3bdb65702943ba40e9568ac4d9a8185cac0c5b9397764728f41fdf261c0fe04e.wav",
+        "normal": "audio/0327eb9a62aec80a5b7daac8f21c5755e399ca6f0a66a85e30fff9d30d47ec9a.wav",
+        "slow": "audio/4e4a763fa5eac1d50cdde5a55602a89fa76cdf98943e181a176ccaffa7bbac52.wav"
+      }
+    },
+    {
+      "id": "d012-s07-1-8bdd8041",
+      "kind": "word",
+      "target": "หมายถึง",
+      "meaningHebrew": "לְהִתְכַּוֵּן",
+      "transliteration": {
+        "latin": "mǎai thʉ̌ng",
+        "hebrew": "מַאי טֻנְג"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/f16a2d059b71cd72238eb867d97159e462c88d614a6ba7b55c959f853b756c33.mp3",
+        "normal": "audio/ceb35696df0ddc164e61f5faad8aef174637d031a014f738d4c59a4830e870b8.wav",
+        "slow": "audio/2a3536df9ff8e5ed73659d2bb53d784529a24da7045f5ae0c96a5f159772c243.wav"
+      }
+    },
+    {
+      "id": "d012-s07",
+      "kind": "sentence",
+      "target": "คุณหมายถึงว่าต้องเปลี่ยนอะไหล่ชิ้นนี้ใช่ไหมครับ",
+      "meaningHebrew": "אתה מתכוון שצריך להחליף את החלק הזה?",
+      "transliteration": {
+        "latin": "khun mǎai thʉ̌ng wâa dtɔ̂ng bplìan à-lài chín níi châi mǎi khráp",
+        "hebrew": "קוּן מַאי טֻנְג וָא טוֹנְג פְּלִיאַן אַ־לַאי צִ׳ין נִי צַ׳אי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s07-1-8bdd8041"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c87ee9a481e89c0b7883162ad6efbf7c8df94acdcaf96f6c6c7fbe7d9921fa32.wav",
+        "normal": "audio/e2f46c7cbd4a62b66dcc75fe900a799b98ef02c6a8edf26b277df1b0d8eb0cae.wav",
+        "slow": "audio/79eab07e3b71e171f0ee53d2834990ac4f7ec2d058f7be235ecdbe9fa0036f60.wav"
+      }
+    },
+    {
+      "id": "d012-s07-variation-1",
+      "kind": "sentence",
+      "target": "คุณหมายถึงพรุ่งนี้เช้าหรือพรุ่งนี้บ่ายครับ",
+      "meaningHebrew": "אתה מתכוון למחר בבוקר או אחר הצהריים?",
+      "transliteration": {
+        "latin": "khun mǎai thʉ̌ng phrûng-níi cháao rʉ̌ʉ phrûng-níi bàai khráp",
+        "hebrew": "קוּן מַאי טֻנְג פְּרוּנְג־נִי צָ׳אוֹ רֻ פְּרוּנְג־נִי בָּאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s07-1-8bdd8041"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/42f573d913f8ee747c26d2d54bf849b8b238f0cdf8b72b9331e40f8ad738b98a.wav",
+        "normal": "audio/3fa51ea47d45671688f6cada6415c00cf0a018e15d9f0f95a9685057f1c0fe44.wav",
+        "slow": "audio/5f75cd4e2c035128f2d68081d638a781a6110ca5cd455bf0a293e66d8e8306c8.wav"
+      }
+    },
+    {
+      "id": "d012-s08-1-f11f864a",
+      "kind": "word",
+      "target": "จำ",
+      "meaningHebrew": "לִזְכּוֹר",
+      "transliteration": {
+        "latin": "jam",
+        "hebrew": "צַ׳ם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7e0ff5e399d70a308ba9efe7945c8c0916bb055da38a7da01eee842425f57d7f.mp3",
+        "normal": "audio/158ed1c317788fa606ee4e4aac8a42a3a4c1533ac8021ea20bcee983507d8b83.wav",
+        "slow": "audio/b94190fc13b3b85b1d2e4af8b1ec60d61c55b77a7b811d9081b8855bc9f3cbb6.wav"
+      }
+    },
+    {
+      "id": "d012-s08",
+      "kind": "sentence",
+      "target": "ผมจำคำนี้ได้ แต่จำความหมายไม่ได้ครับ",
+      "meaningHebrew": "אני זוכר את המילה הזאת אבל לא זוכר את המשמעות.",
+      "transliteration": {
+        "latin": "phǒm jam kham níi dâai dtɛ̀ɛ jam khwaam-mǎai mâi dâai khráp",
+        "hebrew": "פּוֹם צַ׳ם קַם נִי דַאי טֶה צַ׳ם קְוָאם־מַאי מַאי דַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s08-1-f11f864a"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4cf78d14520489441eae725890540cfc215892f7f28e22229f5cb1585a0232da.wav",
+        "normal": "audio/2d3aafaf598f9a32972ef6ac6a798c3a8f85c56cbe4d716b64699546aa033348.wav",
+        "slow": "audio/98560bb08ca2279a975ea869bd75eb0767e1fa57001b7e6eceec437ec51b8d12.wav"
+      }
+    },
+    {
+      "id": "d012-s08-variation-1",
+      "kind": "sentence",
+      "target": "ผมจำได้ว่าเรานัดกันพรุ่งนี้ครับ",
+      "meaningHebrew": "אני זוכר שקבענו למחר.",
+      "transliteration": {
+        "latin": "phǒm jam dâai wâa rao nát gan phrûng-níi khráp",
+        "hebrew": "פּוֹם צַ׳ם דַאי וָא רַאוֹ נַט קַן פְּרוּנְג־נִי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s08-1-f11f864a"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9aebeff5e97859426454360f1938e5ec73928cb8d33b8e31538913d50f75071f.wav",
+        "normal": "audio/095c5a97339deb9286c3b3f9c501547f491e94acce04d09214853934a0b2906a.wav",
+        "slow": "audio/937879f684ef8cbf076d299f538e584d6614d114058581cc532ad30b85c708df.wav"
+      }
+    },
+    {
+      "id": "d012-s09-1-3883043d",
+      "kind": "word",
+      "target": "ลืม",
+      "meaningHebrew": "לִשְׁכֹּחַ",
+      "transliteration": {
+        "latin": "lʉʉm",
+        "hebrew": "לֻם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/24a19d5410c1510249d54e89dd11c6f39f56ebe0980047f073b2a52cfea4be16.mp3",
+        "normal": "audio/7c103b6ed0525f6673b58da304b9de33d1ecd15b7e5d2c3e3eaa2179b15925a1.wav",
+        "slow": "audio/ef9257a379f55ca2a3e338683cfbd5fa597c1343511db08e9cbd48cf27b641a6.wav"
+      }
+    },
+    {
+      "id": "d012-s09",
+      "kind": "sentence",
+      "target": "ผมลืมบอกคุณว่าเปลี่ยนเวลาแล้วครับ",
+      "meaningHebrew": "שכחתי להודיע לך ששיניתי את השעה.",
+      "transliteration": {
+        "latin": "phǒm lʉʉm bɔ̀ɔk khun wâa bplìan wee-laa lɛ́ɛw khráp",
+        "hebrew": "פּוֹם לֻם בּוֹק קוּן וָא פְּלִיאַן וֵ־לָא לֶאוֹ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s09-1-3883043d"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4a855b04b1d867cb65210c24f2bb797c86c313a73f8832da7cc961cba390ff45.wav",
+        "normal": "audio/26aacf2dad341ce408be9b3720a08140b8929bd1f8c6bf57ce8099d4951dc676.wav",
+        "slow": "audio/fbc00f7fcf197bc68a765290b7f2c0b42c27d6b2ef1921deea7621061f238ec4.wav"
+      }
+    },
+    {
+      "id": "d012-s09-variation-1",
+      "kind": "sentence",
+      "target": "อย่าลืมยืนยันนัดนะครับ",
+      "meaningHebrew": "אל תשכח לאשר את התור.",
+      "transliteration": {
+        "latin": "yàa lʉʉm yʉʉn-yan nát náʔ khráp",
+        "hebrew": "יָא לֻם יֻן־יַן נַט נַ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s09-1-3883043d"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/3ac288bad69cc40e26bb5503f7406ac9d8ba5f0fd072492bc73e0ac280511f74.wav",
+        "normal": "audio/82f167ea545e87697d808e56ac0f9b9681adb67e3f7670c89834068540a78240.wav",
+        "slow": "audio/3a29d907b07783c5621efdd12e2ca1668acc1dfc1b535c0a740ac9c40d214f39.wav"
+      }
+    },
+    {
+      "id": "d012-s10-1-aae82067",
+      "kind": "word",
+      "target": "สังเกต",
+      "meaningHebrew": "לָשִׂים לֵב אוֹ לְהַבְחִין",
+      "transliteration": {
+        "latin": "sǎng-gèet",
+        "hebrew": "סַנְג־קֵט"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9aaba2295597bd0ead04c1d8e80e38041d74f9bbfa75d63b9445d37d897ba4d9.mp3",
+        "normal": "audio/210b755a86efb973c1d90f7960e034032c783282a4443bb807ab23dd9cf0650b.wav",
+        "slow": "audio/5f39c26887801b67ca90759776abc8f64b25369e1a5607cdf1a2df87bf953382.wav"
+      }
+    },
+    {
+      "id": "d012-s10",
+      "kind": "sentence",
+      "target": "ผมสังเกตว่าหมาเดินช้ากว่าปกติครับ",
+      "meaningHebrew": "שמתי לב שהכלבה הולכת לאט יותר מהרגיל.",
+      "transliteration": {
+        "latin": "phǒm sǎng-gèet wâa mǎa dəən cháa gwàa bpà-gà-dtìʔ khráp",
+        "hebrew": "פּוֹם סַנְג־קֵט וָא מָא דֶן צָ׳א קְוָא פַּ־קַ־טִי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s10-1-aae82067"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4c31a88cf1446e54006aca7a3114e3d032d929c67bdef9395aa628ced0545de3.wav",
+        "normal": "audio/1c36b4b4d035f2d54d20730978a8816cf4756c554f95249bf16e5a54c7128085.wav",
+        "slow": "audio/58d4998beb1df8415e7ba65972fa99761ceb544380c6980b867f27184664488c.wav"
+      }
+    },
+    {
+      "id": "d012-s10-variation-1",
+      "kind": "sentence",
+      "target": "ผมสังเกตว่าไฟกะพริบตลอดครับ",
+      "meaningHebrew": "שמתי לב שהנורה מהבהבת כל הזמן.",
+      "transliteration": {
+        "latin": "phǒm sǎng-gèet wâa fai gà-phríp dtà-lɔ̀ɔt khráp",
+        "hebrew": "פּוֹם סַנְג־קֵט וָא פַאי קַ־פְּרִפּ טַ־לוֹט קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s10-1-aae82067"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7de6f2fdd354773de740c7759cb4bdc7598ba44e31794bc0e0537ce3fbf68dc4.wav",
+        "normal": "audio/0f736b3d79a70517afe6e4130f25afd874fd2c4c35af217ad81698bf40a1de0b.wav",
+        "slow": "audio/bcc4c458f0b6965128b6c5a0892e2ac111e7f8cd23befa56056aa725e8842c93.wav"
+      }
+    },
+    {
+      "id": "d012-s11-1-b2f5757f",
+      "kind": "word",
+      "target": "ตรวจ",
+      "meaningHebrew": "לִבְדֹּק",
+      "transliteration": {
+        "latin": "dtrùat",
+        "hebrew": "טְרוּאַט"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/34326547d0fa0deb3ec32f3030b9047d7b18a09e6b137d0d359fe883c47ef639.mp3",
+        "normal": "audio/f1e712d14064a8460dc4bd92da49f568dba3970bdeff3ba15a63124afa1a1b60.wav",
+        "slow": "audio/750cefd7446757f2d63eb6e61dcf671ffbbda914c6e50451b91801d2d983865e.wav"
+      }
+    },
+    {
+      "id": "d012-s11",
+      "kind": "sentence",
+      "target": "ช่วยตรวจว่าเบรกทำงานปกติไหมครับ",
+      "meaningHebrew": "אפשר לבדוק אם הבלמים פועלים כרגיל?",
+      "transliteration": {
+        "latin": "chûai dtrùat wâa brèek tham-ngaan bpà-gà-dtìʔ mǎi khráp",
+        "hebrew": "צ׳וּאַי טְרוּאַט וָא בְּרֵק טַם־נְגָאן פַּ־קַ־טִי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s11-1-b2f5757f"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/09a8a1d6748e3513478db91cf0a3d7f60c3e8a27bb8410950ca57dc0e7bcec1a.wav",
+        "normal": "audio/15ad0d15bf8b70497236847f6d16056e8bacf16c817a6f4c3525085fd9fb1ce1.wav",
+        "slow": "audio/bf15392ff9748886a22ef9c516fc904e15fbe318d88836c3a2a0e38de113f4a3.wav"
+      }
+    },
+    {
+      "id": "d012-s11-variation-1",
+      "kind": "sentence",
+      "target": "ตรวจเบรกก่อน แล้วบอกผมด้วยนะครับ",
+      "meaningHebrew": "בדוק קודם את הבלמים ואז תודיע לי.",
+      "transliteration": {
+        "latin": "dtrùat brèek gɔ̀ɔn lɛ́ɛw bɔ̀ɔk phǒm dûai náʔ khráp",
+        "hebrew": "טְרוּאַט בְּרֵק קוֹן לֶאוֹ בּוֹק פּוֹם דוּאַי נַ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s11-1-b2f5757f"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/fa636e00b67dde1bd4134702e2dec74a40b300e774a8d4e56f2f04d0bd00df4c.wav",
+        "normal": "audio/d0cc1750eea27a6645781a7fe897df05de1ed6c9145255d081fe7dc6564769c8.wav",
+        "slow": "audio/3358b64d712c35bc912fa275c4480f5f0be507a38c820f0cee61ef2605f95568.wav"
+      }
+    },
+    {
+      "id": "d012-s12-1-05def52c",
+      "kind": "word",
+      "target": "แก้ไข",
+      "meaningHebrew": "לְתַקֵּן אוֹ לִפְתֹּר",
+      "transliteration": {
+        "latin": "gɛ̂ɛ-khǎi",
+        "hebrew": "קֶה־קַאי"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/77d4715acc1fb6f19ebe78ad381f4867702220df581678cb9a081250431e63f7.mp3",
+        "normal": "audio/31943a14270daf28d028b787f2bbc97ff8312e6b30800dbae34b7f02ac556b6d.wav",
+        "slow": "audio/17fd4416dbbf1b6c825fc2d381c5b2ef20f25caf16d6753b0b1c6415edbde364.wav"
+      }
+    },
+    {
+      "id": "d012-s12",
+      "kind": "sentence",
+      "target": "แก้ไขปัญหานี้วันนี้ได้ไหมครับ",
+      "meaningHebrew": "אפשר לפתור את הבעיה הזאת היום?",
+      "transliteration": {
+        "latin": "gɛ̂ɛ-khǎi bpan-hǎa níi wan-níi dâai mǎi khráp",
+        "hebrew": "קֶה־קַאי פַּן־הָא נִי וַן־נִי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s12-1-05def52c"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ee25fdac87116cffc76247ec2556300ee48de8694f710e128846577520ea084c.wav",
+        "normal": "audio/29735ffdf5d1aa03dff907949d262676914e57833c9d3b667bf46de2ca437796.wav",
+        "slow": "audio/7513085a1ac2f1fdcbaa7c17ac46d72739d7b03afc92793f9d2f43c98dfd3ba3.wav"
+      }
+    },
+    {
+      "id": "d012-s12-variation-1",
+      "kind": "sentence",
+      "target": "ผมลองแก้ไขแล้ว แต่ยังมีปัญหาอยู่ครับ",
+      "meaningHebrew": "כבר ניסיתי לפתור את הבעיה אבל היא עדיין קיימת.",
+      "transliteration": {
+        "latin": "phǒm lɔɔng gɛ̂ɛ-khǎi lɛ́ɛw dtɛ̀ɛ yang mii bpan-hǎa yùu khráp",
+        "hebrew": "פּוֹם לוֹנְג קֶה־קַאי לֶאוֹ טֶה יַנְג מִי פַּן־הָא יוּ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s12-1-05def52c"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a0735ed899f39150076f5373ea4b839c49eb7b6ff64c16296d3508eea9279b44.wav",
+        "normal": "audio/f55b10b843b10b355326b3d893395d4cd25d96bdf8a594c06c6d2c056fee15b1.wav",
+        "slow": "audio/1e74cdc1a212238da7237a364815500f22092f2f84dbedb1561b208ebf88246b.wav"
+      }
+    },
+    {
+      "id": "d012-s13-1-9af6cbef",
+      "kind": "word",
+      "target": "ยกเลิก",
+      "meaningHebrew": "לְבַטֵּל",
+      "transliteration": {
+        "latin": "yók-lə̂ək",
+        "hebrew": "יוֹק־לֶק"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/38e0dc1308e1ac83d181fd69389351f14b47afd38daec6f9d8115d0bdcbe7007.mp3",
+        "normal": "audio/2a36be48fe2bf2667244004155eb89b1d984857209509fba52e0e34ed12357e5.wav",
+        "slow": "audio/8c9fe5f7a89b1910e1912837ba71b178d995b5df75da28c5fd9daabf1bf3738e.wav"
+      }
+    },
+    {
+      "id": "d012-s13",
+      "kind": "sentence",
+      "target": "ผมต้องยกเลิกนัดพรุ่งนี้ เพราะมีธุระครับ",
+      "meaningHebrew": "אני צריך לבטל את התור למחר כי צץ לי משהו.",
+      "transliteration": {
+        "latin": "phǒm dtɔ̂ng yók-lə̂ək nát phrûng-níi phrɔ́ʔ mii thú-ráʔ khráp",
+        "hebrew": "פּוֹם טוֹנְג יוֹק־לֶק נַט פְּרוּנְג־נִי פְּרוֹ מִי טוּ־רַ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s13-1-9af6cbef"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/4d5201421e7c1072c72ae1957a15dea2810891bc05fb02b77a0dba89c448d430.wav",
+        "normal": "audio/d4f677a49fd4e39ac2d595eb5f0464eb079536f205d3f132ab429bd3c4cc5ffb.wav",
+        "slow": "audio/4153362595e7083434934e1d861e439c1f12b7ca5966a5411c8e1d2253239870.wav"
+      }
+    },
+    {
+      "id": "d012-s13-variation-1",
+      "kind": "sentence",
+      "target": "ถ้าเลื่อนนัดได้ ผมก็ไม่อยากยกเลิกครับ",
+      "meaningHebrew": "אם אפשר להזיז את התור אני לא רוצה לבטל.",
+      "transliteration": {
+        "latin": "thâa lʉ̂an nát dâai phǒm gɔ̂ɔ mâi yàak yók-lə̂ək khráp",
+        "hebrew": "טָא לֻאַן נַט דַאי פּוֹם קוֹ מַאי יָאק יוֹק־לֶק קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s13-1-9af6cbef"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/d95a2f4d5a8f68f0a674b5b1687c0d3a75ec3bf15a79b81914b708ea00e072d1.wav",
+        "normal": "audio/9ec97b82f405946d7b15806268e30b48ffba4a6af970925782a090606c13117d.wav",
+        "slow": "audio/ace776dbb97e74e180926161e494720be64c64ecb2dca1e3b1d2aba680b4406a.wav"
+      }
+    },
+    {
+      "id": "d012-s14-1-d83a115e",
+      "kind": "word",
+      "target": "เลื่อน",
+      "meaningHebrew": "לְהָזִיז אוֹ לִדְחוֹת מוֹעֵד",
+      "transliteration": {
+        "latin": "lʉ̂an",
+        "hebrew": "לֻאַן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/79e6e75086678f6b2aaf81624be20fedf15a363ad2745b6a1d3f0bd69368f46a.mp3",
+        "normal": "audio/83522dd410b2c92716cfce6380aca737aecec8edaecc0d077eabaa4d1bc4c517.wav",
+        "slow": "audio/965ba64e33042024474eb811887bafc52af9bb5a834983d8b20cf7d3cbf49a3d.wav"
+      }
+    },
+    {
+      "id": "d012-s14",
+      "kind": "sentence",
+      "target": "ขอเลื่อนนัดจากบ่ายสองเป็นบ่ายสี่ได้ไหมครับ",
+      "meaningHebrew": "אפשר לדחות את התור משתיים לארבע?",
+      "transliteration": {
+        "latin": "khɔ̌ɔ lʉ̂an nát jàak bàai sɔ̌ɔng bpen bàai sìi dâai mǎi khráp",
+        "hebrew": "קוֹ לֻאַן נַט צָ׳אק בָּאי סוֹנְג פֶּן בָּאי סִי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s14-1-d83a115e"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ab74730b9112d1918963d3cff50252c979c7c7a4bce33639530bde0467df6d8c.wav",
+        "normal": "audio/d28c1b668b07205c75ba47b02ebf60789ce591741af9cb2afd41688b7e4d3451.wav",
+        "slow": "audio/fc6d815fcdeceeb2b8ee2533f27532ec18d23d67a72fa691193ca3daca478e21.wav"
+      }
+    },
+    {
+      "id": "d012-s14-variation-1",
+      "kind": "sentence",
+      "target": "ขอเลื่อนนัดเป็นพรุ่งนี้ได้ไหมครับ",
+      "meaningHebrew": "אפשר לדחות את התור למחר?",
+      "transliteration": {
+        "latin": "khɔ̌ɔ lʉ̂an nát bpen phrûng-níi dâai mǎi khráp",
+        "hebrew": "קוֹ לֻאַן נַט פֶּן פְּרוּנְג־נִי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s14-1-d83a115e"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/601dcdc8eae8141258e4c282ac5ee595084710471bed34ef5dbbed506eea8d30.wav",
+        "normal": "audio/772bc76d2c1be2c7666c7cafb95c1e6ea9d3673e0544c720a2d8e08de0b6caae.wav",
+        "slow": "audio/fc4d207c39c78cbbc04ac24632df2ae4760788b3ae43bf384b5e2c76af665659.wav"
+      }
+    },
+    {
+      "id": "d012-s15-1-b90ef4e8",
+      "kind": "word",
+      "target": "นัด",
+      "meaningHebrew": "לִקְבֹּעַ פְּגִישָׁה אוֹ תּוֹר",
+      "transliteration": {
+        "latin": "nát",
+        "hebrew": "נַט"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/5a3e097025d52f85d335063cb35da60a74d5420f10bb310ddb095b21abb9a6ab.mp3",
+        "normal": "audio/2a0a03bce93eb1c09a22526fb0379da119fef47831e5c6c20dc8be122ab134db.wav",
+        "slow": "audio/4f1635b572f3875294fc3160348ea62d88fd081498acbb2385d52f5c2b9871f2.wav"
+      }
+    },
+    {
+      "id": "d012-s15",
+      "kind": "sentence",
+      "target": "ผมอยากนัดตรวจพรุ่งนี้เช้าครับ",
+      "meaningHebrew": "אני רוצה לקבוע תור לבדיקה מחר בבוקר.",
+      "transliteration": {
+        "latin": "phǒm yàak nát dtrùat phrûng-níi cháao khráp",
+        "hebrew": "פּוֹם יָאק נַט טְרוּאַט פְּרוּנְג־נִי צָ׳אוֹ קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s15-1-b90ef4e8"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/d57f7e2dbaff356a0ca9a4955ec44d1e5e3e684071b15b3d470c0198b2a7d956.wav",
+        "normal": "audio/3aade5b53dd2ce645a5a492e4c854f4e387a91d08700cb9469c5a3efe1c21acf.wav",
+        "slow": "audio/9bf318cbebcb967d0dc4962d7fc5116efc9cc421a995b13dd2e750dd2602c903.wav"
+      }
+    },
+    {
+      "id": "d012-s15-variation-1",
+      "kind": "sentence",
+      "target": "เรานัดเจอกันหลังซ้อมได้ครับ",
+      "meaningHebrew": "אנחנו יכולים לקבוע להיפגש אחרי האימון.",
+      "transliteration": {
+        "latin": "rao nát jəə-gan lǎng sɔ́ɔm dâai khráp",
+        "hebrew": "רַאוֹ נַט צֶ׳ה־קַן לַנְג סוֹם דַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s15-1-b90ef4e8"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/90e733371d14dd06178f731e73fb2a65033fdabffdb7f830980be4b14884275f.wav",
+        "normal": "audio/a0dd4caff303afb4989c43805323891b6904a5e3c004b22a989634181de70c07.wav",
+        "slow": "audio/8d64a0026c09f9152f6b6271cbc10a13dde021815b9c2f7c5980b259e8f592eb.wav"
+      }
+    },
+    {
+      "id": "d012-s16-1-91ab8c9b",
+      "kind": "word",
+      "target": "ยืนยัน",
+      "meaningHebrew": "לְאַשֵּׁר",
+      "transliteration": {
+        "latin": "yʉʉn-yan",
+        "hebrew": "יֻן־יַן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c681c7018d54868c21a9b127e223c6f2507434dd2cae6d19421c9dc131307805.mp3",
+        "normal": "audio/28d0e0422ba379b189149c186a3a5114ae9a1931a7bf2c163a7b767d516160ec.wav",
+        "slow": "audio/61f32159ec8fc5d4fa3b7ec666aff190ac681e13695715d5432aaed6f5c5a425.wav"
+      }
+    },
+    {
+      "id": "d012-s16",
+      "kind": "sentence",
+      "target": "ผมขอยืนยันว่าเรานัดกันพรุ่งนี้บ่ายสี่ครับ",
+      "meaningHebrew": "אני רוצה לאשר שהפגישה מחר בשעה ארבע.",
+      "transliteration": {
+        "latin": "phǒm khɔ̌ɔ yʉʉn-yan wâa rao nát gan phrûng-níi bàai sìi khráp",
+        "hebrew": "פּוֹם קוֹ יֻן־יַן וָא רַאוֹ נַט קַן פְּרוּנְג־נִי בָּאי סִי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s16-1-91ab8c9b"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a9775587979b0a4b20a28c644e8bebf12d9863af07e6a9292599879ee0ba8179.wav",
+        "normal": "audio/49aedef341fb66d0c0711cd05782e7610a95c6f05b26ece5c0d88fb2c126cee4.wav",
+        "slow": "audio/448f2319601a54e0f55873d49ced054f49f130edce629a8da079615fb69b401e.wav"
+      }
+    },
+    {
+      "id": "d012-s16-variation-1",
+      "kind": "sentence",
+      "target": "ช่วยยืนยันเวลาอีกครั้งได้ไหมครับ",
+      "meaningHebrew": "אפשר לאשר את השעה שוב?",
+      "transliteration": {
+        "latin": "chûai yʉʉn-yan wee-laa ìik-khráng dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי יֻן־יַן וֵ־לָא אִיק־קְרַנְג דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s16-1-91ab8c9b"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c1029fa785078d0cf9eebff1bea53558ade58980129078cf4725a182debcf9d0.wav",
+        "normal": "audio/1c88820c93f994fb5365498fd86c0270093171d1fc5d8b07ad947a88aa2342f9.wav",
+        "slow": "audio/10f8f17e899c2e30202fb0dceb1a3e387080d5a788a33ec6b6c4085d11098224.wav"
+      }
+    },
+    {
+      "id": "d012-s17-1-3bda7406",
+      "kind": "word",
+      "target": "แนะนำ",
+      "meaningHebrew": "לְהַמְלִיץ אוֹ לְהַצִּיג מִישֶׁהוּ",
+      "transliteration": {
+        "latin": "nɛ́ʔ-nam",
+        "hebrew": "נֶא־נַם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/261a9003d927c3634824d54d139a57b18d9a419c5b9b1cf54bfad959781dce78.mp3",
+        "normal": "audio/da7db444e0483ff48b02e247041de021afef072a82aa5cea18e179a28d1759b7.wav",
+        "slow": "audio/18c0b856730fbf29134fa3e46a5a51184b477d92197f2a6cec480e5355cea716.wav"
+      }
+    },
+    {
+      "id": "d012-s17",
+      "kind": "sentence",
+      "target": "ช่วยแนะนำอู่ซ่อมรถใกล้ ๆ ที่นี่ได้ไหมครับ",
+      "meaningHebrew": "אתה יכול להמליץ על מוסך קרוב לכאן?",
+      "transliteration": {
+        "latin": "chûai nɛ́ʔ-nam ùu sɔ̂m rót glâi glâi thîi-nîi dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי נֶא־נַם אוּ סוֹם רוֹט קְלַאי קְלַאי טִי־נִי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s17-1-3bda7406"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/025e51d4f70d37741d744d83bffaac0f7ddc1d70a6caa17a04c11346171b31a1.wav",
+        "normal": "audio/e2443bbeae82c8b2d4db3ecded267392bafe04e729f7cd0dd218351b9db14050.wav",
+        "slow": "audio/a26dbd8b781d9ef4595be8238de96f56b7a768e595633d37c0da8a84329d8f85.wav"
+      }
+    },
+    {
+      "id": "d012-s17-variation-1",
+      "kind": "sentence",
+      "target": "ผมอยากแนะนำเพื่อนให้คุณรู้จักครับ",
+      "meaningHebrew": "אני רוצה להציג לך חבר שלי.",
+      "transliteration": {
+        "latin": "phǒm yàak nɛ́ʔ-nam phʉ̂an hâi khun rúu-jàk khráp",
+        "hebrew": "פּוֹם יָאק נֶא־נַם פֻּאַן הַאי קוּן רוּ־צַ׳ק קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s17-1-3bda7406"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a4ddc7319aec54a48f3a6eeaa30feca3d8f8736f96bd45597e0add6421e3ad55.wav",
+        "normal": "audio/d3e33d128011842e0af7cd296199ee856591152d38ccf2025ab12ff4e0c427ba.wav",
+        "slow": "audio/a056c950c70efa49fd9514a98826fc396d03382550208438dac370a3f840e990.wav"
+      }
+    },
+    {
+      "id": "d012-s18-1-1e741a0d",
+      "kind": "word",
+      "target": "เปรียบเทียบ",
+      "meaningHebrew": "לְהַשְׁווֹת",
+      "transliteration": {
+        "latin": "bprìap-thîap",
+        "hebrew": "פְּרִיאַפּ־טִיאַפּ"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/f92850fd2771252040b0256b4d9f7254ba4553f73d30a76e5f8f2792c333c52f.mp3",
+        "normal": "audio/fae133f34b7c2c0020dc00b224f9426afa576e9ee3f1352ba0b75c8b673ef7b0.wav",
+        "slow": "audio/6a6da464ea0b970b78f4a62303037f4361fe33468df0417dbe752a62be6b55b3.wav"
+      }
+    },
+    {
+      "id": "d012-s18",
+      "kind": "sentence",
+      "target": "ผมอยากเปรียบเทียบราคาก่อนตัดสินใจครับ",
+      "meaningHebrew": "אני רוצה להשוות מחירים לפני שאחליט.",
+      "transliteration": {
+        "latin": "phǒm yàak bprìap-thîap raa-khaa gɔ̀ɔn dtàt-sǐn-jai khráp",
+        "hebrew": "פּוֹם יָאק פְּרִיאַפּ־טִיאַפּ רָא־קָא קוֹן טַט־סִין־צַ׳אי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s18-1-1e741a0d"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/adc2412d669609f3baf52ec2b9c59eab420659ca5359bcd61d2ba34db3765732.wav",
+        "normal": "audio/7e8bbd250653f2f2170c91ede115e1ecdab9a39798d981a2abe3d5d352f14829.wav",
+        "slow": "audio/d66882e171277053ee71bd7b2ddb438b5edaac7d6937adad7f7fb9b73541c4a1.wav"
+      }
+    },
+    {
+      "id": "d012-s18-variation-1",
+      "kind": "sentence",
+      "target": "ช่วยเปรียบเทียบสองรุ่นนี้ให้หน่อยได้ไหมครับ",
+      "meaningHebrew": "אפשר להשוות בין שני הדגמים האלה?",
+      "transliteration": {
+        "latin": "chûai bprìap-thîap sɔ̌ɔng rûn níi hâi nɔ̀i dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי פְּרִיאַפּ־טִיאַפּ סוֹנְג רוּן נִי הַאי נוֹי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s18-1-1e741a0d"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c0f462603605b4a9067dc930fc07719536d990b06a40f1cc7f29df5eaf16cde4.wav",
+        "normal": "audio/a4792eebaf7bd787a5ffd244bd129393ae66b7e628d895c95f3ee176acc7fb09.wav",
+        "slow": "audio/d1f137e3182fd96223505d52dbf50dcece24f883532a4f85527fee01a05e101c.wav"
+      }
+    },
+    {
+      "id": "d012-s19-1-893414ca",
+      "kind": "word",
+      "target": "พยายาม",
+      "meaningHebrew": "לְהִשְׁתַּדֵּל אוֹ לְהִתְאַמֵּץ",
+      "transliteration": {
+        "latin": "phá-yaa-yaam",
+        "hebrew": "פַּ־יָא־יָאם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/90827fc12346e5a83384efba9e176c87f939b22dc9bc9af82cc5e41ebefc5313.mp3",
+        "normal": "audio/90192347c0564ca3957d3f117d6d7f1ffcb3cb5a912b093b90f7def14f393fa0.wav",
+        "slow": "audio/836c45bf5efd38c13326425f573e7d800a852e7cc9f3c34849b1eab6f350427f.wav"
+      }
+    },
+    {
+      "id": "d012-s19",
+      "kind": "sentence",
+      "target": "ผมพยายามพูดภาษาไทย ถึงจะยังพูดช้าครับ",
+      "meaningHebrew": "אני משתדל לדבר תאית גם כשאני עדיין מדבר לאט.",
+      "transliteration": {
+        "latin": "phǒm phá-yaa-yaam phûut phaa-sǎa thai thʉ̌ng jàʔ yang phûut cháa khráp",
+        "hebrew": "פּוֹם פַּ־יָא־יָאם פּוּט פָּא־סָא טַאי טֻנְג צַ׳א יַנְג פּוּט צָ׳א קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s19-1-893414ca"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/56d9adcf6d94f47a53fb010b9bc5f36c1105d1d330195ed35d0e6672249f14ae.wav",
+        "normal": "audio/22de9afdebc3898d3b68d786a460ba393a90d508ba3389842e632b4f2b50a1b0.wav",
+        "slow": "audio/769d219382772e6b5a9772add4707ac2acc08e792e7c1d8a650274a295255127.wav"
+      }
+    },
+    {
+      "id": "d012-s19-variation-1",
+      "kind": "sentence",
+      "target": "ผมพยายามจำคำใหม่ ๆ ครับ",
+      "meaningHebrew": "אני משתדל לזכור את המילים החדשות.",
+      "transliteration": {
+        "latin": "phǒm phá-yaa-yaam jam kham mài mài khráp",
+        "hebrew": "פּוֹם פַּ־יָא־יָאם צַ׳ם קַם מַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s19-1-893414ca"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/be33f1c13817845b3efa75031ce23d1c02f7e5ad996e429cd8104fe551d218af.wav",
+        "normal": "audio/b9ad7844905f4bfb24d2fd554ee5604f162b1cb6eae3438cbc5804c7445d5c54.wav",
+        "slow": "audio/b9b30889e45ec5798a782e19241e14c198b5743d5637f71917239d055c690f41.wav"
+      }
+    },
+    {
+      "id": "d012-s20-1-930c3373",
+      "kind": "word",
+      "target": "จัดการ",
+      "meaningHebrew": "לְטַפֵּל בְּעִנְיָן אוֹ לְנַהֵל",
+      "transliteration": {
+        "latin": "jàt-gaan",
+        "hebrew": "צַ׳ט־קָאן"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/7e2d9fed2eaec6a2f685cbf7cac5a0792e24c61365bd4c26516e475e9f729230.mp3",
+        "normal": "audio/08dc74b9930ac10c753c375926373bfd33c86d89c7cf302df246cc446c611c60.wav",
+        "slow": "audio/543ec171a3dc6118003e312fcd8e98ec5d71cb2399e581792bf8602a4d449574.wav"
+      }
+    },
+    {
+      "id": "d012-s20",
+      "kind": "sentence",
+      "target": "ผมจะจัดการเรื่องนี้เองครับ",
+      "meaningHebrew": "אני אטפל בעניין הזה בעצמי.",
+      "transliteration": {
+        "latin": "phǒm jàʔ jàt-gaan rʉ̂ang níi eeng khráp",
+        "hebrew": "פּוֹם צַ׳א צַ׳ט־קָאן רֻאַנְג נִי אֵנְג קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s20-1-930c3373"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/e008340408074158b7d4c6b15798780cc377bccdf0fb84bdc520089ce6171696.wav",
+        "normal": "audio/4e06d9c02f315cbab6a557cda6cd008716b5ad0ae048ac844c438e47e06f2cc6.wav",
+        "slow": "audio/d7d51047cf148aa29c698c2fa7547d9fd7b5c7bb9d626f37b6fc1694e59b9051.wav"
+      }
+    },
+    {
+      "id": "d012-s20-variation-1",
+      "kind": "sentence",
+      "target": "ช่วยจัดการเรื่องนี้ก่อนพรุ่งนี้ได้ไหมครับ",
+      "meaningHebrew": "אפשר לטפל בעניין הזה לפני מחר?",
+      "transliteration": {
+        "latin": "chûai jàt-gaan rʉ̂ang níi gɔ̀ɔn phrûng-níi dâai mǎi khráp",
+        "hebrew": "צ׳וּאַי צַ׳ט־קָאן רֻאַנְג נִי קוֹן פְּרוּנְג־נִי דַאי מַאי קְרַפּ"
+      },
+      "wordIDs": [
+        "d012-s20-1-930c3373"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ebef9bd2706cd71051055efc63005d417da970a25d11d0c945ffb4d61fbdf80b.wav",
+        "normal": "audio/da52e20149481caf3735c6d29d42052f489420133a15582715f7581b15701351.wav",
+        "slow": "audio/7f6b3efa9941be7c3363e2b983cd116899c765d552d4e786b82a3424458fcde2.wav"
+      }
+    },
+    {
+      "id": "d012-extra-convenient",
+      "kind": "word",
+      "target": "สะดวก",
+      "meaningHebrew": "נוֹחַ אוֹ מַתְאִים",
+      "transliteration": {
+        "latin": "sà-dùak",
+        "hebrew": "סַ־דוּאַק"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/358ab4df4f7492e88270673a77b1ac1be4d5a2f7ab7035c3552066c1a7a78bf8.mp3",
+        "normal": "audio/3d96fbdc4e06f47093a76a6d326e9fecebaac717961d4fa2cfee2625acd49615.wav",
+        "slow": "audio/0ade3bf3b57428baddc0980945a2e82323a82d518ac7d1b367562a9b446f39a9.wav"
+      }
+    },
+    {
+      "id": "d012-extra-prepare",
+      "kind": "word",
+      "target": "เตรียม",
+      "meaningHebrew": "לְהָכִין",
+      "transliteration": {
+        "latin": "dtriiam",
+        "hebrew": "טְרִיאַם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/0e4afb8a99e7c6aefd2caa1bd68452b7da31784b4734248cd5e82fded0a6aad3.mp3",
+        "normal": "audio/2e98771301f328ed5534f2478db3bc093a661f13a27fc4463398370d8d013b02.wav",
+        "slow": "audio/8274461c6241ce7ee86204f89c375d2053de6beb1054973e638eb0517a6055eb.wav"
+      }
+    },
+    {
+      "id": "d012-extra-start",
+      "kind": "word",
+      "target": "เริ่ม",
+      "meaningHebrew": "לְהַתְחִיל",
+      "transliteration": {
+        "latin": "rə̂əm",
+        "hebrew": "רֶם"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/428eebdf2fabf24d509735ea2a6f010297d61b2802e1abc843ff46ed6d3ea3c3.mp3",
+        "normal": "audio/fd2dd48d6c0bcf105d991272b65b10385f78bc20cc1e5ea7988baacbd26f48a6.wav",
+        "slow": "audio/e14956aca742f711cc4a0f467132cadb4f9a4f312ed7a8b8ea81d7254e6d9667.wav"
+      }
+    },
+    {
+      "id": "d012-extra-stop",
+      "kind": "word",
+      "target": "หยุด",
+      "meaningHebrew": "לַעֲצֹר",
+      "transliteration": {
+        "latin": "yùt",
+        "hebrew": "יוּט"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/fc27d000b4bbddee221113811a3f2179a610709289f9a725ad5ec9d523af1351.mp3",
+        "normal": "audio/a2b52e09572aac3823c4f50e51cb9b64537be97c2a3da68c14f5919a1b161f83.wav",
+        "slow": "audio/746078bbfa9ca9b61516041b8c9a706d4b806973effd7e5d684474c1857ec0c7.wav"
+      }
+    }
+  ]
+}

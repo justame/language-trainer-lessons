@@ -47,6 +47,14 @@
       "path": "lessons/arabic-tell-my-day/1",
       "title": "My day: a phone call with a friend",
       "version": "1"
+    },
+    {
+      "id": "thai-echo-day-012",
+      "language": "Thai",
+      "languageCode": "th-TH",
+      "path": "lessons/thai-echo-day-012/1",
+      "title": "פעלים שימושיים: החלטות, תיאומים ופתרון בעיות",
+      "version": "1"
     }
   ],
   "schemaVersion": 1
