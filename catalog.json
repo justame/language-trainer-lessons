@@ -39,6 +39,14 @@
       "path": "lessons/arabic-starter/7",
       "title": "Everyday Palestinian Arabic",
       "version": "7"
+    },
+    {
+      "id": "arabic-tell-my-day",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-tell-my-day/1",
+      "title": "My day: a phone call with a friend",
+      "version": "1"
     }
   ],
   "schemaVersion": 1
