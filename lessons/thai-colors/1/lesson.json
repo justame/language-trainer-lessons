@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "id": "thai-colors",
+  "version": "1",
+  "title": "Colors · צבעים",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "th-TH",
+    "name": "Thai",
+    "dialect": "Central Thai"
+  },
+  "reviewStatus": "Listening preview — pronunciation awaits user review",
+  "items": [
+    {
+      "id": "th-color-red",
+      "kind": "word",
+      "target": "สีแดง",
+      "meaningHebrew": "אָדֹם",
+      "transliteration": {
+        "hebrew": "סִי דֶּאֶנְג",
+        "latin": "sǐi dɛɛng"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/2e4d41478ef07249adfc21a042eabd8b703d47bacde5f64789053308bf6dce16.mp3",
+        "normal": "audio/be73f519490c2799fe8f1f9e6023929767810f5d9f4136e23ad8e976882e05b9.wav",
+        "slow": "audio/de369b3fa4e51f437bb69f5a9bc0c50dbfd61c54496e237d154f4a0bb19d9219.wav"
+      }
+    },
+    {
+      "id": "th-color-blue",
+      "kind": "word",
+      "target": "สีน้ำเงิน",
+      "meaningHebrew": "כָּחֹל",
+      "transliteration": {
+        "hebrew": "סִי נַם נְגֶן",
+        "latin": "sǐi nám ngən"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/26177f0cef8bb3a5c2e3b19a23b3d23975d0dcba8409e7e25d260ca624ef2b47.mp3",
+        "normal": "audio/1b627de5b7062af56d009be63d394a6077ddb1ed770a6d4e0223aa923207ddf3.wav",
+        "slow": "audio/23cb588b588097af068e0416b0b562f9a0fcc9fb871d824dfa714c0fe4515058.wav"
+      }
+    },
+    {
+      "id": "th-color-sky-blue",
+      "kind": "word",
+      "target": "สีฟ้า",
+      "meaningHebrew": "תְּכֵלֶת",
+      "transliteration": {
+        "hebrew": "סִי פָא",
+        "latin": "sǐi fáa"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/054403910abedbb6bfd64131756fcb6f75b66a87fb7f63e870d19ffda5fb6067.mp3",
+        "normal": "audio/d624c25996dc7af553dc6f58d30eb07e5d86c68057b0735d2512e0666ae1c49f.wav",
+        "slow": "audio/39777b67436f474e51d72b186415a6ffadf1c23b4a1d58d98ce741daecdd44d6.wav"
+      }
+    },
+    {
+      "id": "th-color-green",
+      "kind": "word",
+      "target": "สีเขียว",
+      "meaningHebrew": "יָרֹק",
+      "transliteration": {
+        "hebrew": "סִי קִיאַו",
+        "latin": "sǐi khǐao"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/88ed758d9ec1c36655d9b90360370ccf6f5f8d70ead582070701dfd5ae1f2f06.mp3",
+        "normal": "audio/16a24e2777ce434eac6f88ac4cee6db9d4695ec792ed5070d9ef6a42c3fe8460.wav",
+        "slow": "audio/666d9c68f2786766b0c4cd464e4ea4c8f8889859cab8eb271071fad1ebf02ee4.wav"
+      }
+    },
+    {
+      "id": "th-color-yellow",
+      "kind": "word",
+      "target": "สีเหลือง",
+      "meaningHebrew": "צָהֹב",
+      "transliteration": {
+        "hebrew": "סִי לוּאַנְג",
+        "latin": "sǐi lʉ̌ang"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/09dcde034840a312ac6ed2c217485ec9b1f63b888648c9c2976dcc3101a9a3a6.mp3",
+        "normal": "audio/ed37776cf52008458e883e859e00fa9aed00806fc7e1c1931b8476f4fe3afd3e.wav",
+        "slow": "audio/5670a1caf204c66655c21dfce2e1dcdaf0dffbd7a453450fbc5020d891284946.wav"
+      }
+    },
+    {
+      "id": "th-color-orange",
+      "kind": "word",
+      "target": "สีส้ม",
+      "meaningHebrew": "כָּתֹם",
+      "transliteration": {
+        "hebrew": "סִי סוֹם",
+        "latin": "sǐi sôm"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/9cbb7a280a71767cb8b224ec152c6cda48bf8d489010e5bbf01e1c11e561b75f.mp3",
+        "normal": "audio/d22c624b6ef98e634cf5e30d81aaea1dff60fca71c94c6405e1e5cf0fc2ca6c1.wav",
+        "slow": "audio/8e0f179be512133cc8a4672846de56937bec9744e2624d0138eaad874196a060.wav"
+      }
+    },
+    {
+      "id": "th-color-purple",
+      "kind": "word",
+      "target": "สีม่วง",
+      "meaningHebrew": "סָגֹל",
+      "transliteration": {
+        "hebrew": "סִי מוּאַנְג",
+        "latin": "sǐi mûang"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/0e0697681adbb5142060f7c763259bbc4d8570620704579e9c056ab4b607e18b.mp3",
+        "normal": "audio/c0cc3b25fe2fe1531ab98f7e01c592cfef34c50d799d4215b4ea485db55b965b.wav",
+        "slow": "audio/b6f55f136b728b4c4d9d80f07a2b59feaea6879e869f5d1d4ead7e067c0e7cf6.wav"
+      }
+    },
+    {
+      "id": "th-color-pink",
+      "kind": "word",
+      "target": "สีชมพู",
+      "meaningHebrew": "וָרֹד",
+      "transliteration": {
+        "hebrew": "סִי צ׳וֹם פּוּ",
+        "latin": "sǐi chom phuu"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/9dd145dad1a80c0482af6ad5c7c0ab07be96b977150f4dc5c5b57f6a98c760cc.mp3",
+        "normal": "audio/f8a778efc1ce6cff4d487dffa757775eec730d8f589e86824f851a5582f3c92d.wav",
+        "slow": "audio/c6bb5b2d3c2d4dceeb1c818cc759396d30352f7a1c323d9923a054f20e2372f0.wav"
+      }
+    },
+    {
+      "id": "th-color-white",
+      "kind": "word",
+      "target": "สีขาว",
+      "meaningHebrew": "לָבָן",
+      "transliteration": {
+        "hebrew": "סִי קָאו",
+        "latin": "sǐi khǎao"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/fedc0cadc1e408f605db4d4a5ca44532e232709a142c7a9d14f36469c2a7df43.mp3",
+        "normal": "audio/aedd8cd45e287234e7e1c6ef94e41610a206818e44f620c2a5ff0ab4d5b9beb9.wav",
+        "slow": "audio/accc47df46442c8792e9b7753e129f74999c4c2afa13c744c313e6552f18ec9b.wav"
+      }
+    },
+    {
+      "id": "th-color-black",
+      "kind": "word",
+      "target": "สีดำ",
+      "meaningHebrew": "שָׁחֹר",
+      "transliteration": {
+        "hebrew": "סִי דַּם",
+        "latin": "sǐi dam"
+      },
+      "wordIDs": [],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/2777a6da537ff9d4dc267dbdefef3c25a95484f40420db200ebf747d67eb4e98.mp3",
+        "normal": "audio/d83d87804c1721e408194ccc0956ac9b5682651a6fd459345ed699d96db5878d.wav",
+        "slow": "audio/01dd722850de584a6c40f94a437a4e3f6f58b9cf72bd63115d8a11a99bcc7851.wav"
+      }
+    },
+    {
+      "id": "th-color-red-example",
+      "kind": "sentence",
+      "target": "เสื้อสีแดง",
+      "meaningHebrew": "הַחֻלְצָה אֲדֻמָּה",
+      "transliteration": {
+        "hebrew": "סוּאַה סִי דֶּאֶנְג",
+        "latin": "sʉ̂a sǐi dɛɛng"
+      },
+      "wordIDs": [
+        "th-color-red"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/5f6cc79cac1be72f70a6bf3d66e3978c97b7fdf609c361b22019cd40c99d543d.mp3",
+        "normal": "audio/cc4c93c5d473cd4d50fe92bff97c5afa84c648495c4d99d527fde07b44dd1f0f.wav",
+        "slow": "audio/20587c08ae0b95f8fd43115279911437426c4eee3ef40850fdc0b056403c24a4.wav"
+      }
+    },
+    {
+      "id": "th-color-blue-example",
+      "kind": "sentence",
+      "target": "ผมชอบสีน้ำเงิน",
+      "meaningHebrew": "אֲנִי אוֹהֵב כָּחֹל",
+      "transliteration": {
+        "hebrew": "פּוֹם צ׳וֹפּ סִי נַם נְגֶן",
+        "latin": "phǒm chɔ̂ɔp sǐi nám ngən"
+      },
+      "wordIDs": [
+        "th-color-blue"
+      ],
+      "slowTransliteration": {
+        "hebrew": "פּוֹם צ׳וֹפּ סִי נַאם נְגֶן",
+        "latin": "phǒm chɔ̂ɔp sǐi náam ngən"
+      },
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/1397c15d29ae9f09f0448f957c19017b28f49d15d59b733d2ca95ca262bf8071.mp3",
+        "normal": "audio/58dedb341447a9cc13187c11e41fc238bd5ae0348573888819e0c10097ae522c.wav",
+        "slow": "audio/f495a6fb8f08dcf4b17666f9d5bb600c592def79f3e520a666bc8d3d814747be.wav"
+      }
+    },
+    {
+      "id": "th-color-sky-blue-example",
+      "kind": "sentence",
+      "target": "ท้องฟ้าสีฟ้า",
+      "meaningHebrew": "הַשָּׁמַיִם בְּצֶבַע תְּכֵלֶת",
+      "transliteration": {
+        "hebrew": "תּוֹנְג פָא סִי פָא",
+        "latin": "thɔ́ɔng fáa sǐi fáa"
+      },
+      "wordIDs": [
+        "th-color-sky-blue"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/025cb00fb39674e323cfa6fddc3d57b1034d27ddd75f8595e709dfa970cd155e.mp3",
+        "normal": "audio/e2f5a0f2397430ce4cc483977d46e310b90e812f6efe4512349c504053e5a6a6.wav",
+        "slow": "audio/be7fb7595e272fff49f13cba020989d50b2cd58124cb77c9682327b931412ed0.wav"
+      }
+    },
+    {
+      "id": "th-color-green-example",
+      "kind": "sentence",
+      "target": "ใบไม้สีเขียว",
+      "meaningHebrew": "הֶעָלִים יְרֻקִּים",
+      "transliteration": {
+        "hebrew": "בַּי מַאי סִי קִיאַו",
+        "latin": "bai máai sǐi khǐao"
+      },
+      "wordIDs": [
+        "th-color-green"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/48bd2fc54d28de2ca38d654eecf34e2702f9ee7b2817f1ffe191be06a7c1ad57.mp3",
+        "normal": "audio/2a6a017a27def8b4a04cc39f13dc0265906bd2d0efab1ca65f5263f5984bb290.wav",
+        "slow": "audio/a6317c59020167e9a61207de2a36e6d4e7e8e7ff97e1fc55056b34f4f8e3d1bd.wav"
+      }
+    },
+    {
+      "id": "th-color-yellow-example",
+      "kind": "sentence",
+      "target": "กล้วยสีเหลือง",
+      "meaningHebrew": "הַבָּנָנָה צְהֻבָּה",
+      "transliteration": {
+        "hebrew": "קְלוּאַי סִי לוּאַנְג",
+        "latin": "klûai sǐi lʉ̌ang"
+      },
+      "wordIDs": [
+        "th-color-yellow"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/0c49a578cb5e91ecb76301cc42aeda007710f9600f9009ac224a261d869b6f77.mp3",
+        "normal": "audio/dcaf755fe9d6389e40c24bdad707e8c0e8c0c27f54235c3d6a19cd15a50112b6.wav",
+        "slow": "audio/76abc030649876ef8f7b76e2d47c93bd6615e652415d8591736512b3feb42133.wav"
+      }
+    },
+    {
+      "id": "th-color-orange-example",
+      "kind": "sentence",
+      "target": "ผมเอาสีส้มครับ",
+      "meaningHebrew": "אֲנִי אֶקַּח כָּתֹם, בְּבַקָּשָׁה",
+      "transliteration": {
+        "hebrew": "פּוֹם אַו סִי סוֹם קְרַפּ",
+        "latin": "phǒm ao sǐi sôm khráp"
+      },
+      "wordIDs": [
+        "th-color-orange"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/10714efd835dad58da015bbfdbca3d438eca7c52850097e241bfaa8ec580e898.mp3",
+        "normal": "audio/93bff4348976605bc6517d93c605c475251857976c54d698563dec8de6db6865.wav",
+        "slow": "audio/bf6ef27d40fe816a504d7e66f62edf90d9ac59d43a1c9866dd88dfbcdf5596c2.wav"
+      }
+    },
+    {
+      "id": "th-color-purple-example",
+      "kind": "sentence",
+      "target": "ดอกไม้สีม่วง",
+      "meaningHebrew": "הַפֶּרַח סָגֹל",
+      "transliteration": {
+        "hebrew": "דוֹק מַאי סִי מוּאַנְג",
+        "latin": "dɔ̀ɔk máai sǐi mûang"
+      },
+      "wordIDs": [
+        "th-color-purple"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/f9ad1febd5aa0f8697f3d489d3077a142d1d4721dd51b7d9cc9e451598ee63d1.mp3",
+        "normal": "audio/15b5b43f1d86fab5251e1be6b09018e8da821fe7b06d133fb411595bdcda705e.wav",
+        "slow": "audio/8f42ac05fb39db5d82143630e1694288125349f650f18725c1420c9f773ddb72.wav"
+      }
+    },
+    {
+      "id": "th-color-pink-example",
+      "kind": "sentence",
+      "target": "มีสีชมพูไหมครับ",
+      "meaningHebrew": "יֵשׁ בְּוָרֹד?",
+      "transliteration": {
+        "hebrew": "מִי סִי צ׳וֹם פּוּ מַי קְרַפּ",
+        "latin": "mii sǐi chom phuu mái khráp"
+      },
+      "wordIDs": [
+        "th-color-pink"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/20e3627f53bb3b16c3c1ba2c11eb4b3d12b1f5c49f16fead066e4cf04e38f66f.mp3",
+        "normal": "audio/e0d2d127d2e590b162839dc81a86ff77bf5c9061ca705c8286938dd479574242.wav",
+        "slow": "audio/3f1b266afe5f0bc2848611062835184cc572453d3cff58874a9c43ecf93b8304.wav"
+      }
+    },
+    {
+      "id": "th-color-white-example",
+      "kind": "sentence",
+      "target": "แมวสีขาว",
+      "meaningHebrew": "הֶחָתוּל לָבָן",
+      "transliteration": {
+        "hebrew": "מֶאֶו סִי קָאו",
+        "latin": "mɛɛo sǐi khǎao"
+      },
+      "wordIDs": [
+        "th-color-white"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/27506f5d6a09190f33e08950a13239e72da93bbf0776bff2651b32d68a47371f.mp3",
+        "normal": "audio/4de1633778ef5e2d4b254bf8118dd0c044353d09a4ff2a28de8013735f919c85.wav",
+        "slow": "audio/3f47f7fcd757c450d9e6f90cc6a2b3169c4692c67c2ff59b9790900b48893104.wav"
+      }
+    },
+    {
+      "id": "th-color-black-example",
+      "kind": "sentence",
+      "target": "รองเท้าสีดำ",
+      "meaningHebrew": "הַנַּעֲלַיִם שְׁחֹרוֹת",
+      "transliteration": {
+        "hebrew": "רוֹנְג תָּאו סִי דַּם",
+        "latin": "rɔɔng tháao sǐi dam"
+      },
+      "wordIDs": [
+        "th-color-black"
+      ],
+      "audio": {
+        "provider": "google",
+        "slowMethod": "imported",
+        "hebrew": "audio/8872b1a38044c52e0901527f12c9dee749a84bd7ca2b25dc279e4348d20251ad.mp3",
+        "normal": "audio/1739f2347cb63459f927e7528cb1a48d8cd1104006d7643e9cab06d95f76923d.wav",
+        "slow": "audio/27f222582750e328bd0b1a066730f94c8cbd49ff42e0251caa5a3a68773f9ed5.wav"
+      }
+    }
+  ]
+}

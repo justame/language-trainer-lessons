@@ -1,0 +1,1462 @@
+{
+  "audio/2e4d41478ef07249adfc21a042eabd8b703d47bacde5f64789053308bf6dce16.mp3": {
+    "path": "cache/2e4d41478ef07249adfc21a042eabd8b703d47bacde5f64789053308bf6dce16.mp3",
+    "sha256": "443c2390361e82818cdc03b3ee65c4d4252475437361fb2f87a7f00efd2e692e",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אָדֹם",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "2e4d41478ef07249adfc21a042eabd8b703d47bacde5f64789053308bf6dce16",
+      "itemID": "th-color-red",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 12581
+  },
+  "audio/be73f519490c2799fe8f1f9e6023929767810f5d9f4136e23ad8e976882e05b9.wav": {
+    "path": "cache/be73f519490c2799fe8f1f9e6023929767810f5d9f4136e23ad8e976882e05b9.wav",
+    "sha256": "f00613267b7d1ff3d2193e4c0853bce8618c58f451691ab769841c6d787c6fc1",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีแดง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "be73f519490c2799fe8f1f9e6023929767810f5d9f4136e23ad8e976882e05b9",
+      "itemID": "th-color-red",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 74924
+  },
+  "audio/de369b3fa4e51f437bb69f5a9bc0c50dbfd61c54496e237d154f4a0bb19d9219.wav": {
+    "path": "cache/de369b3fa4e51f437bb69f5a9bc0c50dbfd61c54496e237d154f4a0bb19d9219.wav",
+    "sha256": "8d0dc453cac338fd858aa1c7bad9bf7efe38a326b984b6725825c09067ae14d8",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีแดง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีแดง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "de369b3fa4e51f437bb69f5a9bc0c50dbfd61c54496e237d154f4a0bb19d9219",
+      "itemID": "th-color-red",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 96300
+  },
+  "audio/26177f0cef8bb3a5c2e3b19a23b3d23975d0dcba8409e7e25d260ca624ef2b47.mp3": {
+    "path": "cache/26177f0cef8bb3a5c2e3b19a23b3d23975d0dcba8409e7e25d260ca624ef2b47.mp3",
+    "sha256": "821ce24bb2ff790833801550ee55c91c6ffa0f004e2bfa027ec4977ff64e4b31",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "כָּחֹל",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "26177f0cef8bb3a5c2e3b19a23b3d23975d0dcba8409e7e25d260ca624ef2b47",
+      "itemID": "th-color-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 13835
+  },
+  "audio/1b627de5b7062af56d009be63d394a6077ddb1ed770a6d4e0223aa923207ddf3.wav": {
+    "path": "cache/1b627de5b7062af56d009be63d394a6077ddb1ed770a6d4e0223aa923207ddf3.wav",
+    "sha256": "e9d32901ad5603baa49d9c57e336337aea649f0351a7d93de77d188b43ea92b3",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีน้ำเงิน",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "1b627de5b7062af56d009be63d394a6077ddb1ed770a6d4e0223aa923207ddf3",
+      "itemID": "th-color-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 71084
+  },
+  "audio/23cb588b588097af068e0416b0b562f9a0fcc9fb871d824dfa714c0fe4515058.wav": {
+    "path": "cache/23cb588b588097af068e0416b0b562f9a0fcc9fb871d824dfa714c0fe4515058.wav",
+    "sha256": "502e15cf19e69e38a597509fae714dac4d463cf978a2f7d41910eeb203cd836e",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีน้ำเงิน\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีน้ำเงิน",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "23cb588b588097af068e0416b0b562f9a0fcc9fb871d824dfa714c0fe4515058",
+      "itemID": "th-color-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 106380
+  },
+  "audio/054403910abedbb6bfd64131756fcb6f75b66a87fb7f63e870d19ffda5fb6067.mp3": {
+    "path": "cache/054403910abedbb6bfd64131756fcb6f75b66a87fb7f63e870d19ffda5fb6067.mp3",
+    "sha256": "9bee3809fc70b95c2fbb36ef57650feccda33f54a3eec6b6731432cbd8a37ec4",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "תְּכֵלֶת",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "054403910abedbb6bfd64131756fcb6f75b66a87fb7f63e870d19ffda5fb6067",
+      "itemID": "th-color-sky-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/d624c25996dc7af553dc6f58d30eb07e5d86c68057b0735d2512e0666ae1c49f.wav": {
+    "path": "cache/d624c25996dc7af553dc6f58d30eb07e5d86c68057b0735d2512e0666ae1c49f.wav",
+    "sha256": "3561e59fb3d3dc661489010a5add1cf25420c2eb8d0e71e3315996940174a7b5",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีฟ้า",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "d624c25996dc7af553dc6f58d30eb07e5d86c68057b0735d2512e0666ae1c49f",
+      "itemID": "th-color-sky-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 53804
+  },
+  "audio/39777b67436f474e51d72b186415a6ffadf1c23b4a1d58d98ce741daecdd44d6.wav": {
+    "path": "cache/39777b67436f474e51d72b186415a6ffadf1c23b4a1d58d98ce741daecdd44d6.wav",
+    "sha256": "a8fd9b028d4eea6f6aa902c8842dc35dc5c361d899ecb4cd15f5e230bbe7f9a7",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีฟ้า\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีฟ้า",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "39777b67436f474e51d72b186415a6ffadf1c23b4a1d58d98ce741daecdd44d6",
+      "itemID": "th-color-sky-blue",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 93420
+  },
+  "audio/88ed758d9ec1c36655d9b90360370ccf6f5f8d70ead582070701dfd5ae1f2f06.mp3": {
+    "path": "cache/88ed758d9ec1c36655d9b90360370ccf6f5f8d70ead582070701dfd5ae1f2f06.mp3",
+    "sha256": "9ae90469e9ddc99d06d2b47eb5733e706a3a18c70c5bb7a55725be0fc3ad4179",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "יָרֹק",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "88ed758d9ec1c36655d9b90360370ccf6f5f8d70ead582070701dfd5ae1f2f06",
+      "itemID": "th-color-green",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/16a24e2777ce434eac6f88ac4cee6db9d4695ec792ed5070d9ef6a42c3fe8460.wav": {
+    "path": "cache/16a24e2777ce434eac6f88ac4cee6db9d4695ec792ed5070d9ef6a42c3fe8460.wav",
+    "sha256": "7dde57262231a6ab263a3a9ef983fd323091b46084426bdac2babe4522269023",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีเขียว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "16a24e2777ce434eac6f88ac4cee6db9d4695ec792ed5070d9ef6a42c3fe8460",
+      "itemID": "th-color-green",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 73004
+  },
+  "audio/666d9c68f2786766b0c4cd464e4ea4c8f8889859cab8eb271071fad1ebf02ee4.wav": {
+    "path": "cache/666d9c68f2786766b0c4cd464e4ea4c8f8889859cab8eb271071fad1ebf02ee4.wav",
+    "sha256": "d4fcc9e18a339f3db59315f341ab8697faea3c0b6444e3f490b39687ad416eea",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีเขียว\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีเขียว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "666d9c68f2786766b0c4cd464e4ea4c8f8889859cab8eb271071fad1ebf02ee4",
+      "itemID": "th-color-green",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 89100
+  },
+  "audio/09dcde034840a312ac6ed2c217485ec9b1f63b888648c9c2976dcc3101a9a3a6.mp3": {
+    "path": "cache/09dcde034840a312ac6ed2c217485ec9b1f63b888648c9c2976dcc3101a9a3a6.mp3",
+    "sha256": "cc2eec1df453d7ba1d81f52d819b044f6715480965d8f331547e2c67a82251f0",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "צָהֹב",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "09dcde034840a312ac6ed2c217485ec9b1f63b888648c9c2976dcc3101a9a3a6",
+      "itemID": "th-color-yellow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/ed37776cf52008458e883e859e00fa9aed00806fc7e1c1931b8476f4fe3afd3e.wav": {
+    "path": "cache/ed37776cf52008458e883e859e00fa9aed00806fc7e1c1931b8476f4fe3afd3e.wav",
+    "sha256": "46f07c6bb6615dbf963ca51d2ae9b8a6675119932e2f05d6d274d60183424866",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีเหลือง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "ed37776cf52008458e883e859e00fa9aed00806fc7e1c1931b8476f4fe3afd3e",
+      "itemID": "th-color-yellow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 49964
+  },
+  "audio/5670a1caf204c66655c21dfce2e1dcdaf0dffbd7a453450fbc5020d891284946.wav": {
+    "path": "cache/5670a1caf204c66655c21dfce2e1dcdaf0dffbd7a453450fbc5020d891284946.wav",
+    "sha256": "75d9612bf08f26ba81a9375efb9303a363f2ec7c7acc792c0aef4a1d0ef3c4a9",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีเหลือง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีเหลือง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "5670a1caf204c66655c21dfce2e1dcdaf0dffbd7a453450fbc5020d891284946",
+      "itemID": "th-color-yellow",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 84780
+  },
+  "audio/9cbb7a280a71767cb8b224ec152c6cda48bf8d489010e5bbf01e1c11e561b75f.mp3": {
+    "path": "cache/9cbb7a280a71767cb8b224ec152c6cda48bf8d489010e5bbf01e1c11e561b75f.mp3",
+    "sha256": "e31264dc61a6d534c7b08473086fa5a203ca9e86d596f0d9172431137038890a",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "כָּתֹם",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "9cbb7a280a71767cb8b224ec152c6cda48bf8d489010e5bbf01e1c11e561b75f",
+      "itemID": "th-color-orange",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 12581
+  },
+  "audio/d22c624b6ef98e634cf5e30d81aaea1dff60fca71c94c6405e1e5cf0fc2ca6c1.wav": {
+    "path": "cache/d22c624b6ef98e634cf5e30d81aaea1dff60fca71c94c6405e1e5cf0fc2ca6c1.wav",
+    "sha256": "99119d86a664567574c01e3537d223d296eedc88ed4087baa83d2777b4ef3f1a",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีส้ม",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "d22c624b6ef98e634cf5e30d81aaea1dff60fca71c94c6405e1e5cf0fc2ca6c1",
+      "itemID": "th-color-orange",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 71084
+  },
+  "audio/8e0f179be512133cc8a4672846de56937bec9744e2624d0138eaad874196a060.wav": {
+    "path": "cache/8e0f179be512133cc8a4672846de56937bec9744e2624d0138eaad874196a060.wav",
+    "sha256": "5819a4e1d60b8c8c9563784a9811fc7b65e99fcb20026c2531dbdc83c559fe63",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีส้ม\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีส้ม",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "8e0f179be512133cc8a4672846de56937bec9744e2624d0138eaad874196a060",
+      "itemID": "th-color-orange",
+      "cached": true
+    },
+    "reviewed": false,
+    "bytes": 100620
+  },
+  "audio/0e0697681adbb5142060f7c763259bbc4d8570620704579e9c056ab4b607e18b.mp3": {
+    "path": "cache/0e0697681adbb5142060f7c763259bbc4d8570620704579e9c056ab4b607e18b.mp3",
+    "sha256": "e23af0f7f4f7b4d154b5e76d6e22ad54f24548cdf48ca955ee0c14beecbcab74",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "סָגֹל",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "0e0697681adbb5142060f7c763259bbc4d8570620704579e9c056ab4b607e18b",
+      "itemID": "th-color-purple",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/c0cc3b25fe2fe1531ab98f7e01c592cfef34c50d799d4215b4ea485db55b965b.wav": {
+    "path": "cache/c0cc3b25fe2fe1531ab98f7e01c592cfef34c50d799d4215b4ea485db55b965b.wav",
+    "sha256": "ad753ef045fabae9dae13923cfd3d8f2912172617739268f4b6790300948c5e2",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีม่วง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "c0cc3b25fe2fe1531ab98f7e01c592cfef34c50d799d4215b4ea485db55b965b",
+      "itemID": "th-color-purple",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 55724
+  },
+  "audio/b6f55f136b728b4c4d9d80f07a2b59feaea6879e869f5d1d4ead7e067c0e7cf6.wav": {
+    "path": "cache/b6f55f136b728b4c4d9d80f07a2b59feaea6879e869f5d1d4ead7e067c0e7cf6.wav",
+    "sha256": "2ecd976d10261516387cfbb98738f7ed389da1fe7d977b48d47856a8d745747b",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีม่วง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีม่วง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "b6f55f136b728b4c4d9d80f07a2b59feaea6879e869f5d1d4ead7e067c0e7cf6",
+      "itemID": "th-color-purple",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 107820
+  },
+  "audio/9dd145dad1a80c0482af6ad5c7c0ab07be96b977150f4dc5c5b57f6a98c760cc.mp3": {
+    "path": "cache/9dd145dad1a80c0482af6ad5c7c0ab07be96b977150f4dc5c5b57f6a98c760cc.mp3",
+    "sha256": "095aa10fa7f40da64d962f8e04dc4345bef6fcce28716d5b6533eca2814b3028",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "וָרֹד",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "9dd145dad1a80c0482af6ad5c7c0ab07be96b977150f4dc5c5b57f6a98c760cc",
+      "itemID": "th-color-pink",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/f8a778efc1ce6cff4d487dffa757775eec730d8f589e86824f851a5582f3c92d.wav": {
+    "path": "cache/f8a778efc1ce6cff4d487dffa757775eec730d8f589e86824f851a5582f3c92d.wav",
+    "sha256": "76e3f0f74b93f7ac47142ad4a47d2bc60270fb1c266978b9b78ed9a1402b25d9",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีชมพู",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "f8a778efc1ce6cff4d487dffa757775eec730d8f589e86824f851a5582f3c92d",
+      "itemID": "th-color-pink",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 99884
+  },
+  "audio/c6bb5b2d3c2d4dceeb1c818cc759396d30352f7a1c323d9923a054f20e2372f0.wav": {
+    "path": "cache/c6bb5b2d3c2d4dceeb1c818cc759396d30352f7a1c323d9923a054f20e2372f0.wav",
+    "sha256": "cdee8efc82796c1e3e7f0ff6609121ff5eac04ed6d50e0c9958572f9154c0580",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีชมพู\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีชมพู",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "c6bb5b2d3c2d4dceeb1c818cc759396d30352f7a1c323d9923a054f20e2372f0",
+      "itemID": "th-color-pink",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 93420
+  },
+  "audio/fedc0cadc1e408f605db4d4a5ca44532e232709a142c7a9d14f36469c2a7df43.mp3": {
+    "path": "cache/fedc0cadc1e408f605db4d4a5ca44532e232709a142c7a9d14f36469c2a7df43.mp3",
+    "sha256": "f72b39ad915f2941c7f6ab1de9bec0dcc7a1b71ac1224516c82f9ca8f37b0ef9",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "לָבָן",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "fedc0cadc1e408f605db4d4a5ca44532e232709a142c7a9d14f36469c2a7df43",
+      "itemID": "th-color-white",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/aedd8cd45e287234e7e1c6ef94e41610a206818e44f620c2a5ff0ab4d5b9beb9.wav": {
+    "path": "cache/aedd8cd45e287234e7e1c6ef94e41610a206818e44f620c2a5ff0ab4d5b9beb9.wav",
+    "sha256": "3f6ae01eb04f4d6114cc62618d864bb084d8550ec5c03b7dffb9165ed7ca23e9",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีขาว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "aedd8cd45e287234e7e1c6ef94e41610a206818e44f620c2a5ff0ab4d5b9beb9",
+      "itemID": "th-color-white",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 82604
+  },
+  "audio/accc47df46442c8792e9b7753e129f74999c4c2afa13c744c313e6552f18ec9b.wav": {
+    "path": "cache/accc47df46442c8792e9b7753e129f74999c4c2afa13c744c313e6552f18ec9b.wav",
+    "sha256": "88f225d98a8027199701c494bca7fb9f4f8318464244ea09b56cc687ed7132d9",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีขาว\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีขาว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "accc47df46442c8792e9b7753e129f74999c4c2afa13c744c313e6552f18ec9b",
+      "itemID": "th-color-white",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 86220
+  },
+  "audio/2777a6da537ff9d4dc267dbdefef3c25a95484f40420db200ebf747d67eb4e98.mp3": {
+    "path": "cache/2777a6da537ff9d4dc267dbdefef3c25a95484f40420db200ebf747d67eb4e98.mp3",
+    "sha256": "b8acdb41c31b6a42aa9bdf506c1a37737df1d1ac3b6798194938018a8d66c095",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "שָׁחֹר",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "2777a6da537ff9d4dc267dbdefef3c25a95484f40420db200ebf747d67eb4e98",
+      "itemID": "th-color-black",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 15089
+  },
+  "audio/d83d87804c1721e408194ccc0956ac9b5682651a6fd459345ed699d96db5878d.wav": {
+    "path": "cache/d83d87804c1721e408194ccc0956ac9b5682651a6fd459345ed699d96db5878d.wav",
+    "sha256": "020b5fabebe4e6fd109023d69099c0f129958349f8bf3ceb693ad80b60b2a7c1",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "สีดำ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "d83d87804c1721e408194ccc0956ac9b5682651a6fd459345ed699d96db5878d",
+      "itemID": "th-color-black",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 61484
+  },
+  "audio/01dd722850de584a6c40f94a437a4e3f6f58b9cf72bd63115d8a11a99bcc7851.wav": {
+    "path": "cache/01dd722850de584a6c40f94a437a4e3f6f58b9cf72bd63115d8a11a99bcc7851.wav",
+    "sha256": "0eb927258da95f25d49fcb42c29af09dbcf20b4a9c22a6d526cdd17a3fd00488",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"สีดำ\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "สีดำ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "01dd722850de584a6c40f94a437a4e3f6f58b9cf72bd63115d8a11a99bcc7851",
+      "itemID": "th-color-black",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 100620
+  },
+  "audio/5f6cc79cac1be72f70a6bf3d66e3978c97b7fdf609c361b22019cd40c99d543d.mp3": {
+    "path": "cache/5f6cc79cac1be72f70a6bf3d66e3978c97b7fdf609c361b22019cd40c99d543d.mp3",
+    "sha256": "b734ee55915dd8651bfe894a5b081d0048c25dfc04f305086edac3c07c3db0e4",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הַחֻלְצָה אֲדֻמָּה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "5f6cc79cac1be72f70a6bf3d66e3978c97b7fdf609c361b22019cd40c99d543d",
+      "itemID": "th-color-red-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/cc4c93c5d473cd4d50fe92bff97c5afa84c648495c4d99d527fde07b44dd1f0f.wav": {
+    "path": "cache/cc4c93c5d473cd4d50fe92bff97c5afa84c648495c4d99d527fde07b44dd1f0f.wav",
+    "sha256": "32408011067fa81cb9b8e1f3fa92151d6fd854be3e5b4527f64a7b181621c4ab",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "เสื้อสีแดง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "cc4c93c5d473cd4d50fe92bff97c5afa84c648495c4d99d527fde07b44dd1f0f",
+      "itemID": "th-color-red-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 61484
+  },
+  "audio/20587c08ae0b95f8fd43115279911437426c4eee3ef40850fdc0b056403c24a4.wav": {
+    "path": "cache/20587c08ae0b95f8fd43115279911437426c4eee3ef40850fdc0b056403c24a4.wav",
+    "sha256": "45a92c3ea4ea5aa8fbb75288dd583f3b51bda90f13b3c6fe8816124af76a9e1a",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"เสื้อสีแดง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "เสื้อสีแดง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "20587c08ae0b95f8fd43115279911437426c4eee3ef40850fdc0b056403c24a4",
+      "itemID": "th-color-red-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 100620
+  },
+  "audio/1397c15d29ae9f09f0448f957c19017b28f49d15d59b733d2ca95ca262bf8071.mp3": {
+    "path": "cache/1397c15d29ae9f09f0448f957c19017b28f49d15d59b733d2ca95ca262bf8071.mp3",
+    "sha256": "c9c0e2b29eab14faf728634fc7a373a4bafd675a146d4a969e26c2b4fe06b955",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי אוֹהֵב כָּחֹל",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "1397c15d29ae9f09f0448f957c19017b28f49d15d59b733d2ca95ca262bf8071",
+      "itemID": "th-color-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 24284
+  },
+  "audio/58dedb341447a9cc13187c11e41fc238bd5ae0348573888819e0c10097ae522c.wav": {
+    "path": "cache/58dedb341447a9cc13187c11e41fc238bd5ae0348573888819e0c10097ae522c.wav",
+    "sha256": "ea35cb489f21c462462acf728350a3afb8f14f5cb6745f71b52dc8eef0b10e46",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "ผมชอบสีน้ำเงิน",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "58dedb341447a9cc13187c11e41fc238bd5ae0348573888819e0c10097ae522c",
+      "itemID": "th-color-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 94124
+  },
+  "audio/f495a6fb8f08dcf4b17666f9d5bb600c592def79f3e520a666bc8d3d814747be.wav": {
+    "path": "cache/f495a6fb8f08dcf4b17666f9d5bb600c592def79f3e520a666bc8d3d814747be.wav",
+    "sha256": "0895eaa72a2fc123f8be8c3beaf3e1e63d0f5ee3a4730a763f0c0a7b3c421098",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"ผมชอบสีน้ำเงิน\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "ผมชอบสีน้ำเงิน",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "f495a6fb8f08dcf4b17666f9d5bb600c592def79f3e520a666bc8d3d814747be",
+      "itemID": "th-color-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 117900
+  },
+  "audio/025cb00fb39674e323cfa6fddc3d57b1034d27ddd75f8595e709dfa970cd155e.mp3": {
+    "path": "cache/025cb00fb39674e323cfa6fddc3d57b1034d27ddd75f8595e709dfa970cd155e.mp3",
+    "sha256": "6b54f0c5ef3a27ca4e9930e2450a6056c50f531b48f035b14b81436f1afeaf65",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הַשָּׁמַיִם בְּצֶבַע תְּכֵלֶת",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "025cb00fb39674e323cfa6fddc3d57b1034d27ddd75f8595e709dfa970cd155e",
+      "itemID": "th-color-sky-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 35569
+  },
+  "audio/e2f5a0f2397430ce4cc483977d46e310b90e812f6efe4512349c504053e5a6a6.wav": {
+    "path": "cache/e2f5a0f2397430ce4cc483977d46e310b90e812f6efe4512349c504053e5a6a6.wav",
+    "sha256": "08ce8d0481b55668cf112611f3b3150376d950b0345d5530e844f3753bc65ba4",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "ท้องฟ้าสีฟ้า",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "e2f5a0f2397430ce4cc483977d46e310b90e812f6efe4512349c504053e5a6a6",
+      "itemID": "th-color-sky-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 105644
+  },
+  "audio/be7fb7595e272fff49f13cba020989d50b2cd58124cb77c9682327b931412ed0.wav": {
+    "path": "cache/be7fb7595e272fff49f13cba020989d50b2cd58124cb77c9682327b931412ed0.wav",
+    "sha256": "004babf6d63f4a712160c06a5e13da786fdba56ab24449dccf3d8b67dff22ac6",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"ท้องฟ้าสีฟ้า\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "ท้องฟ้าสีฟ้า",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "be7fb7595e272fff49f13cba020989d50b2cd58124cb77c9682327b931412ed0",
+      "itemID": "th-color-sky-blue-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 107820
+  },
+  "audio/48bd2fc54d28de2ca38d654eecf34e2702f9ee7b2817f1ffe191be06a7c1ad57.mp3": {
+    "path": "cache/48bd2fc54d28de2ca38d654eecf34e2702f9ee7b2817f1ffe191be06a7c1ad57.mp3",
+    "sha256": "453b8c4298c25b7708934e6c32ba7e22021caa0fc3fc426538b87a4d95fd6581",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הֶעָלִים יְרֻקִּים",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "48bd2fc54d28de2ca38d654eecf34e2702f9ee7b2817f1ffe191be06a7c1ad57",
+      "itemID": "th-color-green-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 29300
+  },
+  "audio/2a6a017a27def8b4a04cc39f13dc0265906bd2d0efab1ca65f5263f5984bb290.wav": {
+    "path": "cache/2a6a017a27def8b4a04cc39f13dc0265906bd2d0efab1ca65f5263f5984bb290.wav",
+    "sha256": "668084b2fd69f44bdf32c1927036eef4b3e00d674d21789b24c1a07926ed94b8",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "ใบไม้สีเขียว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "2a6a017a27def8b4a04cc39f13dc0265906bd2d0efab1ca65f5263f5984bb290",
+      "itemID": "th-color-green-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 90284
+  },
+  "audio/a6317c59020167e9a61207de2a36e6d4e7e8e7ff97e1fc55056b34f4f8e3d1bd.wav": {
+    "path": "cache/a6317c59020167e9a61207de2a36e6d4e7e8e7ff97e1fc55056b34f4f8e3d1bd.wav",
+    "sha256": "59a6c0423249b7989cac44ac4be92afd71fa4396ad0f9f6006da4561485b51e6",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"ใบไม้สีเขียว\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "ใบไม้สีเขียว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "a6317c59020167e9a61207de2a36e6d4e7e8e7ff97e1fc55056b34f4f8e3d1bd",
+      "itemID": "th-color-green-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 89100
+  },
+  "audio/0c49a578cb5e91ecb76301cc42aeda007710f9600f9009ac224a261d869b6f77.mp3": {
+    "path": "cache/0c49a578cb5e91ecb76301cc42aeda007710f9600f9009ac224a261d869b6f77.mp3",
+    "sha256": "67aa24812de43efa660d43baf8635c46afde9b9116830bad009d9e68b0c73c58",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הַבָּנָנָה צְהֻבָּה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "0c49a578cb5e91ecb76301cc42aeda007710f9600f9009ac224a261d869b6f77",
+      "itemID": "th-color-yellow-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 26792
+  },
+  "audio/dcaf755fe9d6389e40c24bdad707e8c0e8c0c27f54235c3d6a19cd15a50112b6.wav": {
+    "path": "cache/dcaf755fe9d6389e40c24bdad707e8c0e8c0c27f54235c3d6a19cd15a50112b6.wav",
+    "sha256": "e3b4a224603899ae6e0cb9e855b81e147a402e4d32640066b2ba98da3cc55b8d",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "กล้วยสีเหลือง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "dcaf755fe9d6389e40c24bdad707e8c0e8c0c27f54235c3d6a19cd15a50112b6",
+      "itemID": "th-color-yellow-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 76844
+  },
+  "audio/76abc030649876ef8f7b76e2d47c93bd6615e652415d8591736512b3feb42133.wav": {
+    "path": "cache/76abc030649876ef8f7b76e2d47c93bd6615e652415d8591736512b3feb42133.wav",
+    "sha256": "9ba29c45110666c4f3088d89ddf8d61aff8aaa3dece55cf42c4d301916d7f1b7",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"กล้วยสีเหลือง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "กล้วยสีเหลือง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "76abc030649876ef8f7b76e2d47c93bd6615e652415d8591736512b3feb42133",
+      "itemID": "th-color-yellow-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 86220
+  },
+  "audio/10714efd835dad58da015bbfdbca3d438eca7c52850097e241bfaa8ec580e898.mp3": {
+    "path": "cache/10714efd835dad58da015bbfdbca3d438eca7c52850097e241bfaa8ec580e898.mp3",
+    "sha256": "c8ecb829c9714a715bf5ef1836972a4d59c569346ae378fccb8f10fbee53c40c",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "אֲנִי אֶקַּח כָּתֹם, בְּבַקָּשָׁה",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "10714efd835dad58da015bbfdbca3d438eca7c52850097e241bfaa8ec580e898",
+      "itemID": "th-color-orange-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 33061
+  },
+  "audio/93bff4348976605bc6517d93c605c475251857976c54d698563dec8de6db6865.wav": {
+    "path": "cache/93bff4348976605bc6517d93c605c475251857976c54d698563dec8de6db6865.wav",
+    "sha256": "b5a430996b97864c32d1d5b77d607f6e09c65d478c3dfda54822509be3df735b",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "ผมเอาสีส้มครับ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "93bff4348976605bc6517d93c605c475251857976c54d698563dec8de6db6865",
+      "itemID": "th-color-orange-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 96044
+  },
+  "audio/bf6ef27d40fe816a504d7e66f62edf90d9ac59d43a1c9866dd88dfbcdf5596c2.wav": {
+    "path": "cache/bf6ef27d40fe816a504d7e66f62edf90d9ac59d43a1c9866dd88dfbcdf5596c2.wav",
+    "sha256": "345fe2715a82c1cefab6df29ee2f01e848c64abeabbf6c8f3cd4789182e83ba7",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"ผมเอาสีส้มครับ\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "ผมเอาสีส้มครับ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "bf6ef27d40fe816a504d7e66f62edf90d9ac59d43a1c9866dd88dfbcdf5596c2",
+      "itemID": "th-color-orange-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 120780
+  },
+  "audio/f9ad1febd5aa0f8697f3d489d3077a142d1d4721dd51b7d9cc9e451598ee63d1.mp3": {
+    "path": "cache/f9ad1febd5aa0f8697f3d489d3077a142d1d4721dd51b7d9cc9e451598ee63d1.mp3",
+    "sha256": "c2d6dba59cce958d9f8a77033752193cac61e8638c34865a16a2b77f40dda8e9",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הַפֶּרַח סָגֹל",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "f9ad1febd5aa0f8697f3d489d3077a142d1d4721dd51b7d9cc9e451598ee63d1",
+      "itemID": "th-color-purple-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 25538
+  },
+  "audio/15b5b43f1d86fab5251e1be6b09018e8da821fe7b06d133fb411595bdcda705e.wav": {
+    "path": "cache/15b5b43f1d86fab5251e1be6b09018e8da821fe7b06d133fb411595bdcda705e.wav",
+    "sha256": "a1cfc246dbe6aed75e4c275f6869b626015bb07402c02032ad8ee53902492726",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "ดอกไม้สีม่วง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "15b5b43f1d86fab5251e1be6b09018e8da821fe7b06d133fb411595bdcda705e",
+      "itemID": "th-color-purple-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 96044
+  },
+  "audio/8f42ac05fb39db5d82143630e1694288125349f650f18725c1420c9f773ddb72.wav": {
+    "path": "cache/8f42ac05fb39db5d82143630e1694288125349f650f18725c1420c9f773ddb72.wav",
+    "sha256": "6e5a42452af743710ff2c48959c2ca15721a546db17a419dd49360b66bbb6464",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"ดอกไม้สีม่วง\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "ดอกไม้สีม่วง",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "8f42ac05fb39db5d82143630e1694288125349f650f18725c1420c9f773ddb72",
+      "itemID": "th-color-purple-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 93420
+  },
+  "audio/20e3627f53bb3b16c3c1ba2c11eb4b3d12b1f5c49f16fead066e4cf04e38f66f.mp3": {
+    "path": "cache/20e3627f53bb3b16c3c1ba2c11eb4b3d12b1f5c49f16fead066e4cf04e38f66f.mp3",
+    "sha256": "d0d0be541ca457b2e51d6c25c80d836902aac34894aff3e6b6c4eec60b899667",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "יֵשׁ בְּוָרֹד?",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "20e3627f53bb3b16c3c1ba2c11eb4b3d12b1f5c49f16fead066e4cf04e38f66f",
+      "itemID": "th-color-pink-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 21358
+  },
+  "audio/e0d2d127d2e590b162839dc81a86ff77bf5c9061ca705c8286938dd479574242.wav": {
+    "path": "cache/e0d2d127d2e590b162839dc81a86ff77bf5c9061ca705c8286938dd479574242.wav",
+    "sha256": "8184a24a99a307732f3d8cdcdbd189f12168b14fc4302adde4acee588616a8a3",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "มีสีชมพูไหมครับ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "e0d2d127d2e590b162839dc81a86ff77bf5c9061ca705c8286938dd479574242",
+      "itemID": "th-color-pink-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 84524
+  },
+  "audio/3f1b266afe5f0bc2848611062835184cc572453d3cff58874a9c43ecf93b8304.wav": {
+    "path": "cache/3f1b266afe5f0bc2848611062835184cc572453d3cff58874a9c43ecf93b8304.wav",
+    "sha256": "9c7d2e7547ae4c37006f4879ce426cae83edee1c0e94c48ecccda7e2f454d135",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"มีสีชมพูไหมครับ\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "มีสีชมพูไหมครับ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "3f1b266afe5f0bc2848611062835184cc572453d3cff58874a9c43ecf93b8304",
+      "itemID": "th-color-pink-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 110700
+  },
+  "audio/27506f5d6a09190f33e08950a13239e72da93bbf0776bff2651b32d68a47371f.mp3": {
+    "path": "cache/27506f5d6a09190f33e08950a13239e72da93bbf0776bff2651b32d68a47371f.mp3",
+    "sha256": "1c9efeb764278837c95998d2baedb08d0c4e7d476b787c5e8f5a7871256ddf6a",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הֶחָתוּל לָבָן",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "27506f5d6a09190f33e08950a13239e72da93bbf0776bff2651b32d68a47371f",
+      "itemID": "th-color-white-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 21358
+  },
+  "audio/4de1633778ef5e2d4b254bf8118dd0c044353d09a4ff2a28de8013735f919c85.wav": {
+    "path": "cache/4de1633778ef5e2d4b254bf8118dd0c044353d09a4ff2a28de8013735f919c85.wav",
+    "sha256": "8da5690c92ec52162118cba2f92045798a62ab61e5719ebea0f2073353569d09",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "แมวสีขาว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "4de1633778ef5e2d4b254bf8118dd0c044353d09a4ff2a28de8013735f919c85",
+      "itemID": "th-color-white-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 90284
+  },
+  "audio/3f47f7fcd757c450d9e6f90cc6a2b3169c4692c67c2ff59b9790900b48893104.wav": {
+    "path": "cache/3f47f7fcd757c450d9e6f90cc6a2b3169c4692c67c2ff59b9790900b48893104.wav",
+    "sha256": "7f6c4b11d7bb894a52df636eaee56c33f81a88f4924e04c591e8516af3d9e4c6",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"แมวสีขาว\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "แมวสีขาว",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "3f47f7fcd757c450d9e6f90cc6a2b3169c4692c67c2ff59b9790900b48893104",
+      "itemID": "th-color-white-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 107820
+  },
+  "audio/8872b1a38044c52e0901527f12c9dee749a84bd7ca2b25dc279e4348d20251ad.mp3": {
+    "path": "cache/8872b1a38044c52e0901527f12c9dee749a84bd7ca2b25dc279e4348d20251ad.mp3",
+    "sha256": "d850ff2e7b0af0a58602deb6ae1b1dc4d7b2aaf6bef7f79a670073ff2c5f790d",
+    "provenance": "ElevenLabs; model eleven_v4; voice ID ZiofZHcEBTn5sRySe5h8; Nimrod - Warm & Confident",
+    "request": {
+      "text": "הַנַּעֲלַיִם שְׁחֹרוֹת",
+      "language": "he",
+      "provider": {
+        "provider": "elevenlabs",
+        "model": "eleven_v4",
+        "voice": "ZiofZHcEBTn5sRySe5h8",
+        "voiceName": "Nimrod - Warm & Confident",
+        "voiceSettings": {
+          "stability": 0.25,
+          "similarity_boost": 0.52
+        },
+        "gender": "male",
+        "languageCode": "he"
+      },
+      "variant": "hebrew",
+      "key": "8872b1a38044c52e0901527f12c9dee749a84bd7ca2b25dc279e4348d20251ad",
+      "itemID": "th-color-black-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 28046
+  },
+  "audio/1739f2347cb63459f927e7528cb1a48d8cd1104006d7643e9cab06d95f76923d.wav": {
+    "path": "cache/1739f2347cb63459f927e7528cb1a48d8cd1104006d7643e9cab06d95f76923d.wav",
+    "sha256": "caab026ed254eef857721caa6fb7babca78ad38ca7220db85bc73b860d9bbb8b",
+    "provenance": "Google Cloud TTS; {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}; 24kHz LINEAR16; transport/payload adapted from Thai Echo",
+    "request": {
+      "text": "รองเท้าสีดำ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "normal",
+      "key": "1739f2347cb63459f927e7528cb1a48d8cd1104006d7643e9cab06d95f76923d",
+      "itemID": "th-color-black-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 80684
+  },
+  "audio/27f222582750e328bd0b1a066730f94c8cbd49ff42e0251caa5a3a68773f9ed5.wav": {
+    "path": "cache/27f222582750e328bd0b1a066730f94c8cbd49ff42e0251caa5a3a68773f9ed5.wav",
+    "sha256": "b1323903a9f81eb278526157697dfb5c65c220db4f206527f0f7934dcf10fb1d",
+    "provenance": "Google Cloud TTS separate slow synthesis; exact request {\"audioConfig\": {\"audioEncoding\": \"LINEAR16\", \"sampleRateHertz\": 24000, \"speakingRate\": 0.8}, \"input\": {\"text\": \"รองเท้าสีดำ\"}, \"voice\": {\"languageCode\": \"th-TH\", \"name\": \"th-TH-Chirp3-HD-Erinome\"}}",
+    "request": {
+      "text": "รองเท้าสีดำ",
+      "language": "th-TH",
+      "provider": {
+        "provider": "google",
+        "voice": "th-TH-Chirp3-HD-Erinome",
+        "languageCode": "th-TH"
+      },
+      "variant": "slow",
+      "slow": {
+        "method": "imported",
+        "provider": "google",
+        "speakingRate": 0.8,
+        "voice": "th-TH-Chirp3-HD-Erinome"
+      },
+      "key": "27f222582750e328bd0b1a066730f94c8cbd49ff42e0251caa5a3a68773f9ed5",
+      "itemID": "th-color-black-example",
+      "cached": false
+    },
+    "reviewed": false,
+    "bytes": 107820
+  }
+}

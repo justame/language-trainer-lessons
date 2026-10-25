@@ -49,6 +49,14 @@
       "version": "1"
     },
     {
+      "id": "thai-colors",
+      "language": "Thai",
+      "languageCode": "th-TH",
+      "path": "lessons/thai-colors/1",
+      "title": "Colors · צבעים",
+      "version": "1"
+    },
+    {
       "id": "thai-echo-day-012",
       "language": "Thai",
       "languageCode": "th-TH",
