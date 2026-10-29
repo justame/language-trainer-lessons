@@ -1,0 +1,1802 @@
+{
+  "schemaVersion": 1,
+  "id": "arabic-starter",
+  "version": "8",
+  "title": "Everyday Palestinian Arabic",
+  "baseLanguage": "he-IL",
+  "targetLanguage": {
+    "code": "ar-PS",
+    "name": "Palestinian Arabic",
+    "dialect": "Urban Palestinian"
+  },
+  "reviewStatus": "Listening preview — pronunciation awaits user review",
+  "items": [
+    {
+      "id": "ar-coffee",
+      "kind": "word",
+      "target": "قَهْوِة",
+      "meaningHebrew": "קָפֶה",
+      "transliteration": {
+        "latin": "ˈʾah.we",
+        "hebrew": "[אַה]־וֶ"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "h"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 2,
+          "phones": [
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/fd95c389084f4bac6ad71c59d7542a33fc7c27b9f3e11526640a09a84cdd1a0c.mp3",
+        "normal": "audio/11a99c9a92a5a0447730b43cd1769ba217f682c903cbb5423d7072291336d3df.mp3",
+        "slow": "audio/c1a6be9a2dd283855802d2fc783126cd5c30cb80a578f0f612b40e60cbe4b82b.mp3"
+      }
+    },
+    {
+      "id": "ar-coffee-please",
+      "kind": "sentence",
+      "target": "بِدِّي قَهْوِة، لَو سَمَحْت.",
+      "meaningHebrew": "אֲנִי רוֹצֶה קָפֶה, בְּבַקָּשָׁה.",
+      "transliteration": {
+        "latin": "ˈbid.di ˈʾah.we, law sa.ˈmaḥt.",
+        "hebrew": "[בִּד]־דִי [אַה]־וֶ, לַו סַ־[מַחְת]."
+      },
+      "wordIDs": [
+        "ar-coffee"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "d",
+            "d",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "h"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 2,
+          "phones": [
+            "w",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "l",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "w"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "s",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "m",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/68c000590dc6b14f6985f02f861b3427af6ec2f948bde0ca1978bbc8da48fcd3.mp3",
+        "normal": "audio/67d2feb7cd6f7d424f4b00987f4f0c029f306626dbcdeb794ede3b6eef7feca4.mp3",
+        "slow": "audio/9af98b55248fd4bc8e95fd0b0606d1f46f86db9cd41f6f15ec9c6275b7198422.mp3"
+      }
+    },
+    {
+      "id": "ar-water",
+      "kind": "word",
+      "target": "مَيّ",
+      "meaningHebrew": "מַיִם",
+      "transliteration": {
+        "latin": "mayy",
+        "hebrew": "מַיּ"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "m",
+            "a",
+            "j",
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/2da14bde5fac436cbd5bffb21ac65a613787459a2a5dc4e47721ee868e8e8e07.mp3",
+        "normal": "audio/f268b96323e8f26f441716fc63d73bf854515155a98c27adfc4de6956dd4cf50.mp3",
+        "slow": "audio/f07c97bce3c2772944dd7668262daab8bea414765e0d3aca4638e1c167e76b94.mp3"
+      }
+    },
+    {
+      "id": "ar-water-glass",
+      "kind": "sentence",
+      "target": "بِدِّي كَاسِة مَيّ بَارْدِة.",
+      "meaningHebrew": "אֲנִי רוֹצֶה כּוֹס מַיִם קָרִים.",
+      "transliteration": {
+        "latin": "ˈbid.di ˈkā.set mayy ˈbār.de.",
+        "hebrew": "[בִּד]־דִי [כַּא]־סֶת מַיּ [בַּאר]־דֶ."
+      },
+      "wordIDs": [
+        "ar-water"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "d",
+            "d",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "k",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 2,
+          "phones": [
+            "s",
+            "e",
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 2,
+          "phones": [
+            "m",
+            "a",
+            "j",
+            "j"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "b",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "r"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "d",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/eef11ee20404128baff53461ea7f2cdaa7b4556eb20ceb55aba9f7026e28948d.mp3",
+        "normal": "audio/f1df009a7f50e5bc30486567c58f57cadfcd623f6810e2751ff1b55d09d6ced0.mp3",
+        "slow": "audio/bb54a2c52884b76aa396b9a41cdfe79ae07b77f186605551859499bfe9f702fa.mp3"
+      }
+    },
+    {
+      "id": "ar-food",
+      "kind": "word",
+      "target": "أَكْل",
+      "meaningHebrew": "אֹכֶל",
+      "transliteration": {
+        "latin": "ʾakl",
+        "hebrew": "אַכְּל"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ee1b15f12cd054e7bb75df1a1d0d955c69dd7a1fb9f4cad502acdabd904f2f0a.mp3",
+        "normal": "audio/7e47744f0e1f28edc82d032dd3b00ceddc1e24cc6351cb90c766ba01713b91b4.mp3",
+        "slow": "audio/3368b46a912d5f18af35c1d5876a934570c649bff1e8bcf429e4a74667238eeb.mp3"
+      }
+    },
+    {
+      "id": "ar-food-tasty",
+      "kind": "sentence",
+      "target": "الْأَكْل هُون كْتِير زَاكِي.",
+      "meaningHebrew": "הָאֹכֶל פֹּה מְאוֹד טָעִים.",
+      "transliteration": {
+        "latin": "el-ˈʾakl hōn ktīr ˈzā.ki.",
+        "hebrew": "אֶל־[אַכְּל] הוֹן כְּתִיר [זַא]־כִּי."
+      },
+      "wordIDs": [
+        "ar-food"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 2,
+          "phones": [
+            "h",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "t",
+            "iː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "r"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "z",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 14,
+          "count": 2,
+          "phones": [
+            "k",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/0ce1517a150ea50aefc55552eeaf77a3d35362676575f9a00d63b69419ee526d.mp3",
+        "normal": "audio/1e726b9bd4538b10c2cae390a1c48eb4420b65e1e41a966a15fcc0be73c5b88a.mp3",
+        "slow": "audio/70b3d9a642caf2c75a1820b483af1cee29d8d872df5cd21898bf6fc219b767bc.mp3"
+      }
+    },
+    {
+      "id": "ar-house",
+      "kind": "word",
+      "target": "بَيْت",
+      "meaningHebrew": "בַּיִת",
+      "transliteration": {
+        "latin": "bēt",
+        "hebrew": "בֵּית"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/d877eb2094d47ca09ee1c18230fde3c9d465f3f7f9f7dc4c07fc5d754770977e.mp3",
+        "normal": "audio/0f1803836652115cbd51f725492d819dfd6b0fb8a56d31f12cf2ad1919648621.mp3",
+        "slow": "audio/54061cd80ed44b3fb4e3ac923fd9aa874f0b381bcd12199cd94e3b42e606345d.mp3"
+      }
+    },
+    {
+      "id": "ar-house-going",
+      "kind": "sentence",
+      "target": "أَنَا رَايِح عَ الْبَيْت هَلَّق.",
+      "meaningHebrew": "אֲנִי הוֹלֵךְ הַבַּיְתָה עַכְשָׁו.",
+      "transliteration": {
+        "latin": "ˈʾa.na ˈrā.yiḥ 3a-l-bēt ˈhal.laʾ.",
+        "hebrew": "[אַ]־נַ [רַא]־יִח עַ־ל־בֵּית [הַל]־לַא."
+      },
+      "wordIDs": [
+        "ar-house"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "r",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 2,
+          "phones": [
+            "b",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "t"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "h",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "l",
+            "l",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 15,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/ab5a4b7de315a65665d7b35b42f78c9da633231465545ffd437ac6d25a83c4de.mp3",
+        "normal": "audio/dd6ef4e31faed6f42ff87d0511e6177870275754655b949856e65635c8829200.mp3",
+        "slow": "audio/09812933e5c50ae23a7bbbaee56a1902513353fa1cb9da4f5d2bcda8fc7008ae.mp3"
+      }
+    },
+    {
+      "id": "ar-street",
+      "kind": "word",
+      "target": "شَارِع",
+      "meaningHebrew": "רְחוֹב",
+      "transliteration": {
+        "latin": "ˈšā.re3",
+        "hebrew": "[שַׁא]־רֶע"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "r",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "ʕ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/5e872a85b5fcea29fc6c54bad9a56cb3eb8b4ad48a61b6aa16cce12dfcbd0b00.mp3",
+        "normal": "audio/e4874ec08fca5d90c7e2681fee7c6ef5e29fe412bd05a13c04e9905154611c3f.mp3",
+        "slow": "audio/fb7b05b6617b8219913bfb351f47d98e53d84aac8142cf5d35799bf31720c4a6.mp3"
+      }
+    },
+    {
+      "id": "ar-street-quiet",
+      "kind": "sentence",
+      "target": "الشَّارِع هَادَا كْتِير هَادِي.",
+      "meaningHebrew": "הָרְחוֹב הַזֶּה מְאוֹד שָׁקֵט.",
+      "transliteration": {
+        "latin": "eš-ˈšā.re3 ˈhā.da ktīr ˈhā.di.",
+        "hebrew": "אֶשׁ־[שַׁא]־רֶע [הַא]־דַ כְּתִיר [הַא]־דִי."
+      },
+      "wordIDs": [
+        "ar-street"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה אינה נהגית בפני עצמה; ש הבאה נהגית כפולה. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה אינה נהגית בפני עצמה; ש הבאה נהגית כפולה. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "ʃ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה אינה נהגית בפני עצמה; ש הבאה נהגית כפולה. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "r",
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה אינה נהגית בפני עצמה; ש הבאה נהגית כפולה. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʕ"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה אינה נהגית בפני עצמה; ש הבאה נהגית כפולה. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 6,
+          "count": 2,
+          "phones": [
+            "h",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 2,
+          "phones": [
+            "d",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 2,
+          "phones": [
+            "t",
+            "iː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "r"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 14,
+          "count": 2,
+          "phones": [
+            "h",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 16,
+          "count": 2,
+          "phones": [
+            "d",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/2a65215da8f945052ea464b972154621d317fb83f8312ca24dedae64c6d12c72.mp3",
+        "normal": "audio/c38e3fe83b5a23a874af5738f208366002db790ca279effda473d5244229a32c.mp3",
+        "slow": "audio/93edab2a2d493b081c103ce975d81d185ef2ab1366bce01acd9dc0eeb33c21c9.mp3"
+      }
+    },
+    {
+      "id": "ar-shop",
+      "kind": "word",
+      "target": "دُكَّان",
+      "meaningHebrew": "חֲנוּת, מַכֹּלֶת",
+      "transliteration": {
+        "latin": "duk.ˈkān",
+        "hebrew": "דֻכּ־[כַּאן]"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "d",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "k",
+            "k",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/9eeac3c364fb24aa2ad18fec36d2ed300233c0ca518ceb4f460dc325e597f2fb.mp3",
+        "normal": "audio/56c92ba6ae3c2c7432b50d6ee5c6e5c938d1f54944bb9741e73e7606213ee412.mp3",
+        "slow": "audio/795e8659caf5cb40af696b58484355e74dddbe1bd68ac546377f82e5f12ef65a.mp3"
+      }
+    },
+    {
+      "id": "ar-shop-near",
+      "kind": "sentence",
+      "target": "فِي دُكَّان قَرِيب مِن هُون؟",
+      "meaningHebrew": "יֵשׁ מַכֹּלֶת קְרוֹבָה לְפֹה?",
+      "transliteration": {
+        "latin": "fī duk.ˈkān ʾa.ˈrīb min hōn?",
+        "hebrew": "פִֿי דֻכּ־[כַּאן] אַ־[רִיבּ] מִן הוֹן?"
+      },
+      "wordIDs": [
+        "ar-shop"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "f",
+            "iː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "d",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "k",
+            "k",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 2,
+          "phones": [
+            "r",
+            "iː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "b"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "m",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 2,
+          "phones": [
+            "h",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/e806b8fa819dec6d97f5c20bda9e863f4fea174aa897cbf057963085723ba4ae.mp3",
+        "normal": "audio/4c5bfd4ffd05ef850ce93d0e94d8d7d39f21aad6ba61527a9ec674ead66269ad.mp3",
+        "slow": "audio/e35d9c3c03910853375b8afd77d9c78dfcf690be304846d51135f883dc43dae7.mp3"
+      }
+    },
+    {
+      "id": "ar-today",
+      "kind": "word",
+      "target": "الْيَوْم",
+      "meaningHebrew": "הַיּוֹם",
+      "transliteration": {
+        "latin": "el-ˈyōm",
+        "hebrew": "אֶל־[יוֹם]"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c7684d2f4d536fdde0d5d7c0eb2596b1dbdc7ba4e97e260eea5b4298196d41b1.mp3",
+        "normal": "audio/aaf33a84fd7443cd7cbcdfedf16187437ae325dae1d12bbbeca3b1b4a2a3fd71.mp3",
+        "slow": "audio/5cf23267a157aa7431ff3123263d0bf8d33350451c11ed06706ee8b7389a2bef.mp3"
+      }
+    },
+    {
+      "id": "ar-today-plan",
+      "kind": "sentence",
+      "target": "شُو بِدَّك تِعْمَل الْيَوْم؟",
+      "meaningHebrew": "מָה אַתָּה רוֹצֶה לַעֲשׂוֹת הַיּוֹם?",
+      "transliteration": {
+        "latin": "šu ˈbid.dak ˈti3.mal el-ˈyōm?",
+        "hebrew": "שׁוּ [בִּד]־דַכּ [תִע]־מַל אֶל־[יוֹם]?"
+      },
+      "wordIDs": [
+        "ar-today"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "ʃ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "b",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "d",
+            "d",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "t",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʕ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "m",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 2,
+          "phones": [
+            "j",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/a80f062197b52d0d67c8ac68d8f2056bc21b7382b8937ac32764ba6b2807206c.mp3",
+        "normal": "audio/b75d71e623631aa6daaddd7a9f0c664ef2b6e3125c084c038cb4f48a13402664.mp3",
+        "slow": "audio/e5951df7252bac6b029365f86cdc0c37d9100100dfac633f4588d9aada30cfec.mp3"
+      }
+    },
+    {
+      "id": "ar-tomorrow",
+      "kind": "word",
+      "target": "بُكْرَة",
+      "meaningHebrew": "מָחָר",
+      "transliteration": {
+        "latin": "ˈbuk.ra",
+        "hebrew": "[בֻּכּ]־רַ"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c204270c50b9872a6c65e46968c34dd2d6eb1e1882d4cb60d0ff60a67318ce9d.mp3",
+        "normal": "audio/28b1f951513d76cedae1db2688bbfb7a5063b2ff4d52b228227bd54377f7b2d3.mp3",
+        "slow": "audio/fd7802c174dd95dbe4611392bf400aff2827a4153d80d6bf3810d1e667acc0e7.mp3"
+      }
+    },
+    {
+      "id": "ar-tomorrow-free",
+      "kind": "sentence",
+      "target": "أَنَا فَاضِي بُكْرَة بَعْد الضُّهُر.",
+      "meaningHebrew": "אֲנִי פָּנוּי מָחָר אַחֲרֵי הַצָּהֳרַיִם.",
+      "transliteration": {
+        "latin": "ˈʾa.na ˈfā.ḍi ˈbuk.ra ba3d eḍ-ˈḍu.hur.",
+        "hebrew": "[אַ]־נַ [פַֿא]־דִי [בֻּכּ]־רַ בַּעְד אֶד־[דֻ]־הֻר."
+      },
+      "wordIDs": [
+        "ar-tomorrow"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "n",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "f",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 5,
+          "count": 2,
+          "phones": [
+            "dˤ",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "b",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "k"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 2,
+          "phones": [
+            "r",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "b",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "ʕ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 13,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 14,
+          "count": 1,
+          "phones": [
+            "e"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה נבלעת והעיצור הבא כפול ונחצי. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 15,
+          "count": 1,
+          "phones": [],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה נבלעת והעיצור הבא כפול ונחצי. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 16,
+          "count": 1,
+          "phones": [
+            "dˤ",
+            "dˤ",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה נבלעת והעיצור הבא כפול ונחצי. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 17,
+          "count": 1,
+          "phones": [
+            "h",
+            "u"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה נבלעת והעיצור הבא כפול ונחצי. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 18,
+          "count": 1,
+          "phones": [
+            "r"
+          ],
+          "status": "text-reviewed",
+          "note": "ל של ה״א הידיעה נבלעת והעיצור הבא כפול ונחצי. מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/eaabfb095998118ebb97d7f512f84cbde302c6574e26ee719e9ca6f8f46cad38.mp3",
+        "normal": "audio/53f28cb70ea8a8d50d7a85ad4fd249db310c6aab62c3c6862d45dca07ef070fa.mp3",
+        "slow": "audio/beef35ad8ec4f7ae98764f72480cafd10c04242825da69f7e04fd376b7c5e7c8.mp3"
+      }
+    },
+    {
+      "id": "ar-here",
+      "kind": "word",
+      "target": "هُون",
+      "meaningHebrew": "פֹּה, כָּאן",
+      "transliteration": {
+        "latin": "hōn",
+        "hebrew": "הוֹן"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "h",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/06588051f8c42fbe85cedf6fdd893c77d8cb8aa47cd3f73441ec3955a921b682.mp3",
+        "normal": "audio/ce8e3ed162a1ed6c88add85c64c0510027b3f0d13f96e495013aa0a0e0e516a6.mp3",
+        "slow": "audio/007fe46c384a57a6978de563155c924c54e4723e44519756a94b0038b98eb150.mp3"
+      }
+    },
+    {
+      "id": "ar-here-sit",
+      "kind": "sentence",
+      "target": "تَعَال اُقْعُد هُون جَنْبِي.",
+      "meaningHebrew": "בּוֹא שֵׁב פֹּה לְיָדִי.",
+      "transliteration": {
+        "latin": "ta.ˈ3āl ˈʾuʾ.3od hōn ˈjam.bī.",
+        "hebrew": "תַ־[עַאל] [אֻא]־עֹד הוֹן [גַ׳מ]־בִּי."
+      },
+      "wordIDs": [
+        "ar-here"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 1,
+          "phones": [
+            "t",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 1,
+          "count": 2,
+          "phones": [
+            "ʕ",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 1,
+          "phones": [
+            "l"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 4,
+          "count": 1,
+          "phones": [
+            "ʔ",
+            "u"
+          ],
+          "status": "needs-review",
+          "note": "הבדיקה המקומית של שתי ההקלטות לא הכריעה את התנועות ואת רצף הסדקיות/העיצור הגרוני. Maknuune #26436 נותן 2 u Q 3 u d, אך מקור מילוני אינו הוכחה להגיית ההקלטה. היחידות הלא מוכרעות נשארות מסומנות לבדיקה; אין להציג כאן ק או א כהכרעה אקוסטית."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "הבדיקה המקומית של שתי ההקלטות לא הכריעה את התנועות ואת רצף הסדקיות/העיצור הגרוני. Maknuune #26436 נותן 2 u Q 3 u d, אך מקור מילוני אינו הוכחה להגיית ההקלטה. היחידות הלא מוכרעות נשארות מסומנות לבדיקה; אין להציג כאן ק או א כהכרעה אקוסטית."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ʕ",
+            "o"
+          ],
+          "status": "needs-review",
+          "note": "הבדיקה המקומית של שתי ההקלטות לא הכריעה את התנועות ואת רצף הסדקיות/העיצור הגרוני. Maknuune #26436 נותן 2 u Q 3 u d, אך מקור מילוני אינו הוכחה להגיית ההקלטה. היחידות הלא מוכרעות נשארות מסומנות לבדיקה; אין להציג כאן ק או א כהכרעה אקוסטית."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "d"
+          ],
+          "status": "text-reviewed",
+          "note": "הבדיקה המקומית של שתי ההקלטות לא הכריעה את התנועות ואת רצף הסדקיות/העיצור הגרוני. Maknuune #26436 נותן 2 u Q 3 u d, אך מקור מילוני אינו הוכחה להגיית ההקלטה. היחידות הלא מוכרעות נשארות מסומנות לבדיקה; אין להציג כאן ק או א כהכרעה אקוסטית."
+        },
+        {
+          "start": 8,
+          "count": 2,
+          "phones": [
+            "h",
+            "oː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 10,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 11,
+          "count": 1,
+          "phones": [
+            "dʒ",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 12,
+          "count": 1,
+          "phones": [
+            "m"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 13,
+          "count": 2,
+          "phones": [
+            "b",
+            "iː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/c76113b47d0a6bcc4631a1b89fda51cf6e5563d8042b7fe9b404b1fc7610ab4f.mp3",
+        "normal": "audio/cecf6e764414ac79565ac8f1dc5475ab1a0e26cc0e77a8f5a099031dc52ef207.mp3",
+        "slow": "audio/dec2dbf0034f987d6da9e097dbf813f325368123e0c81b12d3aa3756cf8477f4.mp3"
+      }
+    },
+    {
+      "id": "ar-where",
+      "kind": "word",
+      "target": "وَيْن",
+      "meaningHebrew": "אֵיפֹה, לְאָן",
+      "transliteration": {
+        "latin": "wēn",
+        "hebrew": "וֵין"
+      },
+      "wordIDs": [],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/af188549f1d62bc4ce97066e66bd81d5aaf51595b83d197e37a02689e4d3dc18.mp3",
+        "normal": "audio/0c27ab2d7fe68a2c822f8ffdd5ab9961855abc2dbb1ecd550e1646b516f857e8.mp3",
+        "slow": "audio/fdf0159f41580904f9cf904d67f62da935fd2e9da4a907b87666b16b84d53526.mp3"
+      }
+    },
+    {
+      "id": "ar-where-going",
+      "kind": "sentence",
+      "target": "وَيْن رَايِح هَلَّق؟",
+      "meaningHebrew": "לְאָן אַתָּה הוֹלֵךְ עַכְשָׁו?",
+      "transliteration": {
+        "latin": "wēn ˈrā.yiḥ ˈhal.laʾ?",
+        "hebrew": "וֵין [רַא]־יִח [הַל]־לַא?"
+      },
+      "wordIDs": [
+        "ar-where"
+      ],
+      "letterReadings": [
+        {
+          "start": 0,
+          "count": 2,
+          "phones": [
+            "w",
+            "eː"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 2,
+          "count": 1,
+          "phones": [
+            "n"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 3,
+          "count": 2,
+          "phones": [
+            "r",
+            "aː"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 5,
+          "count": 1,
+          "phones": [
+            "j",
+            "i"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 6,
+          "count": 1,
+          "phones": [
+            "ħ"
+          ],
+          "status": "text-reviewed",
+          "note": "הצורה הפונמית היא רַאיִח (Maknuune #12350). התנועה הקצרה ליד ח הלועית יכולה להישמע בין חיריק לסגול; החיריק כאן הוא קירוב קריאה, לא מדידת צליל מדויקת. ח היא לועית, לא כ רפה."
+        },
+        {
+          "start": 7,
+          "count": 1,
+          "phones": [
+            "h",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 8,
+          "count": 1,
+          "phones": [
+            "l",
+            "l",
+            "a"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        },
+        {
+          "start": 9,
+          "count": 1,
+          "phones": [
+            "ʔ"
+          ],
+          "status": "text-reviewed",
+          "note": "מיפוי טקסט לפי פרופיל השיעור העירוני. הקירוב העברי אינו אישור לאיכות ההקלטה."
+        }
+      ],
+      "audio": {
+        "provider": "elevenlabs",
+        "slowMethod": "synthesis",
+        "hebrew": "audio/942571e4a6c2220535dd733ffa2bbcae19b90ae9e871a77367dba64988bfb606.mp3",
+        "normal": "audio/40c8ef3422651a0babfa6e0723758014fd7b6c3466536f5832f8034b7d2e653b.mp3",
+        "slow": "audio/ac8bc926ab32bd177f4340e3b8b00873aac4c5783d1053ade9e82f6a7935b91f.mp3"
+      }
+    }
+  ],
+  "learnerProfile": {
+    "speakerGender": "male",
+    "addresseeGender": "male",
+    "arabicDialect": "urban Palestinian",
+    "speechInput": "pointed Hebrew and colloquial Arabic; no MSA case endings",
+    "humanPronunciationApproved": false
+  },
+  "pronunciationSources": [
+    {
+      "name": "Maknuune 1.0.1",
+      "url": "https://sites.google.com/nyu.edu/palestine-lexicon/download",
+      "paper": "https://aclanthology.org/2022.wanlp-1.13/",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Dibas, Khairallah, Habash, Sadi, Sairafy, Sarabta, Ardah (2022).",
+      "note": "Selected phonemic facts informed reading aids; actual clips were analyzed locally, with no native-speaker approval."
+    }
+  ]
+}
