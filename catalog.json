@@ -1,6 +1,14 @@
 {
   "lessons": [
     {
+      "id": "arabic-about-me",
+      "language": "Palestinian Arabic",
+      "languageCode": "ar-PS",
+      "path": "lessons/arabic-about-me/1",
+      "title": "About me: work, hobbies, family and friends",
+      "version": "1"
+    },
+    {
       "id": "arabic-conversation-past",
       "language": "Palestinian Arabic",
       "languageCode": "ar-PS",
